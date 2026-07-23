@@ -1,5 +1,0 @@
-{
-  "buildCommand": "node build-manifest.js",
-  "outputDirectory": ".",
-  "framework": null
-}

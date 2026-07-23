@@ -368,56 +368,56 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-/* ── Sync quizzes with manifest ──────────────── */
+/* ── Import questions from folder ────────────── */
 
-(function syncQuizzes() {
-  fetch('questions/manifest.json')
-    .then(r => r.json())
-    .then(files => {
-      const manifestIds = new Set(
-        files.map(f => 'q_' + f.replace(/\.json$/, ''))
-      );
+(function importQuestions() {
+  // List all question files in the questions/ folder
+  const files = [
+    "tttcm_part1.json",
+    "tttcm_part2.json",
+    "tttcm_part3.json",
+    "tttcm_part4.json",
+    "tttcm_part5.json",
+    "tttcm_part6.json",
+    "tttcm_part7.json",
+    "tttcm_part8.json",
+    "tttcm_part9.json",
+    "tttcm_part10.json",
+    "tttcm_part11.json",
+    "tttcm_part12.json",
+    "tttcm_part13.json",
+  ];
 
-      // Remove quizzes that are no longer in the manifest
-      const before = state.quizzes.length;
-      state.quizzes = state.quizzes.filter(q => manifestIds.has(q.id));
-      if (state.quizzes.length !== before) {
-        // If the current quiz was deleted, bail out of it
-        if (state.currentQuiz && !manifestIds.has(state.currentQuiz.id)) {
-          state.currentQuiz = null;
-          state.currentIndex = 0;
-          state.answers = [];
-          state.reviewed = false;
+  const fileIds = new Set(files.map(f => 'q_' + f.replace(/\.json$/, '')));
+
+  // Remove quizzes whose file no longer exists
+  state.quizzes = state.quizzes.filter(q => fileIds.has(q.id));
+
+  // Import files not yet in state
+  const existing = new Set(state.quizzes.map(q => q.id));
+  const toLoad = files.filter(f => !existing.has('q_' + f.replace(/\.json$/, '')));
+  if (toLoad.length === 0) {
+    saveState();
+    renderDashboard();
+    return;
+  }
+
+  let loaded = 0;
+  toLoad.forEach(file => {
+    fetch('questions/' + file)
+      .then(r => r.json())
+      .then(data => {
+        const qs = Array.isArray(data) ? data : (data.questions || []);
+        if (qs.length) {
+          state.quizzes.push({
+            id: 'q_' + file.replace(/\.json$/, ''),
+            name: data.name || file.replace(/\.json$/, ''),
+            questions: qs
+          });
         }
-      }
-
-      // Import quizzes from manifest not yet in state
-      const existingIds = new Set(state.quizzes.map(q => q.id));
-      const toLoad = files.filter(f => !existingIds.has('q_' + f.replace(/\.json$/, '')));
-      if (toLoad.length === 0) {
-        saveState();
-        renderDashboard();
-        return;
-      }
-
-      let loaded = 0;
-      toLoad.forEach(file => {
-        fetch('questions/' + file)
-          .then(r => r.json())
-          .then(data => {
-            const qs = Array.isArray(data) ? data : (data.questions || []);
-            if (qs.length) {
-              state.quizzes.push({
-                id: 'q_' + file.replace(/\.json$/, ''),
-                name: data.name || file.replace(/\.json$/, ''),
-                questions: qs
-              });
-            }
-            loaded++;
-            if (loaded === toLoad.length) { saveState(); renderDashboard(); }
-          })
-          .catch(() => { loaded++; if (loaded === toLoad.length) renderDashboard(); });
-      });
-    })
-    .catch(() => { /* no manifest — skip sync */ });
+        loaded++;
+        if (loaded === toLoad.length) { saveState(); renderDashboard(); }
+      })
+      .catch(() => { loaded++; if (loaded === toLoad.length) renderDashboard(); });
+  });
 })();
