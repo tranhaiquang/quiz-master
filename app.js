@@ -374,7 +374,7 @@ function escapeHtml(str) {
 
 (function importQuestions() {
   // Naming patterns to try: tries {prefix}1.json, {prefix}2.json, ... until 404
-  const patterns = ['tttcm_part', 'quiz_', 'data_', 'q'];
+  const patterns = ['tttcm_part', 'triet_hoc_part', 'quiz_', 'data_', 'q'];
 
   let discovered = [];
   let patternsDone = 0;
