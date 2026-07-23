@@ -1,0 +1,255 @@
+{
+  "name": "TTTCM - Part 3",
+  "questions": [
+    {
+      "question": "Nội dung nào sau đây là đối tượng nghiên cứu của môn học tư tưởng Hồ Chí Minh?",
+      "options": [
+        "Hệ thống các quan điểm, quan niệm, lý luận về cách mạng Việt Nam.",
+        "Các quan điểm thông qua các bài nói, bài viết.",
+        "Quá trình chỉ đạo hoạt động thực tiễn cách mạng Việt Nam.",
+        "Hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Môn học Tư tưởng Hồ Chí Minh có ý nghĩa “Nâng cao năng lực tư duy lý luận và phương pháp công tác” đối với sinh viên, vì:",
+      "options": [
+        "Tư tưởng Hồ Chí Minh góp phần giáo dục đạo đức, tư cách, phẩm chất cách mạng.",
+        "Tư tưởng Hồ Chí Minh trang bị cho sinh viên tri thức khoa học về cách mạng Việt Nam, giúp hình thành năng lực, phương pháp làm việc.",
+        "Tư tưởng Hồ Chí Minh góp phần nâng cao lòng tự hào về Đảng Cộng sản Việt Nam.",
+        "Tư tưởng Hồ Chí Minh giúp cho con người sống có đạo lý, biết yêu cái tốt, ghét cái xấu."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nhận định nào phản ánh giá trị, ý nghĩa, sức hấp dẫn và sức sống lâu bền của tư tưởng Hồ Chí Minh?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể nước ta.",
+        "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam.",
+        "Tư tưởng Hồ Chí Minh là sự kế thừa và phát triển các giá trị truyền thống dân tộc, tiếp thu tinh hoa văn hóa nhân loại.",
+        "Tư tưởng Hồ Chí Minh là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc, mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nghiên cứu, giảng dạy, học tập tư tưởng Hồ Chí Minh cần dựa trên:",
+      "options": [
+        "những quy luật cơ bản của phép biện chứng.",
+        "các phương pháp, quan điểm Nho giáo và chủ nghĩa Mác - Lênin.",
+        "lập trường giai cấp công nhân và quan điểm chủ nghĩa Mác - Lênin.",
+        "những phương pháp, quan điểm truyền thống và hiện đại."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nội dung nào sau đây phản ánh đúng mối quan hệ giữa chủ nghĩa Mác - Lênin với tư tưởng Hồ Chí Minh?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh là sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, thuộc hệ tư tưởng Mác - Lênin.",
+        "Tư tưởng Hồ Chí Minh độc lập với hệ tư tưởng Mác - Lênin.",
+        "Tư tưởng Hồ Chí Minh là kinh nghiệm thực tiễn của cách mạng Việt Nam.",
+        "Tư tưởng Hồ Chí Minh là hệ thống quan điểm mang tính đạo đức, độc lập với chủ nghĩa Mác -"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Lênin. Hãy chỉ ra nhận định đúng về mối quan hệ giữa tư tưởng Hồ Chí Minh với tư tưởng của Đảng?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh là một bộ phận tư tưởng của Đảng.",
+        "Tư tưởng Hồ Chí Minh độc lập với tư tưởng của Đảng.",
+        "Tư tưởng Hồ Chí Minh là một bộ phận tư tưởng của Đảng, với tư cách là bộ phận nền tảng tư tưởng.",
+        "Tư tưởng Hồ Chí Minh là một bộ phận của chủ nghĩa Mác - Lênin, đồng thời là bộ phận nền tảng tư tưởng của Đảng."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nội dung nào sau đây phản ánh đúng nhất khái niệm tư tưởng Hồ Chí Minh?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
+        "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo và phát triển chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta.",
+        "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta.",
+        "Tư tưởng Hồ Chí Minh là kết quả sự phát triển sáng tạo chủ nghĩa Mác - Lênin của Hồ Chí"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Minh xuất phát từ thực tiễn cách mạng Việt Nam. Để đảm bảo sự thống nhất nguyên tắc tính đảng và tính khoa học, khi nghiên cứu tư tưởng Hồ Chí Minh phải:",
+      "options": [
+        "đứng trên lập trường, quan điểm, phương pháp luận của giai cấp công nhân và nhân dân lao động.",
+        "đứng trên lập trường, quan điểm, phương pháp luận của chủ nghĩa Mác - Lênin và quan điểm, đường lối của Đảng Cộng sản Việt Nam.",
+        "đứng trên lập trường, quan điểm, đường lối của Đảng Cộng sản Việt Nam.",
+        "đứng trên lập trường, quan điểm, phương pháp luận của khối liên minh công - nông - trí thức và quan điểm, đường lối của Đảng Cộng sản Việt Nam."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Cách tiếp cận tư tưởng Hồ Chí Minh qua các lĩnh vực như chính trị, kinh tế, văn hóa... là tiếp cận:",
+      "options": [
+        "Dưới góc độ đời sống vật chất và tinh thần.",
+        "Như hệ thống các quan điểm cách mạng Việt Nam.",
+        "Gắn với các lĩnh vực đời sống xã hội.",
+        "Hệ thống tri thức tổng hợp."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nội dung cơ bản của thời kỳ 1930 - 1941 trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh là gì?",
+      "options": [
+        "Hình thành tư tưởng yêu nước và chí hướng cứu nước.",
+        "Tìm thấy con đường cứu nước, giải phóng dân tộc.",
+        "Hình thành cơ bản tư tưởng về cách mạng Việt Nam.",
+        "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Luận điểm: “Tư tưởng Hồ Chí Minh là sản phẩm của dân tộc và thời đại, nó trường tồn bất diệt, là tài sản vô giá của dân tộc ta” khẳng định điều gì?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh là học thuyết về cách mạng giải phóng dân tộc. B.Tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho hành động của cách mạng Việt Nam.",
+        "Các mốc thời gian gắn với những sự kiện lịch sử lớn của đất nước.",
+        "Những ảnh hưởng lớn của Hồ Chí Minh đối với cách mạng Việt Nam.",
+        "Sự ảnh hưởng của chủ nghĩa Mác - Lênin đối với phương Đông nói chung và Việt Nam nói riêng."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nội dung nào sau đây khẳng định sự hình thành tư tưởng Hồ Chí Minh về cách mạng giải phóng dân tộc theo khuynh hướng vô sản?",
+      "options": [
+        "Quá trình học tập, nghiên cứu chủ nghĩa Mác - Lênin và hoạt động cách mạng ở nhiều nước",
+        "Tiếp thu truyền thống yêu nước và tinh thần đấu tranh của dân tộc",
+        "Sử dụng báo chí để tố cáo chủ nghĩa thực dân và thức tỉnh lương tri nhân loại",
+        "Truyền bá chủ nghĩa Mác - Lênin về Việt Nam, tiến tới thành lập Đảng Cộng sản"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nội dung nào sau đây đề cập đến giá trị tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam?",
+      "options": [
+        "Góp phần tích cực vào mục tiêu hòa bình, độc lập dân tộc và chủ nghĩa xã hội",
+        "Mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc",
+        "Là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam",
+        "Bổ sung vào kho tàng lý luận của chủ nghĩa Mác - Lênin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nhận xét “Ỷ Pháp cầu tiến bộ” của Nguyễn Ái Quốc dùng để phê phán khuynh hướng cứu nước của ai?",
+      "options": [
+        "Phan Bội Châu",
+        "Hoàng Hoa Thám",
+        "Phan Chu Trinh",
+        "Phan Đình Phùng"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Phong trào yêu nước theo khuynh hướng dân chủ tư sản ở Việt Nam đầu thế kỷ XX bao gồm những phong trào nào sau đây?",
+      "options": [
+        "Đông Du, Duy Tân, Đông Kinh Nghĩa Thục",
+        "Cần Vương, Yên Thế, chống đi phu",
+        "Cần Vương, Đông Du, Duy Tân",
+        "Đông Du, chống sưu thuế Trung Kỳ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nhận định nào sau đây phản ánh đúng ý nghĩa lịch sử của việc Nguyễn Ái Quốc gửi Bản Yêu sách của nhân dân An Nam đến Hội nghị Vécxây năm 1919?",
+      "options": [
+        "Đánh dấu bước chuyển từ lòng yêu nước theo khuynh hướng phong kiến sang khuynh hướng tư sản.",
+        "Khẳng định bước phát triển mới trong nhận thức chính trị - từ yêu nước đến đấu tranh đòi quyền dân tộc cơ bản.",
+        "Biểu hiện sự hợp tác giữa nhân dân Việt Nam và chính quyền thực dân Pháp trong cải cách dân chủ.",
+        "Đặt nền móng cho việc thành lập Đảng Cộng sản Việt Nam."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nhận xét “Đưa hổ cửa trước, rước beo cửa sau” của Nguyễn Ái Quốc dùng để phê phán khuynh hướng cứu nước của ai?",
+      "options": [
+        "Phan Chu Trinh",
+        "Hoàng Hoa Thám",
+        "Phan Bội Châu",
+        "Phan Đình Phùng"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nội dung nào đề cập đúng về quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, thời kỳ 1941-1969?",
+      "options": [
+        "Tư tưởng Hồ Chí Minh tiếp tục phát triển, soi đường cho sự nghiệp cách mạng của Đảng",
+        "Chấm dứt cuộc khủng hoảng về đường lối và tổ chức lãnh đạo cách mạng Việt Nam",
+        "Đẩy mạnh hoạt động lý luận chính trị, tổ chức, chuẩn bị cho việc thành lập Đảng",
+        "Nhận thức mới về quyền tự do, dân chủ qua Yêu sách của nhân dân An Nam"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nội dung nào đề cập đến giá trị tư tưởng Hồ Chí Minh đối với sự phát triển và tiến bộ của nhân loại?",
+      "options": [
+        "Đưa cách mạng dân tộc Việt Nam đến thắng lợi hoàn toàn.",
+        "Góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội.",
+        "Chủ nghĩa xã hội là minh chứng hùng hồn và sự lựa chọn cho các nước tư bản.",
+        "Là nền tảng tư tưởng và kim chỉ nam cho hành động."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, “tùy hoàn cảnh mà các dân tộc phát triển theo con đường khác nhau”, điều đó có nghĩa là con đường đi lên chủ nghĩa xã hội của mỗi dân tộc:",
+      "options": [
+        "Có ý nghĩa cụ thể trong từng giai đoạn lịch sử",
+        "Là khác nhau, phù hợp với điều kiện, đặc điểm của mỗi dân tộc",
+        "Có tính phổ biến và đặc thù",
+        "Tuân theo quy luật chung của cách mạng vô sản thế giới"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tư duy của Hồ Chí Minh về cách mạng dân tộc dân chủ là cơ sở để tiến lên cách mạng xã hội chủ nghĩa được thể hiện rõ trong phát biểu nào sau đây?",
+      "options": [
+        "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+        "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+        "Muốn cứu nước và giải phóng dân tộc, không có con đường nào khác con đường cách mạng vô sản.",
+        "Dân tộc, dân chủ và chủ nghĩa xã hội đó là con đường mà Việt Nam phải thực hiện."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, sự khác biệt căn bản giữa xã hội xã hội chủ nghĩa với xã hội cộng sản chủ nghĩa là gì?",
+      "options": [
+        "Chủ nghĩa xã hội vẫn còn chút ít vết tích xã hội cũ.",
+        "Chủ nghĩa xã hội là giai đoạn đầu của chủ nghĩa cộng sản.",
+        "Chủ nghĩa xã hội là cơ sở của chủ nghĩa cộng sản.",
+        "Chủ nghĩa xã hội là xã hội không còn giai cấp."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, trong mối quan hệ với chủ nghĩa xã hội, độc lập dân tộc trước hết là:",
+      "options": [
+        "Mục tiêu, định hướng.",
+        "Cơ sở, tiền đề.",
+        "Động lực.",
+        "Chân lý."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, chủ nghĩa xã hội có vai trò và ý nghĩa như thế nào đối với độc lập dân tộc?",
+      "options": [
+        "Là điều kiện bảo đảm cho nền độc lập được vững chắc, lâu dài.",
+        "Là kết quả tất yếu sau khi giành được độc lập dân tộc.",
+        "Là thước đo thể hiện giá trị của nền độc lập dân tộc.",
+        "Là xu thế tất yếu của các dân tộc sau khi giành được độc lập."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Thực chất của vấn đề dân tộc thuộc địa theo quan điểm Hồ Chí Minh là gì?",
+      "options": [
+        "Đòi quyền bình đẳng giữa các dân tộc.",
+        "Đòi quyền tự do dân chủ cho nhân dân và từng bước tiến lên chủ nghĩa xã hội..",
+        "Đấu tranh giải phóng dân tộc.",
+        "Đấu tranh chống chủ nghĩa thực dân, giải phóng dân tộc giành độc lập dân tộc, thực hiện quyền dân tộc tự quyết."
+      ],
+      "correct": 3
+    }
+  ]
+}

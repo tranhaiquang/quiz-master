@@ -1,0 +1,255 @@
+{
+  "name": "TTTCM - Part 10",
+  "questions": [
+    {
+      "question": "Theo Hồ Chí Minh, nguyên tắc đầu tiên cần phải tuân thủ trong quá trình xây dựng chủ nghĩa xã hội ở Việt Nam là gì?",
+      "options": [
+        "Phải giữ vững độc lập dân tộc.",
+        "Xây đi đôi với chống và giữ vững định hướng trong quá trình thực hiện nhiệm vụ cách mạng.",
+        "Mọi tư tưởng, hành động phải được thực hiện trên nền tảng chủ nghĩa Mác - Lênin",
+        "Phải đoàn kết, học tập kinh nghiệm của các nước anh em."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, điều kiện đầu tiên để bảo đảm độc lập dân tộc gắn liền với chủ nghĩa xã hội ở Việt Nam là gì?",
+      "options": [
+        "Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới.",
+        "Phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông.",
+        "Phải bảo đảm vai trò lãnh đạo tuyệt đối của Đảng Cộng sản.",
+        "Phải thực hiện phương châm dần dần, thận trọng từng bước thực hiện tốt các mục tiêu của từng thời kỳ cách mạng."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, nhiệm vụ hàng đầu của cách mạng tư sản dân quyền ở Việt Nam là gì?",
+      "options": [
+        "Đánh đổ đế quốc và bọn phong kiến, làm cho nước Nam được hoàn toàn độc lập.",
+        "Chống đế quốc và phong kiến phải được thực hiện đồng thời, khăng khít với nhau.",
+        "Chống đế quốc, phong kiến và “người cày có ruộng”.",
+        "Đấu tranh giai cấp, chống đế quốc và phong kiến tay sai."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo Tư tưởng Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi cần phải:",
+      "options": [
+        "Được tiến hành một cách chủ động và sáng tạo.",
+        "Dựa vào sự ủng hộ của bạn bè thế giới.",
+        "Dựa vào sự thắng lợi của cách mạng chính quốc.",
+        "Phụ thuộc vào cách mạng tư sản thế giới."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nguyễn Ái Quốc gửi Bản yêu sách tám điểm tới hội nghị Véc-Xây nhằm mục đích gì?",
+      "options": [
+        "Đòi quyền tự do độc lập cho nhân dân Việt Nam.",
+        "Đòi quyền dân chủ, tự quyết cho nhân dân An Nam.",
+        "Đòi quyền tự do, dân chủ cho nhân dân An Nam.",
+        "Đòi thả tù chính trị Việt Nam tại Pháp."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, tính chất và nhiệm vụ hàng đầu của cách mạng thuộc địa là:",
+      "options": [
+        "Độc lập dân tộc.",
+        "Giải phóng giai cấp.",
+        "Giải phóng dân tộc.",
+        "Giải phóng giai cấp giành độc lập cho dân tộc."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, hai ngành kinh tế chủ yếu được xem là “hai chân” của nền kinh tế nước nhà là:",
+      "options": [
+        "Công nghiệp và nông nghiệp",
+        "Nông nghiệp và thương nghiệp",
+        "Công nghiệp và thương nghiệp",
+        "Thương nghiệp và dịch vụ."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nhận định nào sau đây phản ánh đúng quan điểm của Hồ Chí Minh về nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội?",
+      "options": [
+        "Phân phối chủ yếu theo kết quả lao động của mỗi người.",
+        "Phân phối chủ yếu theo nhu cầu, bảo đảm công bằng tuyệt đối.",
+        "Phân phối chủ yếu theo địa vị xã hội và đóng góp vốn.",
+        "Phân phối bình quân giữa các thành viên trong xã hội.."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo Hồ Chí Minh, lực lượng quyết định thắng lợi của sự nghiệp xây dựng chủ nghĩa xã hội là ai?",
+      "options": [
+        "Giai cấp nông dân",
+        "Nhân dân lao động",
+        "Đảng Cộng sản Việt Nam",
+        "Toàn thể dân tộc Việt Nam"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, đối tượng của cách mạng thuộc địa là:",
+      "options": [
+        "Giai cấp tư bản bản xứ.",
+        "Giai cấp địa chủ nói chung.",
+        "Chủ nghĩa thực dân Pháp.",
+        "Chủ nghĩa thực dân và tay sai phản động."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo Hồ Chí Minh, phát triển đồng thời công nghiệp và nông nghiệp có ý nghĩa gì đối với sự nghiệp xây dựng chủ nghĩa xã hội ở Việt Nam?",
+      "options": [
+        "Góp phần xây dựng nền kinh tế cân đối, vững chắc, đáp ứng cả nhu cầu sản xuất và đời sống nhân dân.",
+        "Giúp tập trung nguồn lực cho xuất khẩu, tăng thu ngoại tệ cho đất nước.",
+        "Bảo đảm ưu tiên tuyệt đối cho công nghiệp nặng để đi lên chủ nghĩa xã hội nhanh hơn.",
+        "Tách biệt hai ngành để tránh cạnh tranh nguồn lực và thị trường lao động."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo Hồ Chí Minh, vì sao Nhà nước cần có cơ chế kiểm soát quyền lực?",
+      "options": [
+        "Để đảm bảo quyền lực nhà nước không bị lạm dụng và phục vụ Nhân dân hiệu quả hơn",
+        "Để giới hạn quyền tự do, tránh sự lạm quyền của cán bộ, công chức và các cơ quan quản lý nhà nước",
+        "Để đảm bảo chính quyền có thể hoạt động hiệu năng, hiệu lực và hiệu quả",
+        "Để tập trung quyền lực và thượng tôn pháp luật"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Quan điểm \"Phải làm cho tất cả mọi đảng viên bày tỏ hết ý kiến của mình ở trong Đảng, tức là khơi dậy tinh thần trách nhiệm và tính tích cực chủ động của tất cả đảng viên\" của Hồ Chí Minh đề cập đến nội dung nào?",
+      "options": [
+        "Dân chủ trong xã hội.",
+        "Tập trung trong Đảng.",
+        "Tập trung dân chủ.",
+        "Dân chủ trong Đảng."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo Hồ Chí Minh, cán bộ, công chức “làm sao cho được lòng dân, dân tin, dân mến, dân yêu” là biểu hiện của:",
+      "options": [
+        "Nhà nước của nhân dân.",
+        "Nhà nước do nhân dân.",
+        "Nhà nước vì nhân dân.",
+        "Nhà nước của toàn dân"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, việc xây dựng Nhà nước pháp quyền phải gắn với điều gì?",
+      "options": [
+        "Thượng tôn pháp luật và phát huy quyền làm chủ của Nhân dân",
+        "Xây dựng hệ thống pháp luật gắn với mọi hoạt động xã hội",
+        "Tăng cường quyền lực cho cán bộ, công chức trong bộ máy Nhà nước",
+        "Tổ chức Nhân dân vào các hoạt động chính trị"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ý nghĩa chính của nguyên tắc Hồ Chí Minh nêu: “Đảng phải luôn giữ vững kỷ luật nghiêm minh, tự giác” là gì?",
+      "options": [
+        "Yêu cầu mọi đảng viên phải tuyệt đối trung thành",
+        "Đảm bảo rằng mọi quyết định của lãnh đạo luôn được thực hiện",
+        "Giúp Đảng hoạt động chặt chẽ, thống nhất, tránh tình trạng suy thoái tư tưởng",
+        "Giữ vững vị trí lãnh đạo của Đảng và bảo đảm sự kiểm tra, giám sát của Nhân dân"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tại sao Hồ Chí Minh nhấn mạnh nguyên tắc “dân là chủ, dân làm chủ”?",
+      "options": [
+        "Vì Nhà nước không tách rời Nhân dân để thực hiện quản lý hiệu quả",
+        "Vì Nhân dân tổ chức nên bộ máy nhà nước và giám sát chính quyền",
+        "Vì Nhà nước cần tập trung quyền lực và bảo hiệu quả tinh thần pháp quyền",
+        "Vì quyền lực Nhà nước xuất phát từ Nhân dân và phải phục vụ Nhân dân"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nguyên tắc tập trung dân chủ trong Đảng có ý nghĩa gì?",
+      "options": [
+        "Cho phép mỗi đảng viên có quyền quyết định và tổ chức thực hiện chính sách",
+        "Đảm bảo mọi quyết định của Đảng được thảo luận dân chủ nhưng khi đã quyết định thì phải thực hiện nghiêm túc",
+        "Giúp các tổ chức và đảng viên trong Đảng có quyền tham gia lãnh đạo mà không cần tuân theo kỷ luật chung",
+        "Chỉ có cơ quan lãnh đạo cấp trên mới có quyền quyết định mọi vấn đề của tổ chức đảng cấp dưới"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tại sao Hồ Chí Minh yêu cầu Đảng Cộng sản Việt Nam phải luôn đổi mới phương thức lãnh đạo?",
+      "options": [
+        "Vì Đảng là con nòi của dân tộc Việt Nam",
+        "Vì các phương thức lãnh đạo truyền thống không còn phù hợp với sự phát triển của Đảng",
+        "Vì Đảng cần thay đổi để thích ứng với các đảng phái khác",
+        "Để phù hợp với yêu cầu của thời đại và điều kiện thực tiễn của đất nước"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo Hồ Chí Minh, nguyên tắc tự phê bình và phê bình trong Đảng có vai trò gì?",
+      "options": [
+        "Giúp Đảng và đảng viên sửa chữa khuyết điểm, nâng cao phẩm chất cách mạng",
+        "Là công cụ để trui rèn bản lĩnh của đảng viên",
+        "Giúp đảng viên trong cùng một tổ chức hiểu nhau và giữ vững vai trò của tổ chức mình ở địa phương, đơn vị",
+        "Là hình thức để kiểm điểm đảng viên và đánh giá, phân loại chất lượng đảng viên hằng năm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nguyên tắc hoạt động nào của Đảng được Hồ Chí Minh xem là “thang thuốc” tốt nhất để làm cho phần tốt trong mỗi tổ chức và mỗi con người nẩy nở như hoa mùa xuân và phần xấu bị mất dần đi?",
+      "options": [
+        "Tự phê bình và phê bình.",
+        "Tập trung dân chủ.",
+        "Kỷ luật nghiêm minh, tự giác.",
+        "Phải thường xuyên tự chỉnh đốn."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hồ Chí Minh giải thích nguyên tắc Đảng lãnh đạo toàn diện đối với Nhà nước như thế nào?",
+      "options": [
+        "Đảng ban hành mọi văn bản pháp luật mà không cần Quốc hội thông qua.",
+        "Đảng ra nghị quyết và Nhà nước có trách nhiệm biến nghị quyết thành luật pháp và tổ chức thực hiện.",
+        "Đảng chỉ đạo trực tiếp mọi hoạt động của các bộ, ngành trong các cơ quan chính phủ.",
+        "Đảng can thiệp sâu vào công việc cụ thể của Nhà nước từ xây dựng, ban hành pháp luật đến quản lý, điều hành xã hội."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Hồ Chí Minh lý giải vì sao Đảng Cộng sản Việt Nam phải liên hệ mật thiết với Nhân dân?",
+      "options": [
+        "Để thể hiện vai trò là tổ chức chính trị duy nhất lãnh đạo sự nghiệp cách mạng của dân tộc.",
+        "Để Nhân dân hoàn toàn tin tưởng vào sự lãnh đạo của Đảng.",
+        "Vì Nhân dân là nguồn sức mạnh vô tận của Đảng, đảm bảo Đảng vững mạnh và thực hiện được mục tiêu cách mạng.",
+        "Để Đảng có thể tuyên truyền, tổ chức mọi hoạt động của Nhân dân; thông qua Nhân dân để phát triển cán bộ, đảng viên"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hồ Chí Minh đã diễn giải tầm quan trọng của việc xây dựng Nhà nước của Nhân dân, do Nhân dân, vì Nhân dân thông qua điều nào dưới đây?",
+      "options": [
+        "Đảm bảo mọi quyền lực không tập trung vào tay một cá nhân hay nhóm lãnh đạo tối cao.",
+        "Thể hiện sự gắn kết giữa Nhà nước và Nhân dân.",
+        "Mọi quyền lực Nhà nước đều thuộc về Nhân dân, do Nhân dân bầu ra và phải phục vụ lợi ích của Nhân dân.",
+        "Nhà nước có quyền ban hành pháp luật tạo cơ sở cho Nhân dân phát huy dân chủ và duy trì trật tự xã hội."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, thực hiện nguyên tắc \"tập thể lãnh đạo, cá nhân phụ trách\" trong Đảng nhằm mục đích gì?",
+      "options": [
+        "Để phát huy trí tuệ chung, đảm bảo sự thống nhất và chịu trách nhiệm rõ ràng.",
+        "Để cá nhân tích cực tham gia xây dựng và quyết định mọi việc trong tổ chức.",
+        "Để tập trung quyền lực lãnh đạo của Đảng được thông suốt.",
+        "Để thiểu số phục tùng đa số một cách tuyệt đối."
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "name": "TTTCM - Part 8",
+  "questions": [
+    {
+      "question": "Theo Hồ Chí Minh, con đường cứu nước và giải phóng dân tộc triệt để, phù hợp với cách mạng Việt Nam là con đường nào?",
+      "options": [
+        "Cách mạng tư sản Anh.",
+        "Cách mạng tư sản Pháp.",
+        "Cách mạng tư sản Mỹ.",
+        "Cách mạng vô sản."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Thời kỳ cải biến xã hội cũ thành xã hội mới (một xã hội hoàn toàn chưa từng có trong lịch sử) ở Việt Nam được Hồ Chí Minh gọi là thời kỳ:",
+      "options": [
+        "Cơn đau đẻ kéo dài.",
+        "Đấu tranh giải phóng dân giai cấp.",
+        "Quá độ lên chủ nghĩa xã hội.",
+        "Hào hùng của dân tộc."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc trong thời đại mới muốn giành được thắng lợi phải do ai lãnh đạo?",
+      "options": [
+        "Giai cấp tư sản.",
+        "Đảng Cộng sản.",
+        "Giai cấp công nhân.",
+        "Giai cấp nông dân."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo Hồ Chí Minh, lực lượng mạnh nhất trong tất cả các lực lượng góp phần đưa sự nghiệp cách mạng xã hội chủ nghĩa đi đến thành công là gì?",
+      "options": [
+        "Sức mạnh đoàn kết toàn dân.",
+        "Lực lượng vật chất trong Nhân dân.",
+        "Sức mạnh hiện tại của dân tộc.",
+        "Nội lực con người."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, lực lượng của cách mạng giải phóng dân tộc bao gồm:",
+      "options": [
+        "Giai cấp công - nông - trí thức.",
+        "Giai cấp công nhân - nông dân.",
+        "Toàn thể nhân dân Việt Nam.",
+        "Toàn dân tộc."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, yêu cầu bức thiết của nhân dân các nước thuộc địa là:",
+      "options": [
+        "Độc lập tự do.",
+        "Giải phóng dân tộc.",
+        "Giải phóng giai cấp.",
+        "Độc lập dân tộc."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Trong lực lượng toàn dân tộc, Hồ Chí Minh hết sức nhấn mạnh vai trò động lực cách mạng của ai?",
+      "options": [
+        "Giai cấp công nhân.",
+        "Công nhân và nông dân.",
+        "Công nhân, nông dân, trí thức.",
+        "Toàn dân tộc."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, nhân tố nào là then chốt bảo đảm cho thắng lợi của cách mạng?",
+      "options": [
+        "Vai trò của quần chúng nhân dân.",
+        "Sức mạnh của chủ nghĩa yêu nước.",
+        "Sức mạnh vĩ đại và năng lực sáng tạo vô tận của quần chúng.",
+        "Sức mạnh của quần chúng."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Khi đề cập đến lực lượng của cách mạng giải phóng dân tộc, Hồ Chí Minh khẳng định nội dung nào theo tinh thần chủ nghĩa Mác - Lênin?",
+      "options": [
+        "Cách mạng là sự nghiệp của quần chúng.",
+        "Sức mạnh vĩ đại và năng lực sáng tạo vô tận của quần chúng.",
+        "Sức mạnh đoàn kết.",
+        "Lòng yêu nước."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Vì sao Hồ Chí Minh nhấn mạnh Đảng phải liên hệ mật thiết với Nhân dân?",
+      "options": [
+        "Vì Đảng cần Nhân dân ủng hộ để có thể duy trì quyền lãnh đạo",
+        "Vì Nhân dân là nguồn sức mạnh của Đảng, giúp Đảng thực hiện mục tiêu cách mạng",
+        "Vì nếu không liên hệ mật thiết với Nhân dân, Đảng sẽ không cần chịu trách nhiệm trước Nhân dân",
+        "Vì Nhân dân có vai trò phụ thuộc vào Đảng, cần sự lãnh đạo tuyệt đối"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nhà nước “do dân” theo quan điểm Hồ Chí Minh có nghĩa là gì?",
+      "options": [
+        "Nhà nước không chịu sự giám sát của Nhân dân mà chỉ tuân theo đường lối của Đảng",
+        "Nhà nước chỉ cần hoạt động vì lợi ích của Nhân dân, không cần Nhân dân tham gia vào quản lý",
+        "Nhà nước do Đảng trực tiếp quản lý mà không cần thông qua các thiết chế dân chủ",
+        "Nhà nước do Nhân dân lập nên, các cơ quan nhà nước đều do Nhân dân lựa chọn thông qua bầu cử"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nhà nước pháp quyền Việt Nam theo quan điểm Hồ Chí Minh có nghĩa là gì?",
+      "options": [
+        "Nhà nước phải đứng trên pháp luật để điều hành đất nước một cách hiệu năng, hiệu lực và hiệu quả",
+        "Nhà nước có thể thay đổi luật pháp tùy theo lợi ích của giai cấp cầm quyền",
+        "Nhà nước có quyền hạn chế một số quyền của Nhân dân để đảm bảo an ninh quốc gia",
+        "Nhà nước phải hoạt động dựa trên pháp luật, bảo đảm công bằng và quyền lợi của Nhân dân"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Vì sao Hồ Chí Minh khẳng định sự lãnh đạo của Đảng Cộng sản Việt Nam là tất yếu đối với sự phát triển của đất nước?",
+      "options": [
+        "Vì Đảng Cộng sản Việt Nam là tổ chức chính trị duy nhất có vai trò lãnh đạo cách mạng",
+        "Vì Đảng Cộng sản Việt Nam ra đời từ sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước",
+        "Vì Đảng Cộng sản Việt Nam có quyền lực tuyệt đối và được Nhân dân ủng hộ",
+        "Vì các tổ chức chính trị khác không đủ khả năng lãnh đạo đất nước"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Đảng Cộng sản Việt Nam phải là một Đảng “đạo đức, văn minh” theo quan điểm Hồ Chí Minh có nghĩa là gì?",
+      "options": [
+        "Đảng phải trung thành với lợi ích của dân tộc, không có mục đích riêng",
+        "Đảng có quyền đứng trên pháp luật để thực hiện các mục tiêu chính trị",
+        "Đảng chỉ cần có đường lối đúng đắn, không cần quan tâm đến phẩm chất của đảng viên",
+        "Đảng phải tập trung phát triển kinh tế trước, rồi mới chú trọng đến đạo đức và văn minh"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Vì sao Hồ Chí Minh nhấn mạnh tầm quan trọng của việc chống tham nhũng, quan liêu trong bộ máy nhà nước?",
+      "options": [
+        "Vì tham nhũng, quan liêu làm suy giảm lòng tin của Nhân dân đối với Đảng và Nhà nước",
+        "Vì tham nhũng, quan liêu là điều không thể tránh khỏi trong quản lý nhà nước",
+        "Vì chống tham nhũng chỉ là nhiệm vụ của các cơ quan kiểm tra, không phải trách nhiệm chung của xã hội",
+        "Vì quan liêu giúp tăng cường hiệu quả quản lý, đảm bảo bộ máy hoạt động ổn định"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nên hiểu như thế nào về khẳng định của Hồ Chí Minh: “Đảng Cộng sản Việt Nam ra đời là tất yếu”?",
+      "options": [
+        "Đảng Cộng sản Việt Nam là tổ chức duy nhất có thể lãnh đạo đất nước",
+        "Đảng ra đời từ yêu cầu lịch sử của dân tộc và sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước",
+        "Đảng được thành lập theo yêu cầu của lịch sử và được tổ chức, hoạt động theo mô hình của các chính đảng cầm quyền trên thế giới",
+        "Đảng ra đời do ý chí chủ quan của Hồ Chí Minh và các nhà cách mạng Việt Nam"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, mục tiêu của việc kiên quyết chống tham nhũng, quan liêu trong bộ máy nhà nước là gì?",
+      "options": [
+        "Giữ vững lòng tin của Nhân dân, xây dựng Đảng và Nhà nước trong sạch, vững mạnh.",
+        "Đảm bảo sự ổn định của bộ máy, dù còn tồn tại tiêu cực.",
+        "Bảo vệ lợi ích của cán bộ, đảng viên trong hệ thống.",
+        "Giảm nhẹ trách nhiệm của các cơ quan nhà nước trong quản lý xã hội."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo Hồ Chí Minh, khẳng định “Đảng Cộng sản Việt Nam ra đời là tất yếu” thể hiện điều gì?",
+      "options": [
+        "Đảng là sản phẩm của quy luật phát triển khách quan của phong trào cách mạng Việt Nam.",
+        "Đảng là tổ chức được hình thành do ảnh hưởng của các đảng cộng sản trên thế giới.",
+        "Đảng được thành lập theo sáng kiến của một số nhà yêu nước tiêu biểu.",
+        "Đảng là tổ chức kế thừa toàn bộ các phong trào yêu nước trước đó."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tại sao trong Hồ Chí Minh đặc biệt coi trọng vai trò Mặt trận dân tộc thống nhất?",
+      "options": [
+        "Vì Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn, giúp tập hợp mọi tầng lớp nhân dân vào chung một mục tiêu chung vì độc lập, tự do và phát triển đất nước",
+        "Vì Mặt trận dân tộc thống nhất là cơ quan có quyền lực tối cao trong hệ thống chính trị Việt Nam để tổ chức nên xã hội mới",
+        "Vì Mặt trận dân tộc thống nhất chỉ tập hợp những giai cấp, tầng lớp, lực lượng xã hội có chung quan điểm chính trị với Đảng Cộng sản Việt Nam hoặc những cộng đồng không làm ảnh hưởng đến đường lối của Đảng",
+        "Vì Mặt trận dân tộc thống nhất là một tổ chức hoạt động thực hiện vai trò tập hợp lực lượng trong một số giai đoạn cách mạng nhất định"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tại sao Hồ Chí Minh cho rằng đại đoàn kết toàn dân phải được xây dựng trên nền tảng “lợi ích chung của dân tộc”?",
+      "options": [
+        "Vì lợi ích chung của dân tộc sẽ giúp Đảng dễ dàng kiểm soát hơn trong việc lãnh đạo đất nước",
+        "Vì lợi ích chung của dân tộc luôn đồng nhất với lợi ích của mọi cá nhân và không có mâu thuẫn nào trong xã hội",
+        "Vì chỉ có lợi ích chung của dân tộc mới là quan trọng, còn lợi ích của từng giai cấp và tầng lớp thì không cần quan tâm",
+        "Vì chỉ khi lợi ích của toàn dân tộc được đặt lên hàng đầu thì mới có thể tập hợp được đông đảo quần chúng vào sự nghiệp cách mạng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Hồ Chí Minh khẳng định nguyên tắc nào là cơ sở để đảm bảo đại đoàn kết toàn dân tộc được thực hiện lâu dài?",
+      "options": [
+        "Phải tập hợp nhân dân thành một khối duy nhất, không để bất kỳ ý kiến khác biệt nào tồn tại trong xã hội",
+        "Cần đặt lợi ích của Đảng, của Nhà nước lên trên lợi ích của dân tộc để đảm bảo sự lãnh đạo và quản lý tuyệt đối",
+        "Lấy mục tiêu độc lập dân tộc và chủ nghĩa xã hội làm nền tảng để quy tụ mọi tầng lớp nhân dân vào cùng một mục tiêu chung",
+        "Chỉ đoàn kết với các tầng lớp lao động để tập hợp, lôi kéo các thành phần khác trong xã hội"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tại sao Hồ Chí Minh khẳng định rằng muốn có đoàn kết thật sự thì phải có dân chủ thực sự?",
+      "options": [
+        "Vì dân chủ tạo điều kiện để mọi người có quyền tham gia, bày tỏ ý kiến, qua đó tăng cường sự đồng thuận và gắn kết trong xã hội.",
+        "Vì dân chủ là một yếu tố mang tính hình thức, giúp Đảng khẳng định vai trò lãnh đạo của mình.",
+        "Vì dân chủ chỉ cần thiết trong quá trình xây dựng và phát triển đất nước, nhất là trong quá trình đổi mới và hội nhập quốc tế hiện nay.",
+        "Vì dân chủ thể hiện trình độ phát triển văn hóa của xã hội."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hồ Chí Minh nhấn mạnh tinh thần đoàn kết quốc tế phải dựa trên nguyên tắc nào?",
+      "options": [
+        "Đoàn kết quốc tế bảo đảm sự bình đẳng, cùng có lợi để thúc đẩy sự phát triển của đất nước.",
+        "Tận dụng sự giúp đỡ của các nước lớn để để củng cố vị thế quốc gia.",
+        "Đặc biệt thắt chặt quan hệ với các nước xã hội chủ nghĩa, làm cơ sở để mở rộng quan hệ với các nước có chế độ chính trị khác trên thế giới.",
+        "Bình đẳng, hợp tác, tôn trọng lẫn nhau, không can thiệp vào công việc nội bộ của nhau."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo quan điểm Hồ Chí Minh, sức mạnh của dân tộc Việt Nam trước hết bắt nguồn từ đâu?",
+      "options": [
+        "Chủ nghĩa yêu nước, ý thức đấu tranh cho độc lập dân tộc.",
+        "Văn hóa truyền thống Việt Nam.",
+        "Tinh thần đoàn kết.",
+        "Tính tự lực, tự cường của dân tộc Việt Nam."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Lời dạy của Hồ Chí Minh \"Đoàn kết là sức mạnh, là then chốt của thành công\" có ý nghĩa thực tế là gì?",
+      "options": [
+        "Đoàn kết chỉ cần khi có sự lãnh đạo mạnh mẽ từ Đảng.",
+        "Đoàn kết chỉ cần trong giai đoạn kháng chiến, không cần khi hòa bình.",
+        "Đoàn kết chỉ là một khẩu hiệu chính trị, không có giá trị thực tiễn.",
+        "Đoàn kết là điều kiện quan trọng nhất để tập hợp sức mạnh dân tộc."
+      ],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QuizMaster</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <div class="logo">QuizMaster</div>
+      <button class="hamburger" id="hamburger" onclick="toggleNav()" aria-label="Menu">☰</button>
+      <nav id="navbar">
+        <button class="nav-btn" data-view="dashboard" onclick="showView('dashboard')">Dashboard</button>
+        <button class="nav-btn" data-view="import" onclick="showView('import')">Import</button>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Dashboard -->
+      <section id="view-dashboard" class="view active">
+        <div class="dashboard-header">
+          <h1>Your Quizzes</h1>
+          <button class="btn primary" onclick="showView('import')">+ New Quiz</button>
+        </div>
+        <div id="quiz-list" class="quiz-grid"></div>
+      </section>
+
+      <!-- Import -->
+      <section id="view-import" class="view">
+        <h1>Import Questions</h1>
+        <p class="subtitle">Paste JSON array of questions or upload a file.</p>
+        <div class="import-layout">
+          <div class="import-main">
+            <textarea id="json-input" placeholder='[
+  {
+    "question": "What is 2+2?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1
+  }
+]'></textarea>
+            <div class="import-actions">
+              <button class="btn primary" onclick="importFromText()">Import</button>
+              <button class="btn" onclick="document.getElementById('file-input').click()">Upload JSON</button>
+              <input type="file" id="file-input" accept=".json" hidden onchange="importFromFile(event)" />
+              <button class="btn secondary" onclick="importSample()">Load Sample</button>
+            </div>
+            <p id="import-status" class="status-msg"></p>
+          </div>
+          <div class="import-sidebar">
+            <h3>Format</h3>
+            <pre>{
+  "question": "string",
+  "options": ["A","B","C","D"],
+  "correct": 0
+}</pre>
+            <p><code>correct</code> is the 0-based index of the right answer.</p>
+            <p>The quiz title is derived from the first question or you can name it below.</p>
+            <label>Quiz Name</label>
+            <input type="text" id="quiz-name" placeholder="My Quiz" />
+          </div>
+        </div>
+      </section>
+
+      <!-- Quiz Taking -->
+      <section id="view-quiz" class="view">
+        <div id="quiz-header">
+          <h2 id="quiz-title"></h2>
+          <div class="quiz-meta">
+            <span id="quiz-progress"></span>
+            <span id="live-score" class="live-score"></span>
+          </div>
+        </div>
+        <div id="progress-bar-container">
+          <div id="progress-bar"></div>
+        </div>
+        <div id="question-container">
+          <p id="question-text"></p>
+          <div id="options-container"></div>
+        </div>
+        <div class="quiz-nav">
+          <button class="btn" id="prev-btn" onclick="prevQuestion()">Previous</button>
+          <button class="btn primary" id="next-btn" onclick="nextQuestion()">Next</button>
+          <button class="btn success" id="submit-btn" onclick="submitQuiz()" style="display:none">Submit</button>
+        </div>
+      </section>
+
+      <!-- Results -->
+      <section id="view-results" class="view">
+        <h1>Results</h1>
+        <div id="results-summary" class="results-summary"></div>
+        <div id="results-detail"></div>
+        <div class="results-actions">
+          <button class="btn primary" onclick="showView('dashboard')">Back to Dashboard</button>
+          <button class="btn" onclick="retakeQuiz()">Retake</button>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
