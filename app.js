@@ -27,6 +27,7 @@ function showView(id) {
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
   document.getElementById('view-' + id).classList.add('active');
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b.dataset.view === id));
+  document.getElementById('navbar').classList.remove('open');
   if (id === 'dashboard') renderDashboard();
 }
 
@@ -46,12 +47,29 @@ function renderDashboard() {
       </div>`;
     return;
   }
-  container.innerHTML = state.quizzes.map(q => `
+
+  let resumeHtml = '';
+  if (state.currentQuiz && !state.reviewed) {
+    const answered = state.answers.filter(a => a !== null).length;
+    const total = state.currentQuiz.questions.length;
+    resumeHtml = `
+      <div class="resume-banner" onclick="resumeQuiz()">
+        <div class="resume-info">
+          <strong>${escapeHtml(state.currentQuiz.name)}</strong>
+          <span class="resume-progress">${answered}/${total} answered</span>
+        </div>
+        <button class="btn primary">Continue</button>
+      </div>`;
+  }
+
+  container.innerHTML = resumeHtml + state.quizzes.map(q => {
+    const isActive = state.currentQuiz && state.currentQuiz.id === q.id && !state.reviewed;
+    return `
     <div class="quiz-card">
       <h3>${escapeHtml(q.name)}</h3>
       <div class="meta">${q.questions.length} questions</div>
       <div class="card-actions">
-        <button class="btn primary" onclick="startQuiz('${q.id}')">Take Quiz</button>
+        <button class="btn primary" onclick="${isActive ? 'resumeQuiz()' : "startQuiz('" + q.id + "')"}">${isActive ? 'Resume' : 'Take Quiz'}</button>
         <button class="btn" onclick="deleteQuiz('${q.id}')">Delete</button>
         <button class="btn" onclick="exportQuiz('${q.id}')">Export</button>
       </div>
@@ -273,6 +291,14 @@ function submitQuiz() {
   state.reviewed = true;
   renderQuestion();
   showResults();
+}
+
+function resumeQuiz() {
+  if (state.currentQuiz) {
+    showView('quiz');
+    document.getElementById('quiz-title').textContent = state.currentQuiz.name;
+    renderQuestion();
+  }
 }
 
 function retakeQuiz() {

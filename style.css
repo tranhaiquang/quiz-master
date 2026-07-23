@@ -231,6 +231,48 @@ nav.open {
   .dashboard-header h1 { font-size: 1.5rem; }
 }
 
+/* Resume banner */
+.resume-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+  border: 2px solid var(--primary);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.resume-banner:active {
+  transform: scale(0.99);
+}
+
+.resume-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.resume-info strong {
+  font-size: 0.95rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.resume-progress {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.resume-banner .btn {
+  flex-shrink: 0;
+}
+
 .quiz-grid {
   display: grid;
   grid-template-columns: 1fr;
