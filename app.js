@@ -371,53 +371,79 @@ function escapeHtml(str) {
 /* ── Import questions from folder ────────────── */
 
 (function importQuestions() {
-  // List all question files in the questions/ folder
-  const files = [
-    "tttcm_part1.json",
-    "tttcm_part2.json",
-    "tttcm_part3.json",
-    "tttcm_part4.json",
-    "tttcm_part5.json",
-    "tttcm_part6.json",
-    "tttcm_part7.json",
-    "tttcm_part8.json",
-    "tttcm_part9.json",
-    "tttcm_part10.json",
-    "tttcm_part11.json",
-    "tttcm_part12.json",
-    "tttcm_part13.json",
-  ];
+  // Naming patterns to try: tries {prefix}1.json, {prefix}2.json, ... until 404
+  const patterns = ['tttcm_part', 'quiz_', 'data_', 'q'];
 
-  const fileIds = new Set(files.map(f => 'q_' + f.replace(/\.json$/, '')));
+  let discovered = [];
+  let patternsDone = 0;
+  const totalPatterns = patterns.length;
 
-  // Remove quizzes whose file no longer exists
-  state.quizzes = state.quizzes.filter(q => fileIds.has(q.id));
+  function tryPattern(pi) {
+    if (pi >= patterns.length) { finish(); return; }
+    const prefix = patterns[pi];
+    const found = [];
+    let idx = 1;
 
-  // Import files not yet in state
-  const existing = new Set(state.quizzes.map(q => q.id));
-  const toLoad = files.filter(f => !existing.has('q_' + f.replace(/\.json$/, '')));
-  if (toLoad.length === 0) {
-    saveState();
-    renderDashboard();
-    return;
+    function next() {
+      const name = prefix + idx + '.json';
+      fetch('questions/' + name)
+        .then(r => {
+          if (!r.ok) { // 404 or other error — this pattern is exhausted
+            discovered = discovered.concat(found);
+            patternsDone++;
+            if (patternsDone === totalPatterns) finish();
+            else tryPattern(pi + 1);
+            return null;
+          }
+          return r.json();
+        })
+        .then(data => {
+          if (data === null) return;
+          found.push({ file: name, data: data });
+          idx++;
+          next();
+        })
+        .catch(() => {
+          // Network error — treat as end of pattern
+          discovered = discovered.concat(found);
+          patternsDone++;
+          if (patternsDone === totalPatterns) finish();
+          else tryPattern(pi + 1);
+        });
+    }
+
+    next();
   }
 
-  let loaded = 0;
-  toLoad.forEach(file => {
-    fetch('questions/' + file)
-      .then(r => r.json())
-      .then(data => {
-        const qs = Array.isArray(data) ? data : (data.questions || []);
-        if (qs.length) {
-          state.quizzes.push({
-            id: 'q_' + file.replace(/\.json$/, ''),
-            name: data.name || file.replace(/\.json$/, ''),
-            questions: qs
-          });
-        }
-        loaded++;
-        if (loaded === toLoad.length) { saveState(); renderDashboard(); }
-      })
-      .catch(() => { loaded++; if (loaded === toLoad.length) renderDashboard(); });
-  });
+  function finish() {
+    const fileIds = new Set(discovered.map(d => 'q_' + d.file.replace(/\.json$/, '')));
+
+    // Remove quizzes whose file no longer exists
+    state.quizzes = state.quizzes.filter(q => fileIds.has(q.id));
+
+    // Import files not yet in state
+    const existing = new Set(state.quizzes.map(q => q.id));
+    const toLoad = discovered.filter(d => !existing.has('q_' + d.file.replace(/\.json$/, '')));
+    if (toLoad.length === 0) {
+      saveState();
+      renderDashboard();
+      return;
+    }
+
+    let done = 0;
+    toLoad.forEach(d => {
+      const qs = Array.isArray(d.data) ? d.data : (d.data.questions || []);
+      if (qs.length) {
+        state.quizzes.push({
+          id: 'q_' + d.file.replace(/\.json$/, ''),
+          name: d.data.name || d.file.replace(/\.json$/, ''),
+          questions: qs
+        });
+      }
+      done++;
+      if (done === toLoad.length) { saveState(); renderDashboard(); }
+    });
+  }
+
+  tryPattern(0);
 })();
