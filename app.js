@@ -74,7 +74,7 @@ function renderDashboard() {
         <button class="btn" onclick="exportQuiz('${q.id}')">Export</button>
       </div>
     </div>
-  `).join('');
+  `}).join('');
 }
 
 function deleteQuiz(id) {
@@ -99,48 +99,49 @@ function exportQuiz(id) {
 /* ── Import ────────────────────────────────────── */
 
 function importSample() {
-  const sample = [
+  const sample = JSON.stringify([
     { question: 'What is the capital of France?', options: ['London', 'Berlin', 'Paris', 'Madrid'], correct: 2 },
     { question: 'Which planet is known as the Red Planet?', options: ['Venus', 'Mars', 'Jupiter', 'Saturn'], correct: 1 },
     { question: 'What is 2 + 2?', options: ['3', '4', '5', '6'], correct: 1 },
     { question: 'Who wrote "Romeo and Juliet"?', options: ['Dickens', 'Shakespeare', 'Austen', 'Hemingway'], correct: 1 },
     { question: 'What is the largest ocean?', options: ['Atlantic', 'Indian', 'Arctic', 'Pacific'], correct: 3 },
-  ];
-  document.getElementById('json-input').value = JSON.stringify(sample, null, 2);
+  ], null, 2);
+  document.getElementById('json-input').value = sample;
   setImportStatus('Sample loaded. Click Import to add it.', 'ok');
 }
 
 function parseQuestions(arr) {
   if (!Array.isArray(arr) || !arr.length) throw new Error('Must be a non-empty array.');
-  return arr.map((item, i) => {
+  return arr.map(function (item, i) {
     if (!item.question || !Array.isArray(item.options) || item.options.length < 2)
-      throw new Error(`Question ${i + 1}: must have "question" and "options" (min 2).`);
+      throw new Error('Question ' + (i + 1) + ': must have "question" and "options" (min 2).');
     if (typeof item.correct !== 'number' || item.correct < 0 || item.correct >= item.options.length)
-      throw new Error(`Question ${i + 1}: "correct" must be a valid 0-based index.`);
-    return { question: String(item.question), options: [...item.options], correct: item.correct };
+      throw new Error('Question ' + (i + 1) + ': "correct" must be a valid 0-based index.');
+    return { question: String(item.question), options: [].concat(item.options), correct: item.correct };
   });
 }
 
 function finishImport(questions) {
-  const nameInput = document.getElementById('quiz-name');
-  let name = nameInput.value.trim();
-  if (!name) name = questions[0].question.slice(0, 40) + (questions.length > 1 ? '…' : '');
-  const quiz = { id: generateId(), name, questions };
+  var nameInput = document.getElementById('quiz-name');
+  var name = nameInput.value.trim();
+  if (!name) name = String(questions[0].question).slice(0, 40) + (questions.length > 1 ? '\u2026' : '');
+  var quiz = { id: generateId(), name: name, questions: questions };
   state.quizzes.push(quiz);
   saveState();
   document.getElementById('json-input').value = '';
   nameInput.value = '';
-  setImportStatus(`Imported "${name}" (${questions.length} questions).`, 'ok');
-  renderDashboard();
+  showView('dashboard');
 }
 
 function importFromText() {
-  const raw = document.getElementById('json-input').value.trim();
+  var el = document.getElementById('json-input');
+  if (!el) return;
+  var raw = el.value.trim();
   if (!raw) { setImportStatus('Paste some JSON first.', 'err'); return; }
   try {
-    const data = JSON.parse(raw);
-    let questions, name;
-    if (data.name && Array.isArray(data.questions)) {
+    var data = JSON.parse(raw);
+    var questions, name;
+    if (data && data.name && Array.isArray(data.questions)) {
       name = data.name;
       questions = parseQuestions(data.questions);
     } else {
@@ -154,14 +155,14 @@ function importFromText() {
 }
 
 function importFromFile(e) {
-  const file = e.target.files[0];
+  var file = e.target.files[0];
   if (!file) return;
-  const reader = new FileReader();
-  reader.onload = ev => {
+  var reader = new FileReader();
+  reader.onload = function (ev) {
     try {
-      const data = JSON.parse(ev.target.result);
-      let questions, name;
-      if (data.name && Array.isArray(data.questions)) {
+      var data = JSON.parse(ev.target.result);
+      var questions, name;
+      if (data && data.name && Array.isArray(data.questions)) {
         name = data.name;
         questions = parseQuestions(data.questions);
       } else {
@@ -178,7 +179,8 @@ function importFromFile(e) {
 }
 
 function setImportStatus(msg, type) {
-  const el = document.getElementById('import-status');
+  var el = document.getElementById('import-status');
+  if (!el) return;
   el.textContent = msg;
   el.className = 'status-msg ' + (type || '');
 }
@@ -418,8 +420,8 @@ function escapeHtml(str) {
   function finish() {
     const fileIds = new Set(discovered.map(d => 'q_' + d.file.replace(/\.json$/, '')));
 
-    // Remove quizzes whose file no longer exists
-    state.quizzes = state.quizzes.filter(q => fileIds.has(q.id));
+    // Remove file-based quizzes whose file no longer exists, keep manually imported ones
+    state.quizzes = state.quizzes.filter(q => !q.id.startsWith('q_') || fileIds.has(q.id));
 
     // Import files not yet in state
     const existing = new Set(state.quizzes.map(q => q.id));
