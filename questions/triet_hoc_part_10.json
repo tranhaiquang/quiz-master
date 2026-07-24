@@ -9,7 +9,7 @@
         "Phương pháp luận duy vật biện chứng. Vì nó trang bị cho con người hệ thống những nguyên tắc phương pháp luận chung nhất trong nhận thức và hoạt động thực tiễn",
         "Phương pháp luận duy tâm khách quan. Vì nó có giá trị định hướng con người nhận thức tự nhiên"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Vì sao Đảng ta khẳng định: Muốn giải quyết những ảnh hưởng tiêu cực của tôn giáo phải bắt đầu từ việc xóa bỏ hoàn toàn áp bức, bất công trong xã hội?",
@@ -19,7 +19,7 @@
         "Đó là của cải nuôi dưỡng và hình thành tôn giáo",
         "Đó là môi trường của sự hình thành tôn giáo"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao phương pháp siêu hình không được sử dụng trong nghiên cứu khoa học?",
@@ -29,7 +29,7 @@
         "Vì quá nhấn mạnh thành tựu khoa học trong giải quyết các vấn đề kinh tế, văn hóa, xã hội",
         "Vì nhận thức đối tượng ở trạng thái tĩnh tại, biệt lập và chỉ là sự biến đổi về lượng và biểu hiện bên ngoài"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Tri thức triết học có tác động đến quá trình nghiên cứu khoa học tự nhiên (vật lý, hóa học, sinh học…) hoặc khoa học chuyên ngành không? Vì sao?",
@@ -39,7 +39,7 @@
         "Không. Vì tri thức triết học không ảnh hưởng hoặc chi phối đến khoa học tự nhiên",
         "Không. Vì tri thức triết học không tác động trực tiếp lên thành quả lao động của con người"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao triết học là hạt nhân lý luận của thế giới quan?",
@@ -59,7 +59,7 @@
         "Định luật bảo toàn và chuyển hóa năng lượng; định luật vạn vật hấp dẫn; thuyết nhật tâm.",
         "Phát hiện ra nguyên tử; phát hiện ra điện tử; định luật bảo toàn và chuyển hoá năng lượng."
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Tại sao trong nhận thức và hoạt động thực tiễn một số kế hoạch, mục tiêu, của chúng ta bị thất bại?",
@@ -69,7 +69,7 @@
         "Thiếu thực tế khách quan, nỗ lực của bản thân, tiền đề vật chất hiện có",
         "Vì thiếu các điều kiện khách quan và năng lực chủ quan của các chủ thể hoạt động"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Vì sao chúng ta đang phải gánh chịu những hậu quả nặng nề do chính con người gây ra như: Ô nhiễm môi trường, cạn kiệt tài nguyên, bệnh tật...?",
@@ -89,7 +89,7 @@
         "Sai. Vì phép biện chứng là nội dung cơ bản của triết học chứ không phải của các lĩnh vực khác.",
         "Sai. Vì phép biện chứng duy vật không thể giúp con người định hướng trong việc đề ra các nguyên tắc tương ứng trong hoạt động nhận thức và thực tiễn."
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Khi khoa học tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một phần cấu tạo nên nguyên tử... điều đó chứng tỏ:",
@@ -99,7 +99,7 @@
         "Giới hạn hiểu biết của chúng ta về vật chất trước đó mất đi.",
         "Vật chất có tồn tại thực nhưng không thể nhận thức được."
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Mục đích của việc học tập nghiên cứu chủ nghĩa Mác-Lênin trong chương trình giáo dục đại học của nước ta là gì?",
@@ -109,7 +109,7 @@
         "Xây dựng thế giới quan, phương pháp luận khoa học và giúp sinh viên hiểu rõ nền tảng tư tưởng của Đảng cộng sản Việt Nam",
         "Xây dựng niềm tin cách mạng và hiểu rõ về tư tưởng chính chị"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Quy luật xã hội phải thông qua hoạt động có ý thức của con người, như vậy nó có mang tính khách quan hay không? Vì sao?",
@@ -129,7 +129,7 @@
         "Vai trò ý thức tác động trở lại vật chất.",
         "Vai trò của vật chất tác động trở lại ý thức."
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Bản thân ý thức tự nó có thay đổi được hiện thực không? Vì sao?",
@@ -139,7 +139,7 @@
         "Có, Vì có ý thức thì con người mới hoạt động thực tiễn được.",
         "Không, phải thông qua hoạt động thực tiễn của con người."
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Thực tiễn là tiêu chuẩn khách quan duy nhất để kiểm tra chân lý, là đúng hay sai? Vì sao?",
@@ -159,7 +159,7 @@
         "Thực tiễn",
         "Pháp luật"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Quá trình phát triển trong lĩnh vực xã hội và tư duy có phụ thuộc vào ý thức, ý muốn chủ quan của con người không? Vì sao?",
@@ -169,7 +169,7 @@
         "Có, vì xã hội và tư duy là của con người, do con người tác động",
         "Có, vì xã hội và tư duy của con người luôn vận động, phát triển không ngừng"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Nhận định nào sau đây không đúng với quan điểm về phát triển trong triết học Mác-Lênin?",
@@ -179,7 +179,7 @@
         "Cần giữ nguyên những đặc điểm của cái cũ.",
         "Cần tránh bảo thủ, thái độ thành kiến về cái mới."
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Sự thay đổi của công cụ lao động từ thủ công thô sơ sang máy móc cơ khí là biểu hiện hình thức vận động nào sau đây?",
@@ -219,7 +219,7 @@
         "Vì thế giới vật chất và xã hội loài người luôn phát triển đi từ thấp đến cao",
         "Vì thế giới vật chất và thực tiễn xã hội không ngừng vận động biến đổi"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Nếu có bộ óc của con người và có thế giới khách quan nhưng không có hoạt động thực tiễn xã hội thì ý thức có ra đời không? Vì sao?",
@@ -229,7 +229,7 @@
         "Có, vì bộ não con người là quan trọng nhất",
         "Có, vì bộ não và hiện thực khách quan là điều kiện cần để ý thức ra đời"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao hoạt động thực tiễn của con người lại được coi là nguồn gốc trực tiếp quyết định sự ra đời của ý thức?",

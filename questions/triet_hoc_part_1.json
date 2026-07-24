@@ -9,7 +9,7 @@
         "Chủ nghĩa duy vật siêu hình",
         "Chủ nghĩa duy tâm khách quan"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Đâu là loại hình thế giới quan nào chung nhất, phổ biến nhất, được sử dụng trong mọi ngành khoa học và trong toàn bộ đời sống xã hội?",
@@ -19,7 +19,7 @@
         "Thế giới quan thần thoại",
         "Thế giới quan triết học"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Triết học Mác-Lênin đã khẳng định như thế nào về vai trò của tri thức trong việc hình thành thế giới quan của con người?",
@@ -29,7 +29,7 @@
         "Là cơ sở trực tiếp hình thành nên thế giới quan",
         "Có vai trò trực tiếp nhưng không quan trọng"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Trường phái triết học nào thừa nhận tính thứ nhất của ý thức, nhưng đó không phải là ý thức cá nhân, mà là tinh thần khách quan có trước, độc lập với con người, quyết định sự tồn tại của tự nhiên, xã hội và tư duy?",
@@ -39,7 +39,7 @@
         "Duy tâm khách quan",
         "Duy vật biện chứng"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Triết học Mác – Lênin khẳng định thế giới quan nào là chung nhất, phổ biến nhất, được sử dụng (một cách ý thức hoặc không ý thức) trong mọi ngành khoa học và trong toàn bộ đời sống xã hội?",
@@ -49,7 +49,7 @@
         "Thế giới quan triết học",
         "Thế giới quan huyền thoại"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Khái niệm nào dùng để chỉ hệ thống các tri thức, quan điểm, tình cảm, niềm tin, lý tưởng xác định về thế giới và vị trí của con người trong thế giới đó?",
@@ -59,7 +59,7 @@
         "Phương pháp luận",
         "Nhận thức luận"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Phép biện chứng nào đã đẩy lùi được phép biện chứng Cổ đại, nhưng rồi chính nó lại bị phủ định bởi phép biện chứng Mác xít?",
@@ -79,7 +79,7 @@
         "Tôn giáo",
         "Siêu hình"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Trong mối quan hệ với triết học, nhiệm vụ của khoa học cụ thể là gì?",
@@ -89,7 +89,7 @@
         "Nghiên cứu những vấn đề phức tạp của tự nhiên và xã hội",
         "Cung cấp những dữ liệu, đặt ra những vấn đề khoa học mới, làm tiền đề, cơ sở cho sự phát triển triết học"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Theo quan điểm của triết học duy vật thì nguyên nhân nào quyết định mọi sự vận động, phát triển của sự vật, hiện tượng trong thế giới?",
@@ -109,7 +109,7 @@
         "Tri thức",
         "Ý thức"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Thế giới quan, phương pháp luận khoa học, cách mạng của triết học Mác - Lênin có vai trò như thế nào đối với con người?",
@@ -119,7 +119,7 @@
         "Chi phối hoạt động nhận thức và hoạt động thực tiễn",
         "Gắn liền với hoạt động nhận thức và hoạt động thực tiễn"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Định nghĩa nào được các nhà khoa học hiện đại coi là một định nghĩa kinh điển, hoàn chỉnh về vật chất ?",
@@ -129,7 +129,7 @@
         "Định nghĩa vật chất của Hêghen",
         "Định nghĩa vật chất của Ph.Ăngghen"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Mặt thứ nhất vấn đề cơ bản của triết học là gì?",
@@ -159,7 +159,7 @@
         "Tính phát triển, biến đổi",
         "Tính liên hệ, biến đổi"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Tất cả những gì đã và đang hiện hữu thực sự bên ngoài ý thức của con người được gọi là gì?",
@@ -169,7 +169,7 @@
         "Vật chất",
         "Đứng im"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Nguyên tắc phương pháp luận rút ra từ mối quan hệ giữa vật chất và ý thức trong triết học Mác - Lênin là gì?",
@@ -179,7 +179,7 @@
         "Tôn trọng hiện thực khách quan kết hợp tính năng động chủ quan.",
         "Tôn trọng hiện thực khách quan kết hợp phát huy tính năng động chủ quan trong mọi hoạt động của con người."
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Định nghĩa về vật chất của V.I.Lênin đã giải quyết hai mặt vấn đề cơ bản của triết học trên lập trường nào?",
@@ -209,7 +209,7 @@
         "Bộ óc người và lao động.",
         "Bộ óc người và thế giới khách quan."
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Sự tác động của ý thức đối với vật chất phải thông qua:",
@@ -219,7 +219,7 @@
         "Hoạt động xã hội của con người",
         "Hoạt động chính trị của con người"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Để chuyển biến dần bộ óc của loài vượn người thành bộ óc con người và tâm lý động vật thành ý thức con người, cần những yếu tố cơ bản nào?",
@@ -249,7 +249,7 @@
         "Chi phối nội dung của ý thức",
         "Độc lập hình thức của ý thức"
       ],
-      "correct": 0
+      "correct": 1
     }
   ]
 }

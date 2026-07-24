@@ -9,7 +9,7 @@
         "Nhận thức của mỗi người là hoàn toàn khác nhau",
         "Nhận thức của con người ở các thời kỳ khác nhau"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao tính giai cấp và tính dân tộc của cá nhân sẽ mất dần theo sự phát triển và tiến bộ của xã hội?",
@@ -39,7 +39,7 @@
         "Chủ nghĩa duy tâm và phương pháp luận siêu hình",
         "Chủ nghĩa duy vật và phương pháp luận biện chứng"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Ý thức đạo đức có xuất hiện trong xã hội cộng sản nguyên thủy không? Vì sao?",
@@ -49,7 +49,7 @@
         "Có, vì ý thức đạo đức xuất hiện trong mọi xã hội",
         "Không, vì ý thức đạo đức xuất hiện khi tri thức đạt đến trình độ cao"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Quan hệ sở hữu tư liệu sản xuất quyết định địa vị của các giai cấp trong xã hội, bởi vì khi giai cấp nào nắm quyền sở hữu tư liệu sản xuất thì:",
@@ -69,7 +69,7 @@
         "Không biến đổi theo sự biến đổi của phương thức sản xuất",
         "Là ổn định, bất biến trong lịch sử"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao trong đấu tranh giai cấp, các giai cấp thường liên minh với nhau?",
@@ -79,7 +79,7 @@
         "Nhằm làm yếu đi giai cấp đang thống trị",
         "Thống nhất lợi ích cơ bản của các giai cấp, tạo sức mạnh to lớn"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Vì sao trong thời kỳ quá độ lên chủ nghĩa xã hội vẫn còn đấu tranh giai cấp?",
@@ -89,7 +89,7 @@
         "Vì trên thế giới vẫn còn sự phân hóa nước nghèo – nước giàu",
         "Vì đấu tranh giai cấp là hoạt động thường xuyên để phát triển xã hội"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao nói cuộc đấu tranh của giai cấp vô sản chống giai cấp tư sản là cuộc đấu tranh cuối cùng trong lịch sử?",
@@ -99,7 +99,7 @@
         "Vì nó diễn ra ở thời đại văn minh nhất của con người",
         "Vì xóa bỏ triệt để chế độ chiếm hữu tư nhân về tư liệu sản xuất"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Vì sao trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta vẫn còn tồn tại đấu tranh giai cấp?",
@@ -109,7 +109,7 @@
         "Vì chế độ tư bản chủ nghĩa vẫn còn tồn tại trên thế giới",
         "Vì đấu tranh giai cấp là động lực phát triển của xã hội"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Sản xuất vật chất là tiền đề cho mọi hoạt động lịch sử của con người, bởi vì nhờ sản xuất vật chất:",
@@ -119,7 +119,7 @@
         "Hình thành nên quan hệ kinh tế - vật chất và các quan hệ xã hội khác",
         "Con người hình thành phẩm chất xã hội"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Sản xuất vật chất là điều kiện chủ yếu sáng tạo ra bản thân con người, bởi vì nhờ sản xuất vật chất mà con người đã:",
@@ -129,7 +129,7 @@
         "Hình thành quan hệ kinh tế - vật chất và các quan hệ xã hội khác",
         "Hình thành nên ngôn ngữ, nhận thức, tư duy, tình cảm, đạo đức"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Sản xuất vật chất là điều kiện chủ yếu sáng tạo ra bản thân con người, bởi vì nhờ có sản xuất vật chất mà con người đã:",
@@ -139,7 +139,7 @@
         "Hình thành, phát triển phẩm chất xã hội của con người",
         "Hình thành nên quan hệ kinh tế - vật chất, quan hệ xã hội khác"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Ở nước ta hiện nay, để phát triển lực lượng sản xuất cần tập trung chú ý nhất điều gì?",
@@ -149,7 +149,7 @@
         "Đổi mới về công cụ lao động",
         "Đổi mới về quan hệ sở hữu"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Hiện tượng phóng xạ mà khoa học tự nhiên phát hiện ra chứng minh điều gì?",
@@ -159,7 +159,7 @@
         "Nguyên tử là không bất biến",
         "Vật chất là tĩnh tại"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Vì sao trường phái nhị nguyên luận thừa nhận sự tồn tại độc lập của hai thực thể “vật chất” và “ý thức”, nhưng cuối cùng lại rơi vào duy tâm?",
@@ -169,7 +169,7 @@
         "Vì họ khẳng định một trong hai hoặc cả hai thực thể vật chất và tinh thần do lực lượng siêu nhiên quyết định",
         "Vì họ khẳng định có lực lượng siêu nhiên"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Vì sao tri thức có tính quyết định trong việc hình thành thế giới quan cá nhân?",
@@ -189,7 +189,7 @@
         "Vì đó là sức mạnh tinh thần, là tài sản lớn nhất của đời người giúp chúng ta thành công",
         "Vì đó là sự kiên trì theo đuổi mục tiêu mà mình chọn để thành công"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao triết học được coi là biểu hiện cao của trí tuệ, của sự hiểu biết sâu sắc của con người về thế giới?",
@@ -209,7 +209,7 @@
         "Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất",
         "Sự xuất hiện công cụ lao động đặc biệt"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao thế giới quan duy vật và phép biện chứng trong triết học Mác – Lênin đã trở thành thế giới quan khoa học và phương pháp luận chung cần thiết cho sự phát triển của mọi khoa học cụ thể?",
@@ -229,7 +229,7 @@
         "Không cùng tác động. Vì không giúp con người cơ sở khoa học để nhận thức mục đích, ý nghĩa của cuộc sống",
         "Không cùng tác động. Vì họ có quan điểm sống khác nhau"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Vì sao mối quan hệ giữa tồn tại và tư duy là vấn đề cơ bản của triết học?",
@@ -249,7 +249,7 @@
         "Vì đó là tiền đề quan trọng để xác lập phương thức tư duy hợp lý và nhân sinh quan tích cực trong khám phá và cải tạo thế giới",
         "Vì nó là tiền đề của sự thành công, của quá trình khám phá và chinh phục thế giới"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }

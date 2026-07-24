@@ -9,7 +9,7 @@
         "Hai loại hình này độc lập với nhau",
         "Hai loại hình này có mối quan hệ biện chứng"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Lực lượng chủ yếu, cơ bản và quyết định mọi thắng lợi của các cuộc cách mạng là:",
@@ -39,7 +39,7 @@
         "Ý thức lý luận",
         "Ý thức đạo đức"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Hình thức đấu tranh cao nhất của giai cấp vô sản là:",
@@ -49,7 +49,7 @@
         "Tư tưởng",
         "Kinh tế và chính trị"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Yếu tố nào sau đây chỉ hình thức cộng đồng người đầu tiên trong lịch sử loài người?",
@@ -59,7 +59,7 @@
         "Thị tộc",
         "Dân tộc"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Hình thức cộng đồng nào có cùng tổ tiên, ngôn ngữ và tín ngưỡng chung?",
@@ -69,7 +69,7 @@
         "Bộ tộc",
         "Thị tộc"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Sự phân chia giai cấp bắt đầu xuất hiện từ cộng đồng nào?",
@@ -79,7 +79,7 @@
         "Dân tộc",
         "Bộ tộc"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Sự xuất hiện nhà nước là do nguyên nhân nào?",
@@ -99,7 +99,7 @@
         "Quan hệ sản xuất mầm móng",
         "Quan hệ sản xuất tiên tiến"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Nội dung nào sau đây quyết định địa vị của các giai cấp trong xã hội.",
@@ -139,7 +139,7 @@
         "Cách mạng xã hội",
         "Đảo chính"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Đỉnh cao của đấu tranh giai cấp là gì?",
@@ -149,7 +149,7 @@
         "Cách mạng bạo lực",
         "Đấu tranh chính trị"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Trong mỗi quan hệ giữa tồn tại xã hội và ý thức xã hội yếu tố nào giữ vai trò quyết định?",
@@ -169,7 +169,7 @@
         "Lực lượng cách mạng",
         "Thời cơ cách mạng"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Nội dung nào sau đây thể hiện hình thức đấu tranh kinh tế của giai cấp công nhân?",
@@ -189,7 +189,7 @@
         "Mít-tinh, biểu tình đòi rút ngắn thời gian lao động",
         "Mít-tinh, biểu tình cải thiện điều kiện làm việc"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Trong các nguyên nhân dưới đây, nguyên nhân nào gây nên hiện tượng tha hóa con người?",
@@ -199,7 +199,7 @@
         "Sự bất công, bất bình đẳng trong xã hội",
         "Pháp luật chưa nghiêm"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Theo quan điểm của C.Mác, yếu tố nào là nguồn gốc của cơ cấu xã hội- giai cấp.",
@@ -209,7 +209,7 @@
         "Quyền lực",
         "Kinh tế"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Tâm lý xã hội và hệ tư tưởng có mối quan hệ với nhau như thế nào?",
@@ -219,7 +219,7 @@
         "Độc lập với nhau",
         "Tác động lẫn nhau"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Khi các quan hệ xã hội thay đổi thì bản chất của con người sẽ như thế nào?",
@@ -229,7 +229,7 @@
         "Ít hay nhiều, sớm hay muộn cũng thay đổi theo",
         "Thay đổi rất chậm"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Loại ý thức nào phản ánh một cách sinh động, trực tiếp và chưa được khái quát hóa các mặt khác nhau trong cuộc sống hằng ngày của con người?",

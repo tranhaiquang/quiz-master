@@ -9,7 +9,7 @@
         "Quy luật từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.",
         "Quy luật phát triển."
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Khái niệm nào dùng để chỉ giai đoạn chuyển hóa cơ bản về chất của sự vật, hiện tượng do những thay đổi về lượng trước đó gây ra, là bước ngoặt cơ bản trong sự biến đổi về lượng?",
@@ -19,7 +19,7 @@
         "Điểm nút",
         "Bước nhảy"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Theo quan điểm triết học Mác – Lênin: Quy luật nào chỉ ra cách thức chung nhất của sự vận động và phát triển của sự vật?",
@@ -29,7 +29,7 @@
         "Quy luật từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại",
         "Quy luật phát triển."
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Chọn cụm từ thích hợp thay thế dấu (…): ... là hình thức hoạt động cơ bản, đầu tiên của thực tiễn, là hoạt động mà trong đó con người sử dụng những công cụ lao động tác động vào giới tự nhiên để tạo ra của cải vật chất, các điều kiện cần thiết nhằm duy trì sự tồn tại và phát triển của mình.",
@@ -59,7 +59,7 @@
         "Quan điểm siêu hình",
         "Quan điểm duy vật"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Nguyên lý nào trong triết học Mác – Lênin cho rằng: \"Các sự vật, hiện tượng của thế giới tồn tại trong mối liên hệ qua lại với nhau, quy định lẫn nhau, thâm nhập, chuyển hóa lẫn nhau, chứ không hề tách biệt nhau\"?",
@@ -69,7 +69,7 @@
         "Nguyên lý mối liên hệ phổ biến",
         "Nguyên lý khách quan"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Ai là người đưa ra định nghĩa: “phép biện chứng chẳng qua chỉ là môn khoa học về những quy luật phổ biến của sự vận động và sự phát triển của tự nhiên, của xã hội loài người và của tư duy”?",
@@ -79,7 +79,7 @@
         "Lênin",
         "Ăngghen"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Để nhận xét, đánh giá về một cá nhân nào đó, cần phải xem xét:",
@@ -109,7 +109,7 @@
         "Sự tồn tại và phát triển của xã hội",
         "Mọi quá trình sáng tạo của con người"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Xét về bản chất, các hình thái ý thức xã hội nào sẽ đối lập với nhau?",
@@ -119,7 +119,7 @@
         "Ý thức đạo đức và ý thức nghệ thuật",
         "Ý thức pháp quyền và ý thức đạo đức"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Khi nói giới tự nhiên là “thân thể vô cơ của con người”, điều này có nghĩa:",
@@ -159,7 +159,7 @@
         "Sự kết hợp giữa “lao động sống” với “lao động vật hóa” tạo ra sức sản xuất",
         "Toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng hợp thành cơ cấu kinh tế của xã hội"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Nội dung nào dưới đây nói về quan hệ sản xuất?",
@@ -169,7 +169,7 @@
         "Toàn bộ những quan điểm, tư tưởng xã hội với những thiết chế xã hội tương ứng",
         "Toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng hợp thành cơ cấu kinh tế của xã hội"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Học thuyết hình thái kinh tế - xã hội có ý nghĩa như thế nào đối với nước ta hiện nay?",
@@ -177,19 +177,19 @@
         "Vạch ra những quy luật cơ bản của sự vận động phát triển kinh tế -xã hội-quân sự",
         "Là phương pháp luận khoa học để nhận thức, cải tạo xã hội và tự nhiên",
         "Là cơ sở thế giới quan cho nước ta xây dựng chủ nghĩa xã hội, cải tạo tự nhiên, xây dựng đời sống tinh thần của xã hội",
-        "Là cơ sở khoa học của việc xác định con đường phát triển quá độ lên chủ nghĩa xã hội, bỏ qua chế"
+        "Là cơ sở khoa học của việc xác định con đường phát triển quá độ lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa."
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "độ tư bản chủ nghĩa. Quan hệ sản xuất thể hiện về mặt phân phối ở Việt Nam hiện nay như thế nào?",
+      "question": "Quan hệ sản xuất thể hiện về mặt phân phối ở Việt Nam hiện nay như thế nào?",
       "options": [
         "Làm theo năng lực, hưởng theo lao động",
         "Ai làm nhiều hưởng nhiều, làm ít hưởng ít, trừ người mất sức lao động",
         "Ai làm nhiều hưởng nhiều, làm ít hưởng ít, trừ người già và trẻ em",
         "Theo kết quả lao động, hiệu quả sản xuất và an sinh xã hội, phúc lợi xã hội"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
       "question": "Ngày nay tư tưởng trọng nam khinh nữ được thay thế bằng tư tưởng nào?",
@@ -209,7 +209,7 @@
         "Cải tạo đồng thời cả hai mặt tồn tại xã hội và ý thức xã hội",
         "Cải tạo ý thức xã hội trước, tồn tại xã hội sau"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
       "question": "Nội dung nào dưới đây thuộc hệ tư tưởng xã hội?",
@@ -219,7 +219,7 @@
         "Tinh thần yêu nước chống giặc ngoại xâm của dân tộc ta",
         "Yêu lao động, ghét sự giả dối"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "question": "Đảng ta đã giải quyết mối quan hệ giữa dân tộc với nhân loại bằng cách: Đặt lợi ích của dân tộc Việt Nam",
