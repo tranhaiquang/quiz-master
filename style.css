@@ -697,6 +697,28 @@ nav.open {
   .results-actions .btn { width: auto; }
 }
 
+.review-section-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 20px 0 12px;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.review-section-heading:first-child {
+  margin-top: 0;
+}
+
+.correct-heading {
+  background: var(--success-bg);
+  color: #16a34a;
+}
+
+.incorrect-heading {
+  background: var(--error-bg);
+  color: #dc2626;
+}
+
 .review-item {
   background: var(--surface);
   border: 1px solid var(--border);

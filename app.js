@@ -329,10 +329,12 @@ function showResults() {
     <span class="badge ${badgeClass}">${badge}</span>
   `;
 
-  document.getElementById('results-detail').innerHTML = qs.map((q, i) => {
+  const correctItems = [];
+  const incorrectItems = [];
+  qs.forEach((q, i) => {
     const userAns = state.answers[i];
     const isCorrect = userAns === q.correct;
-    return `
+    const item = `
       <div class="review-item">
         <div class="q">${i + 1}. ${escapeHtml(q.question)}</div>
         <div class="a">
@@ -342,7 +344,20 @@ function showResults() {
           ${!isCorrect ? `&nbsp;·&nbsp;Correct: ${escapeHtml(q.options[q.correct])}` : ''}
         </div>
       </div>`;
-  }).join('');
+    if (isCorrect) correctItems.push(item);
+    else incorrectItems.push(item);
+  });
+
+  let html = '';
+  if (incorrectItems.length) {
+    html += `<h2 class="review-section-heading incorrect-heading">Incorrect (${incorrectItems.length})</h2>`;
+    html += incorrectItems.join('');
+  }
+  if (correctItems.length) {
+    html += `<h2 class="review-section-heading correct-heading">Correct (${correctItems.length})</h2>`;
+    html += correctItems.join('');
+  }
+  document.getElementById('results-detail').innerHTML = html;
 
   showView('results');
 }
