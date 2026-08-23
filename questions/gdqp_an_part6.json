@@ -1,0 +1,205 @@
+{
+  "name": "GDQP-AN - Part 6",
+  "questions": [
+    {
+      "question": "Sự bảo đảm hoạt đoongn trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. Câu trên đề cập đến khái niệm về",
+      "options": [
+        "an toàn thông tin mạng",
+        "an ninh mạng",
+        "an toàn thông tin",
+        "an ninh quốc gia"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Luật an ninh mạng hiện hành được Quốc hội thông qua vào thời gian nào ?",
+      "options": [
+        "ngày 12-06-2018",
+        "ngày 16-02-2018",
+        "ngày 12-06-2019",
+        "ngày 16-02-2019"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tội phạm công nghệ cao là gì ?",
+      "options": [
+        "Tội phạm quốc tế hoạt động trong phạm vi lãnh thổ Việt Nam, sử dụng công nghệ cao để phạm tội",
+        "Tội phạm đặc biệt nguy hiểm hoạt động trong và ngoài phạm vi lãnh thổ Việt Nam, sử dụng công nghệ cao để phạm tội.",
+        "Tội phạm được thực hiện bằng việc cố ý sử dụng tri thức, kỹ năng, công cụ, phương tiện Công nghệ thông tin ở trình độ cao.",
+        "Tất cả đều đúng."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nhận định nào sau đây đúng về tình hình an toàn Thông tin ở Việt Nam trong năm 2019 ?",
+      "options": [
+        "số cuộc tấn công mạng vào các hệ thống thông tin Việt Nam có chiều hướng tăng.",
+        "Số cuộc tấn công mạng vào các hệ thống thông tin Việt Nam có chiều hướng tăng vào đầu năm, giảm vào cuối năm",
+        "Số của tấn công mạng vào các hệ thống thông tin Việt Nam tới chiều hướng giảm vào đầu năm, tăng vào cuối năm",
+        "Số cuộc tấn công mạng vào các hệ thống thông tin Việt Nam có chiều hướng giảm ."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Đâu không phải là hành vi vi phạm pháp luật trên không gian mạng ?",
+      "options": [
+        "Gửi nhiều tin nhắn cùng lúc, cho nhiều người khác nhau",
+        "Đăng thông tin sai sự thật, phát tán dưới vỏ bọc tin tức",
+        "Sử dụng lén tài khoản mạng xã hội của người khác",
+        "Đăng tin sai lệch về tình hình dịch bệnh covid-19"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Spam là gì ?",
+      "options": [
+        "Nhắn tin cùng lúc cho nhiều người, gây cảm giác bức xúc cho người nhận tin nhắn",
+        "Gửi tin nhắn liên tục cho một người, gây phiền toái cho người nhận tin nhắn",
+        "những thông điệp vô nghĩa và gây phiền toái cho người nhận, được gửi đến nhiều người dùng với một cùng một nội dung.",
+        "gửi tin nhắn tự động trên nhiều kênh khác nhau"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Các đối tượng chiếm đoạt tài khoản mạng xã hội thông thường nhằm mục đích gì ?",
+      "options": [
+        "Thực hiện âm mưu chính trị",
+        "Thể hiện trình độ công nghệ thông tin",
+        "Làm rối loạn an ninh quốc gia",
+        "Lừa đảo, chiếm đoạt tài sản, giải quyết hung hăng cá nhân."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Web gồm những trang không được đánh dấu, chỉ mục và không thể tìm kiếm được khi dùng các công cụ tìm kiếm thông thường được gọi là",
+      "options": [
+        "Dark web",
+        "Deep web",
+        "World Wide Web",
+        "Dard web và Deep web"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Hành vi lợi dụng mạng xã hội để cung cấp, chia sẻ thông tin giả mạo, thông tin sai sự thật, xuyên tạc, vu khống xúc phạm uy tín của các cơ quan tổ chức danh dự nhân phẩm của các cá nhân sẽ bị xử phạt như thế nào?",
+      "options": [
+        "Cảnh cáo",
+        "Phạt tiền từ 10-20 triệu đồng.",
+        "Giáo dục, cải tạo không giam giữ và phạt tiền",
+        "Phạt 01-03 năm tù và phạt tiền"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Pishing là gì ?",
+      "options": [
+        "Hình thức chiếm đoạt tài khoản mạng xã hội",
+        "Hình thức tín dụng đen",
+        "Hình thức chiếm quyền giám sát camera",
+        "Hình thức kinh doanh hàng cấm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Lãnh thổ không gian mạng là",
+      "options": [
+        "Lãnh thổ chưa thể xác định",
+        "một bộ phận hợp thành lãnh thổ quốc gia",
+        "lãnh thổ đang tranh chấp",
+        "Một bộ phận tách rời với chủ quyền quốc gia"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Biện pháp phòng chống vi phạm pháp luật trên không gian mạng: \" ....về bảo vệ chủ quyền quốc gia các lợi ích và sự nguy hiểm hại đến từ không gian mạng\". Chọn cụm từ thích hợp để điền vào chỗ trống trong câu trên.",
+      "options": [
+        "Bồi dưỡng cán bộ chủ chốt",
+        "Công khai chiến lược",
+        "Hợp tác quốc tế",
+        "Giáo dục nâng cao nhận thức"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Trang web nào thường xuyên đăng tải các thông tin xấu, độc hại, chia rẻ đoàn kết giữa Đảng và nhân dân ?",
+      "options": [
+        "Thông tấn xã Việt Nam",
+        "Đại đoàn kết",
+        "Dân luận",
+        "Nhịp cầu tri thức"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Đâu không phải là biện pháp phòng chống vi phạm pháp luật trên không gian mạng ?",
+      "options": [
+        "Tuyên truyền, phổ biến, giáo dục các quy định của pháp luật về quản lý không gian mạng.",
+        "Tăng cường hướng dẫn sử dụng các trang mạng xã hội",
+        "Hạn chế sử dụng các trang mạng xã hội, xây dựng trên mạng xã hội riêng ở Việt Nam",
+        "Tăng nặng các hình phạt khi có hành vi vi phạm pháp luật trên không gian mạng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Cơ quan nào của Quân đội Nhân dân Việt Nam chuyên trách vấn đề an ninh mạng ?",
+      "options": [
+        "Tổng cục Công nghiệp quốc phòng",
+        "Bộ Tư lệnh Tác chiến không gian mạng",
+        "Bộ Tổng tham mưu",
+        "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nguyên tắc của Việt Nam trong vấn đề hợp tác quốc tế về an toàn thông tin mạng là",
+      "options": [
+        "không hợp tác thì có khả năng gây mất an toàn thông tin mạng",
+        "Hợp tác rất hạn chế, tùy từng thời điểm nhất định",
+        "Hợp tác trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ quốc gia, không can thiệp vào công việc nội bộ của nhau, bình đẳng và các bên cùng có lợi",
+        "Cả hai đáp án b và c đều đúng"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Cơ sở pháp lý quy định cụ thể nhất về đảm bảo an toàn thông tin mạng là",
+      "options": [
+        "Hiến pháp năm 2013",
+        "Luật an ninh quốc gia năm 2004",
+        "Luật an toàn thông tin mạng năm 2015",
+        "Luật an toàn thông tin mạng năm 2018"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hành vi nào trên không gian mạng là hành vi vi phạm pháp luật ?",
+      "options": [
+        "Chiếm đoạt tài khoản mạng xã hội",
+        "Sử dụng cùng lúc nhiều tài khoản mạng xã hội",
+        "Sử dụng tài khoản không xác thực",
+        "Cả ba đáp án trên đều đúng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Trách nhiệm của sinh viên trên không gian mạng là gì ?",
+      "options": [
+        "Tăng thời gian tương tác trên không gian mạng để nắm bắt thông tin kịp thời",
+        "Nhận thức đúng về an toàn thông tin, không thực hiện các hành vi vi phạm pháp luật trên không gian mạng",
+        "Tích cực học tập môn giáo dục quốc phòng và an ninh",
+        "Không sử dụng mạng xã hội"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "hoạt động nào sau đây thường thấy ở Dard web?",
+      "options": [
+        "Kêu gọi biểu tình, mua bán người",
+        "Quảng cáo, buôn bán hàng, giả bất động sản",
+        "Truyền, phát trực tiếp trò chơi bạo lực",
+        "Chợ đen, khủng bố, khiêu dâm, lừa đảo"
+      ],
+      "correct": 3
+    }
+  ]
+}

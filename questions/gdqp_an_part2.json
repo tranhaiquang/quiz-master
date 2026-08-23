@@ -1,0 +1,205 @@
+{
+  "name": "GDQP-AN - Part 2",
+  "questions": [
+    {
+      "question": "Quan hệ dân tộc, sắc tộc hiện nay trên thế giới vẫn diễn ra phức tạp ở:",
+      "options": [
+        "Châu Phi và châu Mỹ Latinh",
+        "Châu Á và châu Âu",
+        "Các nước xã hội chủ nghĩa",
+        "Các quốc gia, khu vực và trên quốc tế"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lenin, giải quyết vấn đề dân tộc",
+      "options": [
+        "Vừa là quan điểm, vừa là phương châm của Nhà nước vô sản",
+        "Vừa là nhiệm vụ, vừa là phương thức của Nhà nước xã hội chủ nghĩa",
+        "Vừa là mục tiêu, vừa là động lực của cách mạng xã hội chủ nghĩa",
+        "Vừa là quan điểm, vừa là mục tiêu của Nhà nước xã hội chủ nghĩa"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Một trong những nội dung giải quyết vấn đề dân tộc theo quan điểm của Lenin là",
+      "options": [
+        "Các dân tộc phải phân chia đẳng cấp rõ ràng",
+        "Các dân tộc hoàn toàn bình đẳng",
+        "Các dân tộc phải tự trị ly khai",
+        "Các dân tộc phải có nền văn hóa chung"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, nội dung giải quyết vấn đề dân tộc như thế nào?",
+      "options": [
+        "Phải toàn diện, phong phú, sâu sắc, khoa học và cách mạng",
+        "Phải xây dựng quan hệ tốt đẹp giữa các dân tộc trong đại gia đình các dân tộc Việt Nam",
+        "Phải xây dựng quan hệ tốt đẹp giữa dân tộc Việt Nam với các quốc gia, dân tộc trên thế giới",
+        "Phải bình đẳng, đoàn kết, tôn trọng và giúp đỡ cùng phát triển"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những đặc trưng của các dân tộc ở Việt Nam là",
+      "options": [
+        "Các dân tộc thiểu số ở Việt Nam cư trú du canh, du cư",
+        "Các dân tộc thiểu số ở Việt Nam cư trú tập trung",
+        "Các dân tộc thiểu số ở Việt Nam cư trú ở rừng núi",
+        "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nhận định nào sau đây là chính xác?",
+      "options": [
+        "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển cao",
+        "Các dân tộc ở nước ta có quy mô dân số và trinh dộ phát triển còn hạn chế",
+        "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đều",
+        "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển đồng đều"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tôn giáo là một hình thái ý thức xã hội, phản ánh hiện thực khách quan, theo",
+      "options": [
+        "Trào lưu của xã hội, phù hợp với tư tưởng, tình cảm, niềm tin của con người",
+        "Quy luật phát triển của đời sống xã hội, được mọi người tin tưởng tham gia",
+        "Quan niệm hoang đường, ảo tưởng, phù hợp với tâm lý, hành vi của con người",
+        "Chuẩn mực đạo đức, truyền thống được con người tiếp nhận, tin theo"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tôn giáo có nguồn gốc từ các yếu tố",
+      "options": [
+        "Kinh tế - xã hội, ý thức và hành vi",
+        "Chính trị - xã hội, tinh thần và tâm lý",
+        "Kinh tế - xã hội, nhận thức và tâm lý",
+        "Chính trị - xã hội, kinh tế và tinh thần"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tôn giáo có những tính chất gì?",
+      "options": [
+        "Tính lịch sử, tính quần chúng, tính chính trị",
+        "Tính kế thừa, tính phát triển, tính hoàn thiện",
+        "Tính chọn lọc, tính bổ sung, tính phát triển",
+        "Tính kế thừa, tính xây dựng, tính phục vụ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lenin, giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa phải",
+      "options": [
+        "Quán triệt quan điểm tôn trọng luật pháp",
+        "Quán triệt quan điểm lịch sử, cụ thể",
+        "Quán triệt quan điểm tôn trọng quần chúng",
+        "Quán triệt quan điểm tôn trọng giáo lý"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là gì?",
+      "options": [
+        "Vận động quần chúng sống “ kính Chúa yêu nước “",
+        "Vận động quần chúng sống “ phúc âm trong lòng dân tộc “",
+        "Vận động quần chúng sống “ tốt đời, đẹp đạo “",
+        "Vận động quần chúng sống “ từ bi, bác ái “"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Để vô hiệu hóa sự lợi dụng vấn đề dân tộc, tôn giáo ở Việt Nam, giải pháp chung cơ bản nhất là gì?",
+      "options": [
+        "Thực hiện tốt chính sách đại đoàn kết toàn dân tộc",
+        "Thực hiện tốt chính sách phát triển kinh tế - xã hội",
+        "Thực hiện tốt chính sách xóa đói giảm nghèo",
+        "Thực hiện tốt chính sách đền ơn đáp nghĩa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những giải pháp cơ bản đấu tranh phòng, chống lợi dụng vấn đề dân tộc, tôn giáo là",
+      "options": [
+        "Tạo mọi điều kiện cho đồng bào các dân tộc, các tôn giáo thực hiện tốt nghĩa vụ của mình đối với đất nước",
+        "Chăm lo, nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, các tôn giáo",
+        "Chú trọng công tác giáo dục, thuyết phục đối với các già làng, trưởng bản, chức sắc tôn giáo",
+        "Kịp thời phát hiện, ngăn chặn, đối phó có hiệu quả đối với những lực lượng phản động"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Đạo Hồi ra đời vào thế kỷ VII ở bán đảo Ả Rập, đến nay đã trở thành một tôn giáo lớn với số lượng tín đồ hàng đầu thế giới, có tầm ảnh hưởng toàn cầu, điều đó thể hiện",
+      "options": [
+        "Tính lịch sử của tôn giáo",
+        "Tính quần chúng của tôn giáo",
+        "Tính chính trị của tôn giáo",
+        "Cả ba ý trên đều đúng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lenin, giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa cần",
+      "options": [
+        "Tuyệt đối không được bỏ qua vấn đề tôn giáo",
+        "Tuyệt đối không được đưa một tôn giáo trở thành quốc giáo",
+        "Tuyệt đối không được thỏa hiệp, bắt tay với các tôn giáo",
+        "Tuyệt đối không được sử dụng mệnh lệnh hành chính cưỡng chế, tuyên chiến, xóa bỏ tôn giáo"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Luật Tín ngưỡng, tôn giáo năm 2016, có bao nhiêu chương, điều?",
+      "options": [
+        "8 chương, 68 điều",
+        "8 chương, 86 điều",
+        "9 chương, 68 điều",
+        "9 chương, 86 điều"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Luật Tín ngưỡng, tôn giáo được Quốc hội khóa XIV thông qua vào ngày nào?",
+      "options": [
+        "18-11-2016",
+        "18-12-2016",
+        "19-11-2016",
+        "19-12-2016"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Chọn đáp án đúng để hoàn thành câu sau: “ Đoàn kết thống nhất đã trở thành giá trị ... truyền thống quý báu của dân tộc, là ... để dân tộc ta tiếp tục xây dựng và phát triển đất nước”",
+      "options": [
+        "Tinh thần; sức mạnh",
+        "Văn hóa; sức mạnh",
+        "Tinh thần; động lực",
+        "Văn hóa; động lực"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo Luật Tín ngưỡng, tôn giáo, cơ sở đào tạo tôn giáo phải giảng dạy môn học nào trong chương trình?",
+      "options": [
+        "Pháp luật Việt Nam",
+        "Lịch sử Việt Nam",
+        "Cả 2 môn học trên",
+        "Cả 3 đáp án trên đều sai"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Điền từ còn thiếu vào câu sau: “... là cơ quan ngang Bộ của Chính phủ Việt Nam có chức năng quản lý nhà nước về lĩnh vực công tác dân tộc trong phạm vi cả nước”",
+      "options": [
+        "Ủy ban đoàn kết dân tộc",
+        "Hội liên hiệp các dân tộc",
+        "Hội đồng Dân tộc",
+        "Ủy ban Dân tộc"
+      ],
+      "correct": 3
+    }
+  ]
+}

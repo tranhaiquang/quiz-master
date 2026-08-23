@@ -1,0 +1,205 @@
+{
+  "name": "GDQP-AN - Part 1",
+  "questions": [
+    {
+      "question": "Hãy tìm câu trả lời sai: Một trong những thủ đoạn của chiến lược “Diễn biến hoà bình” là",
+      "options": [
+        "Xâm nhập về văn hoá.",
+        "Phát động chiến tranh hạt nhân.",
+        "Chống phá về chính trị, tư tưởng.",
+        "Vô hiệu hoá lực lượng vũ trang."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tìm câu trả lời sai: Một trong những đặc trưng chủ yếu của bạo loạn lật đổ là",
+      "options": [
+        "Hành động phá hoại của các thế lực thù địch cả trong và ngoài nước.",
+        "Hoạt động thuần tuý quân sự.",
+        "Nhằm lật đổ chính quyền để thiết lập chính quyền phản động ở địa phương hoặc trung ương.",
+        "Hoạt động vừa vũ trang, vừa phi vũ trang của các lực lượng phản động trong nước."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tìm câu hỏi trả lời sai: Một trong những đặc điểm của hoạt động gây rối là",
+      "options": [
+        "Diễn ra tự phát do các phần tử chống đối trong xã hội kích động.",
+        "Có khi lôi kéo được một bộ phận quần chúng tham gia.",
+        "Hoạt động biểu tình có tổ chức.",
+        "Dễ bị địch lợi dụng để tập dượt hoặc mở màn cho bạo loạn lật đổ."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tìm câu trả lời đúng: Mục tiêu của chiến lược “Diễn biến hoà bình” là gì?",
+      "options": [
+        "Tạo ra sự sụp đổ từ bên trong.",
+        "Gây rối loạn trật tự trị an.",
+        "Tạo điều kiện cho các lực lượng bên ngoài can thiệp.",
+        "Tạo sự xâm lăng văn hoá."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mục đích của các thế lực thù địch khi tuyên truyền luận điệu “phi chính trị hoá” lực lượng vũ trang là",
+      "options": [
+        "Phá hoại trật tự, an toàn xã hội.",
+        "Gây rối loạn trật tự, trị an.",
+        "Kích động bạo loạn chính trị ở quy mô lớn.",
+        "Xoá bỏ vai trò lãnh đạo của Đảng với lực lượng vũ trang."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tìm câu trả lời sai: Một trong những nội dung chống phá về chính trị, tư tưởng của chiến lược “Diễn biến hoà bình” là",
+      "options": [
+        "Xoá chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh, quan điểm đường lối của Đảng.",
+        "Phá vỡ hệ thống kinh tế nhà nước.",
+        "Phá vỡ khối đại đoàn kết của toàn dân, của các tổ chức chính trị xã hội.",
+        "Phá vỡ hệt thống nguyên tắc tổ chức trong hệ thống chính trị, nhất là nguyên tắc tập trung dân chủ."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tìm câu trả lời sai: Một trong những nội dung chống phá về kinh tế của chiến lược “Diễn biến hoà bình” là",
+      "options": [
+        "Phá vỡ quan hệ sản xuất xã hội chủ nghĩa.",
+        "Phá vỡ các thiết chế kinh tế.",
+        "Phá vỡ phong tục tập quán, thuần phong mỹ tục.",
+        "Phá hoại kinh tế bằng các rào cản kĩ thuật."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Chọn câu trả lời sai: Một trong những nội dung chống phá về tôn giáo, dân tộc của chiến lược “Diễn biến hoà bình” là",
+      "options": [
+        "Triệt để khai thác mâu thuẫn giữa các dân tộc để kích động, mua chuộc, xúi giục.",
+        "Triệt để lợi dụng chính sách tự do tín ngưỡng để truyền bá tư tưởng phản động",
+        "Tạo dựng lực lượng đối trọng với nhà nước; tạo cơ hội nhen nhóm, cài cắm lực lượng và xây dựng tổ chức phản động.",
+        "Xây dựng khối đại đoàn kết toàn dân."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Hãy tìm câu sai: Một trong những nội dung chống phá về văn hoá của chiến lược “Diễn biến hoà bình” đối với các lực lượng vũ trang là",
+      "options": [
+        "Truyền bá giá trị văn hoá ngoại lai.",
+        "Phá hoại thuần phong mỹ tục.",
+        "Tuyên truyền tư tưởng tiến bộ.",
+        "Áp đặt các giá trị văn hoá bên ngoài."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tìm câu trả lời sai: Một trong những nội dung để vô hiệu hoá chiến lược “Diễn biến hoà bình” đối với các lực lượng vũ trang là",
+      "options": [
+        "Phi chính trị hoá Quân đội và Công an.",
+        "Xây dựng Quân đội và Công an chính quy, tinh nhuệ, từng bước hiện đại.",
+        "Phá vỡ hệ thống chính trị, tư tưởng, tổ chức của các lực lượng này.",
+        "Gây chia rẽ mất đoàn kết giữa hai lực lượng."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tìm câu trả lời sai: Một trong những mục tiêu nhất quán của chủ nghĩa đế quốc và các thế lực thù địch sử dụng chiến lược “Diễn biến hoà bình” đối với Việt Nam là",
+      "options": [
+        "Xoá bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+        "Xoá bỏ chế độ xã hội chủ nghĩa ở nước ta, lái nước ta theo con đường chủ nghĩa tư bản và lệ thuộc vào chủ nghĩa đế quốc.",
+        "Làm tan rã sức mạnh và ý chí khối đại đoàn kết toàn dân tộc.",
+        "Giữ vững định hướng xã hội chủ nghĩa."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Chủ nghĩa đế quốc và các thế lực thù địch sử dụng các vấn đề nhạy cảm nào để chống phá cách mạng Việt Nam?",
+      "options": [
+        "Dân tộc.",
+        "Tôn giáo.",
+        "Nhân quyền.",
+        "Cả 3 vấn đề trên."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Chiến lược “Diễn biến hoà bình” hình thành và phát triển qua mấy giai đoạn?",
+      "options": [
+        "Hai giai đoạn.",
+        "Ba giai đoạn.",
+        "Bốn giai đoạn.",
+        "Năm giai đoạn."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tìm câu trả lời sai: Những thủ đoạn chống phá thâm độc của chiến lược “Diễn biến hoà bình” gồm",
+      "options": [
+        "Thủ đoạn về kinh tế, chính trị.",
+        "Thủ đoạn về tư tưởng – văn hoá, trong lĩnh vực dân tộc, tôn giáo.",
+        "Thủ đoạn trên lĩnh vực quốc phòng, an ninh, đối ngoại.",
+        "Thủ đoạn hợp tác, liên doanh, liên kết kinh tế."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tìm quan điểm không đúng: Quan điểm của Đảng ta chỉ đạo phòng, chống “Diễn biến hoà bình” hiện nay là gì?",
+      "options": [
+        "Đấu tranh chống “Diễn biến hoà bình” là một cuộc đấu tranh giai cấp, đấu tranh dân tộc gay go, quyết liệt và phức tạp trên mọi lĩnh vực.",
+        "Chống “Diễn biến hoà bình” là cấp bách hàng đầu trong các nhiệm vụ quốc phòng, an ninh hiện nay để bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa.",
+        "Sử dụng sức mạnh bạo lực đập tan âm mưu, thủ đoạn “Diễn biến hoà bình” của các thế lực thù địch.",
+        "Phát huy sức mạnh tổng hợp của khối đại đoàn kết toàn dân, của cả hệ thống chính trị, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam trong đấu tranh chống “Diễn biến hoà bình”."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Bạo loạn lật đổ chủ yếu diễn ra trên lĩnh vực nào?",
+      "options": [
+        "Kinh tế.",
+        "Văn hoá.",
+        "Ngoại giao.",
+        "Chính trị."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Chiến lược “Diễn biến hoà bình” được thực hiện theo phương châm nào?",
+      "options": [
+        "Đánh nhanh – thắng nhanh.",
+        "Cơ bản – lâu dài.",
+        "Mềm – ngầm – sâu.",
+        "Đánh chậm – tiến chắc."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Thủ đoạn về kinh tế trong chiến lược “Diễn biến hoà bình” của địch được coi là gì?",
+      "options": [
+        "Mũi nhọn.",
+        "Hàng đầu.",
+        "Ngòi nổ.",
+        "Hậu thuẫn."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Thế lực thù địch thường tập trung thực hiện chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ ở đâu?",
+      "options": [
+        "Nơi yếu kém về mọi mặt.",
+        "Nơi trung tâm kinh tế.",
+        "Nơi trung tâm văn hoá.",
+        "Trung tâm văn hoá – chính trị."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sự giống nhau giữa chiến lược “Diễn biến hoà bình” và bạo loạn lật đổ là gì?",
+      "options": [
+        "Bản chất, mục tiêu, quy mô.",
+        "Mục tiêu, chủ thể, biện pháp.",
+        "Bản chất, mục tiêu, chủ thể.",
+        "Bản chất, biện pháp, hình thức."
+      ],
+      "correct": 2
+    }
+  ]
+}

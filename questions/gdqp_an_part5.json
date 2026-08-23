@@ -1,0 +1,205 @@
+{
+  "name": "GDQP-AN - Part 5",
+  "questions": [
+    {
+      "question": "Hoàn thành câu sau: “Bảo vệ con người trước hết là … và tự do của họ.”",
+      "options": [
+        "bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm",
+        "bảo vệ danh dự, nhân phẩm, tính mạng, sức khỏe",
+        "bảo vệ sức khỏe, danh dự, nhân phẩm",
+        "bảo vệ danh dự, nhân phẩm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Công cụ hữu hiệu nhất để bảo vệ quyền con người là",
+      "options": [
+        "hệ thống pháp luật",
+        "hệ thống chính trị",
+        "chuẩn mực đạo đức",
+        "phát triển kinh tế"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo quy định của pháp luật những người từ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm ?",
+      "options": [
+        "Từ 14 tuổi trở lên",
+        "Từ 13 tuổi trở lên",
+        "Từ 18 tuổi trở lên",
+        "Từ 16 tuổi trở lên"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo Bộ luật Hình sự những người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về tội rất nghiêm trọng và tội đặc biệt nghiêm trọng ?",
+      "options": [
+        "Từ đủ 13 tuổi đến dưới 14 tuổi",
+        "Từ đủ 14 tuổi đến dưới 16 tuổi",
+        "Từ đủ 16 tuổi đến dưới 18 tuổi",
+        "Từ đủ 13 tuổi đến dưới 16 tuổi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Thế nào là khách thể của vi phạm pháp luật ?",
+      "options": [
+        "Là quan hệ được pháp luật thừa nhận nhưng không bị hành vi vi phạm pháp luật xâm hại",
+        "Là mối quan hệ giữa người có hành vi vi phạm pháp luật và pháp luật hiện hành",
+        "Là quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại",
+        "Là người chịu trách nhiệm về hành vi vi phạm pháp luật"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "''Là trạng thái tâm lý bên trong của chủ thể khi thực hiện hành vi trái pháp luật, bao gồm các yếu tố: lỗi, động cơ, mục đích vi phạm pháp luật. Phần lớn các tội phạm được thực hiện với lỗi cố ý trực tiếp'' thuộc dấu hiệu pháp lý nào sau đây ?",
+      "options": [
+        "Mặt chủ quan của các tội về cố ý gây hại đến cơ thể của con người",
+        "Mặt khách quan của các tội xâm phạm danh dự, nhân phẩm của con người",
+        "Mặt khách quan của các tội về cố ý gây hại đến cơ thể của con người",
+        "Mặt chủ quan của các tội xâm phạm danh dự, nhân phẩm của con người"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Các tội phạm xâm phạm danh dự, nhân phẩm được phân thành mấy loại ?",
+      "options": [
+        "2 loại",
+        "1 loại",
+        "4 loại",
+        "3 loại"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tội phạm nào sau đây thuộc nhóm các tội làm nhục người khác ?",
+      "options": [
+        "tội hãm hiếp",
+        "tội vu khống",
+        "tội cố ý gây thương tích",
+        "tội xúc phạm nhân thân của người khác"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tội chiếm đoạt người dưới 16 tuổi thuộc nhóm tội phạm nào sau đây ?",
+      "options": [
+        "các tội vu khống",
+        "các tội lừa đảo, chiếm đoạt tài sản",
+        "các tội mua bán người",
+        "các tội làm nhục người khác"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "\"Quản lý, giáo dục cải tạo và tái hòa nhập cộng đồng đối với người phạm tội, vi phạm pháp luật và đối tượng có nguy cơ phạm tội.\" thuộc nội dung nào sau đây là đúng ?",
+      "options": [
+        "Tổ chức tiến hành các hoạt động phòng ngừa tội phạm",
+        "Tổ chức tiến hành các hoạt động phòng ngừa tin tặc",
+        "Tổ chức tiến hành các hoạt động phòng ngừa buôn lậu",
+        "Tổ chức tiến hành các hoạt động phòng ngừa bán trẻ em"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "\" Kiểm sát việc tuân thủ pháp luật đối với các hoạt động điều tra, xét xử thi hành án, giam giữ, giáo dục cải tạo phạm nhân, giữ quyền công tố\" thuộc cơ quan bảo vệ pháp luật nào sau đây ?",
+      "options": [
+        "Tòa án nhân dân",
+        "Ủy ban nhân dân xã/phường/thị trấn",
+        "Công an xã/phường/thị trấn",
+        "viện kiểm soát nhân dân"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nghiên cứu xác định rõ nguyên nhân, điều kiện của tình trạng phạm tội nhằm mục đích gì ?",
+      "options": [
+        "phòng ngừa phạm nhân",
+        "phòng ngừa tội phạm",
+        "phòng ngừa tai nạn giao thông",
+        "phòng ngừa vấn nạn tham nhũng"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Mục đích của công tác phòng chống tội phạm nào sau đây là đúng ?",
+      "options": [
+        "Là khắc phục, thủ tiêu các nguyên nhân, điều kiện của tình trạng phạm tội nhằm ngăn chặn, hạn chế, làm giảm từng bước tiến tới loại trừ tội phạm này ra khỏi đời sống xã hội.",
+        "Là khắc phục, thủ tiêu các các kết quả của tình trạng phạm tội nhằm ngăn chặn, hạn chế, làm giảm từng bước tiến tới loại trừ tội phạm này ra khỏi đời sống xã hội.",
+        "Là loại trừ các nguyên nhân, điều kiện của tình trạng phạm tội nhằm hạn chế, các bước tiến tới gia tăng tội phạm này trong xã hội.",
+        "Là khắc phục các kết quả của tình trạng phạm tội nhằm gia tăng tiến tới cắt bớt tội phạm này ra khỏi đời sống xã hội."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tổ chức tiến hành các hoạt động phòng ngừa tội phạm có mấy nội dung ?",
+      "options": [
+        "2 nội dung",
+        "4 nội dung",
+        "5 nội dung",
+        "3 nội dung"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Phòng chống tội phạm xâm hại danh dự, nhân phẩm được tiến hành theo các hướng cơ bản nào ?",
+      "options": [
+        "1 hướng",
+        "2 hướng",
+        "3 hướng",
+        "4 hướng"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Để phòng ngừa có hiệu quả tội phạm các cơ quan chức năng phải làm gì ?",
+      "options": [
+        "Chưa xác định chưa chính xác những nguyên nhân, điều kiện của tội phạm xâm hại danh dự nhân phẩm",
+        "Chưa xác định chính xác những hậu quả của tội phạm xâm hại nhân thân, xây dựng chiến lược phòng ngừa phù hợp",
+        "Xác định không chính xác những điều kiện của tội phạm xâm hại danh dự nhân phẩm",
+        "Xác định chính xác những nguyên nhân, điều kiện của tội phạm xâm hại danh dự nhân phẩm xây dựng chiến lược phòng ngừa phù hợp"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Là việc các cơ quan Nhà nước, các tổ chức xã hội và công dân bằng nhiều biện pháp nhằm khắc phục những nguyên nhân, điều kiện của tình trạng phạm tội nhằm ngăn chặn, hạn chế và làm giảm từng bước, tiến tới loại trừ tội phạm ra khỏi đời sống xã hội\" thuộc vấn đề nào sau đây ?",
+      "options": [
+        "Khái niệm phòng chống tội phạm xâm hại danh dự, nhân phẩm",
+        "Định nghĩa phòng tránh bị bắt nạn trong học đường",
+        "Biện pháp hạn chế tội phạm trong đời sống xã hội",
+        "Phương pháp cưỡng chế nhằm giảm số lượng tội phạm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nội dung: “ Mọi người có quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về sức khỏe, danh dự và nhân phẩm” được quy định trong văn bản pháp lý nào ?",
+      "options": [
+        "Điều 20 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013",
+        "Điều 19 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013",
+        "Điều 20 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1999",
+        "Điều 19 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1999"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xâm phạm tới quyền được tôn trọng và bảo vệ về nhân phạm và danh dự là lỗi được thực hiện",
+      "options": [
+        "Cố ý hoặc vô ý",
+        "cố ý",
+        "vô ý nhưng hậu quả nghiêm trọng",
+        "cả b và c đều đúng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nhân phẩm của một con người cụ thể được hiểu là",
+      "options": [
+        "phẩm chất, giá trị của con người",
+        "phẩm chất, trình độ của con người",
+        "phẩm chất, nhân cách của con người",
+        "giá trị, năng lực"
+      ],
+      "correct": 0
+    }
+  ]
+}
