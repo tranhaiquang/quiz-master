@@ -6,7 +6,8 @@
       "options": [
         "Vi phạm dân sự.",
         "Vi phạm hình sự.",
-        "Cả a và"
+        "Vi phạm hành chính.",
+        "Cả a và c."
       ],
       "correct": 2
     },
@@ -97,7 +98,7 @@
         "Tính không có lỗi.",
         "Cả a và"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "question": "Luật Giao thông đường bộ hiện hành do ai ký ban hành?",
