@@ -1,0 +1,205 @@
+{
+  "name": "Giáo dục Quốc phòng - An ninh (HP1) - Phần 7",
+  "questions": [
+    {
+      "question": "Về chiến lược quân sự, chúng ta xác định thời điểm mở đầu và kết thúc chiến tranh đúng lúc là khi chúng ta:",
+      "options": [
+        "Có đủ lực lượng và vũ khí",
+        "Được quốc tế ủng hộ và giúp đỡ",
+        "Đã xây dựng được thế trận vững mạnh, lực lượng đầy đủ",
+        "Đã đáp ứng được mọi điều kiện của hoàn cảnh lịch sử"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Trong phương châm tiến hành chiến tranh được Đảng ta chỉ đạo:",
+      "options": [
+        "Tự lực cánh sinh và dựa vào các nước để đánh lâu dài",
+        "Tự lực cánh sinh, đánh lâu dài, dựa vào sức mình là chính",
+        "Tự lực cánh sinh, đánh nhanh, thắng nhanh, dựa vào sức mình là chính",
+        "Tự lực cánh sinh, đánh lâu dài, dựa vào sức mạnh thời đại"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Một số loại hình chiến dịch trong nghệ thuật quân sự Việt Nam là:",
+      "options": [
+        "Chiến dịch phục kích, tập kích, đổ bộ đường không tổng hợp",
+        "Chiến dịch tiến công, phản công, phòng ngự, phòng không, tiến công tổng hợp",
+        "Chiến dịch tiến công, tập kích đường không chiến lược",
+        "Chiến dịch tiến công đường chiến lược bằng vũ khí công nghệ cao"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Trong chiến dịch Điện Biên Phủ chúng ta đã thay đổi phương châm tác chiến đó là:",
+      "options": [
+        "Đánh lâu dài sang đánh nhanh, thắng nhanh",
+        "Đánh nhanh thắng nhanh sang đánh lâu dài",
+        "Đánh lâu dài sang đánh chắc, tiến chắc",
+        "Đánh nhanh thắng nhanh sang đánh chắc, tiến chắc"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Các hình thức chiến thuật thường vận dụng trong giai đoạn đầu kháng chiến chống Pháp và chống Mỹ:",
+      "options": [
+        "Phản công, phòng ngự, tập kích",
+        "Tập kích, phục kích, vận động tiến công",
+        "Phục kích, đánh úp, đánh công kiên",
+        "Phòng ngự, phục kích, phản kích"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Bài học kinh nghiệm về nghệ thuật quân sự Việt Nam được vận dụng hiện nay:",
+      "options": [
+        "Quán triệt tư tưởng tích cực tiến công và phòng ngự",
+        "Quán triệt tư tưởng tích cực phòng ngự và chủ động phản công",
+        "Quán triệt tư tưởng tích cực phòng ngự",
+        "Quán triệt tư tưởng tích cực tiến công"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Bài học kinh nghiệm về nghệ thuật quân sự Việt Nam được vận dụng vào sự nghiệp bảo vệ Tổ quốc trong thời kỳ mới là:",
+      "options": [
+        "Tạo sức mạnh tổng hợp bằng giáo dục truyền thống",
+        "Tạo sức mạnh tổng hợp bằng xây dựng phát triển kinh tế",
+        "Tạo sức mạnh tổng hợp bằng mưu kế, thế, thời, lực",
+        "Tạo sức mạnh tổng hợp bằng thiên thời, địa lợi, nhân hòa"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Diễn biến hòa bình là chiến lược cơ bản nhằm:",
+      "options": [
+        "Lật đổ chế độ chính trị của các nước tiến bộ, trước hết là các nước XHCN",
+        "Lật đổ chế độ kinh tế - xã hội của các nước tiến bộ, trước hết là các nước XHCN",
+        "Lật đổ chế độ chính trị cộng sản của các nước tiến bộ, trước hết là các nước XHCN",
+        "Lật đổ Đảng lãnh đạo các nước tiến bộ, trước hết là các nước XHCN"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Chiến lược \"diễn biến hòa bình\" do lực lượng nào tiến hành:",
+      "options": [
+        "Chủ nghĩa đế quốc và các lực lượng khủng bố",
+        "Chủ nghĩa đế quốc và các thế lực phản động",
+        "Chủ nghĩa đế quốc và các phần tử cơ hội",
+        "Chủ nghĩa đế quốc và các phần tử quá khích"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Bạo loạn lật đổ là hành động chống phá bằng:",
+      "options": [
+        "Bạo lực",
+        "Kinh tế",
+        "Chính trị",
+        "Quân sự"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Bạo loạn lật đổ gồm có những hình thức nào:",
+      "options": [
+        "Bạo loạn chính trị và bạo loạn vũ trang",
+        "Bạo loạn vũ trang kết hợp với gây rối",
+        "Kết hợp bạo loạn chính trị với vũ trang",
+        "Cả A và C đúng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Mục tiêu nhất quán của chủ nghĩa đế quốc và các lực lượng thù địch trong sử dụng chiến lược diễn biến hòa bình đối với cách mạng Việt Nam nhằm thực hiện âm mưu:",
+      "options": [
+        "Xóa bỏ vai trò lãnh đạo của Đảng, xóa bỏ chế độ Xã hội Chủ nghĩa",
+        "Lôi nước ta đi theo con đường tư bản chủ nghĩa và lệ thuộc vào chủ nghĩa đế quốc",
+        "Xóa bỏ các tổ chức chính trị và buộc ta chấp nhận các điều kiện của chúng",
+        "Cả A và B đúng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Lực lượng tự vệ được tổ chức ở:",
+      "options": [
+        "Ở xã, phường thị trấn",
+        "Ở cơ quan nhà nước, tổ chức chính trị",
+        "Tổ chức chính trị xã hội, đơn vị sự nghiệp, tổ chức kinh tế",
+        "Cả B và C"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Vị trí, vai trò của lực lượng dân quân tự vệ:",
+      "options": [
+        "Dân quân tự vệ là lực lượng cơ bản trong xây dựng nền quốc phòng toàn dân",
+        "Dân quân tự vệ là một lực lượng chiến lược trong chiến tranh nhân dân, quốc phòng toàn dân",
+        "Dân quân tự vệ là lực lượng xung kích trong xây dựng nền quốc phòng toàn dân",
+        "Dân quân tự vệ là lực lượng xung kích trong xây dựng nền quốc phòng toàn dân và an ninh nhân dân"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nhiệm vụ của lực lượng dân quân tự vệ:",
+      "options": [
+        "Học tập chính trị và huấn luyện quân sự",
+        "Học tập chính trị, pháp luật, huấn luyện quân sự và diễn tập",
+        "Thực hiện các nhiệm vụ khác theo quy định của pháp luật",
+        "Cả B và C"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Phương châm xây dựng lực lượng dân quân tự vệ:",
+      "options": [
+        "Vững mạnh, rộng khắp coi trọng chất lượng là chính",
+        "Vững mạnh, toàn diện lấy chất lượng chính trị là chính",
+        "Vững mạnh, coi trọng cả số lượng và chất lượng",
+        "Vững mạnh về mọi mặt, lấy chính trị làm cơ sở"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dân quân tự vệ được tổ chức thành 2 lực lượng là:",
+      "options": [
+        "Lực lượng cơ động và lực lượng rộng rãi",
+        "Lực lượng nòng cốt và lực lượng rộng rãi",
+        "Lực lượng quân sự và lực lượng chính trị",
+        "Lực lượng cơ động và lực lượng dự bị"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Nhiệm vụ của lực lượng dân quân tự vệ cơ động:",
+      "options": [
+        "Trực tiếp chiến đấu, phục vụ chiến đấu",
+        "Cơ động chiến đấu, chiến đấu tại chỗ",
+        "Chiến đấu, chi viện cho lực lượng quân đội và công an khi cần",
+        "Chiến đấu, chi viện cho lực lượng chiến đấu tại chỗ và địa phương khác khi cần"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Khi hết thời gian phục vụ trong lực lượng dân quân tự vệ nòng cốt thì có thể tham gia:",
+      "options": [
+        "Lực lượng dân quân tự vệ cơ động",
+        "Lực lượng dân quân tự vệ tại chỗ",
+        "Lực lượng dân quân tự vệ rộng rãi",
+        "Lực lượng dân quân tự vệ thường trực"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Độ tuổi của công dân Việt Nam tham gia lực lượng dân quân tự vệ:",
+      "options": [
+        "Nam từ đủ 18 tuổi đến hết 30 tuổi; nữ từ đủ 18 tuổi đến hết 35 tuổi",
+        "Nam từ đủ 18 tuổi đến hết 35 tuổi; nữ từ đủ 18 tuổi đến hết 35 tuổi",
+        "Nam từ đủ 18 tuổi đến hết 40 tuổi; nữ từ đủ 18 tuổi đến hết 35 tuổi",
+        "Nam từ đủ 18 tuổi đến hết 45 tuổi; nữ từ đủ 18 tuổi đến hết 40 tuổi"
+      ],
+      "correct": 3
+    }
+  ]
+}

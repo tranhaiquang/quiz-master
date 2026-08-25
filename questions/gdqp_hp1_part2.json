@@ -1,0 +1,205 @@
+{
+  "name": "Giáo dục Quốc phòng - An ninh (HP1) - Phần 2",
+  "questions": [
+    {
+      "question": "Chủ tịch Hồ Chí Minh khẳng định Quân đội nhân dân Việt Nam có nhiệm vụ:",
+      "options": [
+        "Xây dựng quân đội ngày càng hùng mạnh và sẵn sàng chiến đấu",
+        "Xây dựng quân đội ngày càng hùng hậu và sẵn sàng chiến đấu",
+        "Xây dựng quân đội ngày càng đông đảo và sẵn sàng chiến đấu",
+        "Xây dựng quân đội có chất lượng cao và sẵn sàng chiến đấu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Chủ tịch Hồ Chí Minh khẳng định một trong hai nhiệm vụ chính của quân đội ta là:",
+      "options": [
+        "Tiến hành phổ biến chính sách của Đảng, Nhà nước cho nhân dân",
+        "Giúp nhân dân cải thiện đời sống vật chất tinh thần",
+        "Thiết thực tham gia lao động sản xuất, góp phần xây dựng chủ nghĩa xã hội",
+        "Làm nòng cốt phát triển kinh tế tại nơi đóng quân"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam có những chức năng:",
+      "options": [
+        "Chiến đấu và sẵn sàng chiến đấu",
+        "Chiến đấu, lao động sản xuất",
+        "Chiến đấu, công tác, lao động sản xuất",
+        "Chiến đấu tham gia giữ gìn hòa bình khu vực"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Quan điểm đầu tiên của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa:",
+      "options": [
+        "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ thường xuyên liên tục",
+        "Bảo vệ tổ quốc xã hội chủ nghĩa là tất yếu khách quan",
+        "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ cấp thiết trước mắt",
+        "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ trọng yếu của toàn dân"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Bác Hồ nói với Đại đoàn quân tiên phong trong lần về thăm Đền Hùng năm 1954:",
+      "options": [
+        "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước",
+        "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau bảo vệ đất nước",
+        "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau xây dựng đất nước",
+        "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau bảo vệ Tổ quốc"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, mục tiêu bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là:",
+      "options": [
+        "Sự nghiệp đổi mới",
+        "Sự nghiệp công nghiệp hóa hiện đại hóa",
+        "Bản sắc văn hóa dân tộc",
+        "Độc lập dân tộc và chủ nghĩa xã hội"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tư tưởng Hồ Chí Minh về sức mạnh bảo vệ Tổ quốc:",
+      "options": [
+        "Là sức mạnh của cả dân tộc, kết hợp với sức mạnh của nền quốc phòng toàn dân",
+        "Là sức mạnh tổng hợp của cả dân tộc, cả nước kết hợp với sức mạnh thời đại",
+        "Là sức mạnh của toàn dân, lấy lực lượng vũ trang làm nòng cốt",
+        "Là sức mạnh của lực lượng vũ trang nhân dân, sức mạnh quốc phòng toàn dân"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Vai trò lãnh đạo sự nghiệp bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa thuộc về:",
+      "options": [
+        "Các đoàn thể, các tổ chức chính trị xã hội",
+        "Lực lượng vũ trang nhân dân Việt Nam",
+        "Đảng Cộng sản Việt Nam",
+        "Toàn bộ hệ thống chính trị ở Việt Nam"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Đảng ta khẳng định vị trí của nền quốc phòng toàn dân, an ninh nhân dân:",
+      "options": [
+        "Xây dựng kinh tế là chủ yếu, quốc phòng, an ninh là thứ yếu",
+        "Chỉ coi trọng quốc phòng, an ninh khi đất nước có chiến tranh",
+        "Luôn luôn coi trọng quốc phòng, an ninh, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ",
+        "Luôn luôn coi trọng quốc phòng, an ninh, coi đó là nền tảng để xây dựng đất nước"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Đặc trưng đầu tiên của nền quốc phòng toàn dân, an ninh nhân dân:",
+      "options": [
+        "Mang tính chất tự vệ do giai cấp công nhân tiến hành",
+        "Chỉ có mục đích duy nhất là tự vệ chính đáng",
+        "Vững mạnh toàn diện để tự vệ chính đáng",
+        "Được xây dựng hiện đại có sức mạnh tổng hợp"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Đặc trưng mang tính truyền thống của nền quốc phòng toàn dân, an ninh nhân dân:",
+      "options": [
+        "Nền quốc phòng, an ninh vì dân, của dân và toàn thể nhân dân tiến hành",
+        "Nền quốc phòng, an ninh mang tính giai cấp, dân tộc sâu sắc",
+        "Nền quốc phòng, an ninh bảo vệ quyền lợi của dân",
+        "Nền quốc phòng, an ninh do nhân dân xây dựng, mang tính chất nhân dân sâu sắc"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sức mạnh của nền quốc phòng toàn dân, an ninh nhân dân bao gồm:",
+      "options": [
+        "Sức mạnh do các yếu tố chính trị, văn hóa, khoa học",
+        "Sức mạnh quốc phòng, an ninh hiện đại",
+        "Sức mạnh của quân đội nhân dân, công an nhân dân",
+        "Có sức mạnh tổng hợp do nhiều yếu tố tạo thành"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân là:",
+      "options": [
+        "Tạo sức mạnh tổng hợp và tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc",
+        "Tạo ra sức mạnh quân sự để ngăn chặn nguy cơ chiến tranh",
+        "Tạo ra tiềm lực kinh tế để phòng thủ đất nước",
+        "Tạo ra môi trường hòa bình để phát triển đất nước theo định hướng XHCN"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nhiệm vụ xây dựng nền quốc phòng toàn dân và an ninh nhân dân là:",
+      "options": [
+        "Xây dựng các cấp chính quyền ở cơ sở và lực lượng dân quân tự vệ vững mạnh",
+        "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam XHCN",
+        "Xây dựng lực lượng công an, quân đội vững mạnh",
+        "Xây dựng tiềm lực quân sự, an ninh vững mạnh"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là:",
+      "options": [
+        "Xây dựng và phát triển kinh tế xã hội ngày càng vững mạnh",
+        "Xây dựng đất nước và phát triển kinh tế",
+        "Xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+        "Xây dựng và phát triển kinh tế, quốc phòng an ninh nhân dân"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Lực lượng của nền Quốc phòng toàn dân, an ninh nhân dân bao gồm:",
+      "options": [
+        "Lực lượng toàn dân, lực lượng vũ trang nhân dân",
+        "Lực lượng quân đội nhân dân và công an nhân dân",
+        "Lực lượng toàn dân và dân quân tự vệ",
+        "Lực lượng dự bị động viên và dân quân tự vệ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tiềm lực quốc phòng – an ninh là:",
+      "options": [
+        "Khả năng về của cải vật chất có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh",
+        "Khả năng về nhân lực, vật lực, tài chính có thể huy động để thực hiện nhiệm vụ QP-AN",
+        "Khả năng về tài chính có thể huy động phục vụ cho nhiệm vụ quốc phòng, an ninh",
+        "Khả năng về phương tiện kỹ thuật có thể huy động thực hiện nhiệm vụ quốc phòng an ninh"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tiềm lực quốc phòng, an ninh được thể hiện ở tất cả các lĩnh vực đời sống xã hội nhưng tập trung ở:",
+      "options": [
+        "Tiềm lực chính trị, tinh thần; khoa học và công nghệ; kinh tế; quân sự, an ninh",
+        "Tiềm lực chính trị, tinh thần; đối ngoại, khoa học và công nghệ",
+        "Tiềm lực công nghiệp quốc phòng, khoa học quân sự",
+        "Tiềm lực chính trị, tinh thần; văn hóa xã hội; kinh tế"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân – an ninh nhân dân:",
+      "options": [
+        "Là khả năng về chính trị, tinh thần của xã hội để thực hiện nhiệm vụ quốc phòng",
+        "Là khả năng về chính trị, ý chí, quyết tâm chiến đấu chống quân xâm lược của toàn dân",
+        "Là khả năng về chính trị, tinh thần có thể huy động nhằm tạo thành sức mạnh để thực hiện nhiệm vụ quốc phòng an ninh",
+        "Là khả năng về chính trị, tinh thần của nhân dân được huy động để thực hiện nhiệm vụ quốc phòng an ninh"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nội dung xây dựng tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân, an ninh nhân dân:",
+      "options": [
+        "Xây dựng lòng yêu nước, niềm tin vào Đảng, Nhà nước, chế độ Xã hội Chủ nghĩa",
+        "Xây dựng hệ thống chính trị trong sạch, vững mạnh, phát huy quyền làm chủ của nhân dân",
+        "Xây dựng khối đại đoàn kết toàn dân, nâng cao cảnh giác cách mạng, thực hiện tốt giáo dục QP-AN",
+        "Tất cả đều đúng"
+      ],
+      "correct": 3
+    }
+  ]
+}

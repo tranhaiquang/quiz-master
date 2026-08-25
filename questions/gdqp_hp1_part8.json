@@ -1,0 +1,205 @@
+{
+  "name": "Giáo dục Quốc phòng - An ninh (HP1) - Phần 8",
+  "questions": [
+    {
+      "question": "Tiểu đội trưởng, trung đội trưởng dân quân tự vệ do ai bổ nhiệm:",
+      "options": [
+        "Chỉ huy trưởng Ban chỉ huy quân sự xã bổ nhiệm",
+        "Chủ tịch ủy ban nhân dân xã bổ nhiệm",
+        "Huyện đội trưởng bổ nhiệm",
+        "Chủ tịch ủy ban nhân dân huyện bổ nhiệm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Trong ban chỉ huy quân sự, chính trị viên do ai đảm nhiệm:",
+      "options": [
+        "Bí thư Chi bộ hoặc Bí thư Đảng ủy chủ nhiệm",
+        "Phó bí thư, chủ tịch ủy ban nhân dân đảm nhiệm",
+        "Ủy viên thường vụ Đảng ủy đảm nhiệm",
+        "Chủ tịch ủy ban nhân dân đảm nhiệm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Biện pháp xây dựng lực lượng dân quân tự vệ trong giai đoạn hiện nay:",
+      "options": [
+        "Phát huy sức mạnh tổng hợp của các tổ chức, các lực lượng",
+        "Phát huy sức mạnh tổng hợp của chính quyền địa phương",
+        "Phát huy sức mạnh tổng hợp trên địa bàn",
+        "Phát huy sức mạnh tổng hợp của nhân dân trên địa bàn"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Lực lượng dự bị động viên bao gồm:",
+      "options": [
+        "Quân nhân thường trực và phương tiện kỹ thuật",
+        "Quân nhân dự bị và phương tiện kỹ thuật",
+        "Quân nhân chuyên nghiệp và nhân viên kỹ thuật",
+        "Sĩ quan và hạ sĩ quan quân đội, công an"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Công tác xây dựng lực lượng dự bị động viên có vị trí vai trò:",
+      "options": [
+        "Rất quan trọng trong chiến lược bảo vệ Tổ quốc Xã hội Chủ nghĩa",
+        "Quan trọng trong chiến lược bảo vệ Tổ quốc Xã hội Chủ nghĩa",
+        "Trọng tâm trong chiến lược bảo vệ Tổ quốc Xã hội Chủ nghĩa",
+        "Cấp bách trong chiến lược bảo vệ Tổ quốc Xã hội Chủ nghĩa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Quan điểm, nguyên tắc xây dựng lực lượng dự bị động viên:",
+      "options": [
+        "Đảm bảo số lượng, chất lượng cao, rộng khắp, sẵn sàng chiến đấu",
+        "Đảm bảo toàn diện nhưng có trọng tâm, trọng điểm, tập trung nâng cao chất lượng",
+        "Đảm bảo số lượng đủ, chất lượng cao, xây dựng toàn diện nhưng có trọng tâm trọng điểm",
+        "Đảm bảo số lượng đông, chất lượng cao cho những đơn vị làm nhiệm vụ sẵn sàng chiến đấu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Quan điểm, nguyên tắc xây dựng lực lượng dự bị động viên là phải:",
+      "options": [
+        "Phát huy sức mạnh của toàn dân trên tất cả các lĩnh vực hoạt động xã hội",
+        "Xây dựng lực lượng dự bị động viên hùng mạnh, sẵn sàng chiến đấu",
+        "Phát huy sức mạnh của bộ, ngành và địa phương",
+        "Phát huy sức mạnh tổng hợp của cả hệ thống chính trị"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Quan điểm, nguyên tắc xây dựng lực lượng dự bị động viên:",
+      "options": [
+        "Đặt dưới sự lãnh đạo của Bộ Quốc phòng và Ủy ban nhân dân các địa phương",
+        "Đặt dưới sự lãnh đạo của Đảng các cấp ở địa phương, bộ, ngành",
+        "Đặt dưới sự lãnh đạo của các tổ chức chính trị xã hội",
+        "Đặt dưới sự lãnh đạo của Ủy ban nhân dân các cấp"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Xây dựng lực lượng dự bị động viên đặt dưới sự lãnh đạo:",
+      "options": [
+        "Tuyệt đối, trực tiếp về mọi mặt của Đảng",
+        "Tuyệt đối, trực tiếp về mọi mặt của Nhà nước",
+        "Tuyệt đối, trực tiếp về mọi mặt của Bộ Quốc phòng",
+        "Toàn diện về mọi mặt của các tổ chức xã hội"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nội dung xây dựng lực lượng dự bị động viên:",
+      "options": [
+        "Tạo nguồn, đăng ký, quản lý lực lượng dự bị động viên",
+        "Tạo nguồn, đăng ký, biên chế lực lượng dự bị động viên",
+        "Tạo nguồn, đăng ký, tổ chức lực lượng dự bị động viên theo kế hoạch",
+        "Tạo nguồn, đăng ký, kiểm tra lực lượng dự bị động viên theo quy định"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nguyên tắc xếp quân nhân dự bị vào các đơn vị dự bị động viên là:",
+      "options": [
+        "Theo mức độ sức khỏe, theo tuổi đời và theo cư trú",
+        "Theo trình độ chuyên môn, theo hạng, theo cư trú",
+        "Theo quân hàm, theo chức vụ và chuyên môn",
+        "Theo hạng và theo trình độ văn hóa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Phương châm huấn luyện đối với lực lượng dự bị động viên:",
+      "options": [
+        "Chất lượng, thiết thực, hiệu quả tập trung vào khoa học quân sự hiện đại",
+        "Cơ bản thống nhất, coi trọng khâu kỹ thuật tác chiến, phối hợp giữa các lực lượng",
+        "Chất lượng, thiết thực, hiệu quả sát thực tế chiến đấu tại địa bàn",
+        "Chất lượng, thiết thực, hiệu quả, tập trung có trọng tâm, trọng điểm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Xây dựng lực lượng dự bị động viên là nhiệm vụ chính trị thường xuyên của:",
+      "options": [
+        "Nhà nước, Ủy ban nhân dân các cấp",
+        "Cấp ủy, chính quyền địa phương",
+        "Cán bộ, ngành, đoàn thể từ trung ương đến địa phương",
+        "Toàn Đảng, toàn dân, toàn quân và cả hệ thống chính trị"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Động viên công nghiệp Quốc phòng được chuẩn bị:",
+      "options": [
+        "Từ thời bình",
+        "Khi bắt đầu chiến tranh",
+        "Trong quá trình chiến tranh",
+        "Kết thúc chiến tranh"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Động viên công nghiệp có áp dụng đối với các doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam hay không:",
+      "options": [
+        "Có",
+        "Không",
+        "Tùy tình hình cụ thể",
+        "Có thể động viên một phần hoặc toàn bộ"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Quyết định và thông báo quyết định động viên công nghiệp quốc phòng do:",
+      "options": [
+        "Chủ tịch Quốc hội quy định",
+        "Chủ tịch nước quy định",
+        "Bộ trưởng Bộ quốc phòng quy định",
+        "Chính phủ quy định"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Các yếu tố cấu thành quốc gia:",
+      "options": [
+        "Lãnh thổ, dân cư và nhà nước",
+        "Lãnh thổ, dân cư và chế độ chính trị",
+        "Lãnh thổ, dân cư và quyền lực công cộng",
+        "Lãnh thổ, dân cư và hệ thống chính trị"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Lãnh thổ quốc gia là:",
+      "options": [
+        "Phạm vi không gian bao gồm vùng đất, vùng biển, vùng trời của quốc gia",
+        "Phạm vi không gian bao gồm vùng đất, các đảo, vùng biển, vùng trời của quốc gia",
+        "Phạm vi không gian được giới hạn bởi biên giới quốc gia thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia",
+        "Phạm vi không gian bao gồm vùng đất, vùng biển, vùng trời, các đảo và quần đảo của quốc gia"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Lãnh thổ quốc gia Việt Nam bao gồm:",
+      "options": [
+        "Vùng đất, vùng biển, vùng trời quốc gia",
+        "Đất liền, vùng biển đảo và vùng trời quốc gia",
+        "Vùng đất, vùng biển, vùng trời quốc gia và lãnh thổ quốc gia đặc biệt",
+        "Vùng đất, vùng biển đảo, vùng trời và khu vực biên giới quốc gia"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Vùng đất quốc gia Việt Nam bao gồm:",
+      "options": [
+        "Đất liền, các đảo và quần đảo",
+        "Đất liền, các đảo và bán đảo",
+        "Đất liền và các quần đảo",
+        "Đất liền, bán đảo và quần đảo"
+      ],
+      "correct": 0
+    }
+  ]
+}

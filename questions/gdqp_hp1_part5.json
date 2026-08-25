@@ -1,0 +1,205 @@
+{
+  "name": "Giáo dục Quốc phòng - An ninh (HP1) - Phần 5",
+  "questions": [
+    {
+      "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang nhân dân là:",
+      "options": [
+        "Từng bước giải quyết đầy đủ các yêu cầu của lực lượng vũ trang nhân dân",
+        "Từng bước giải quyết yêu cầu về tổ chức, biên chế cho lực lượng vũ trang nhân dân",
+        "Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của các lực lượng vũ trang nhân dân",
+        "Từng bước đổi mới, bổ sung đầy đủ vũ khí hiện đại cho lực lượng vũ trang nhân dân"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang nhân dân là:",
+      "options": [
+        "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có phẩm chất, năng lực tốt",
+        "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có phẩm chất tốt, số lượng đông",
+        "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có số lượng đông, năng lực tốt",
+        "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có số lượng đủ, phẩm chất tốt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Cơ sở lý luận của việc kết hợp phát triển kinh tế với tăng cường củng cố quốc phòng, an ninh:",
+      "options": [
+        "Quốc phòng, an ninh tạo ra cơ sở vật chất để xây dựng kinh tế",
+        "Quốc phòng, an ninh tạo ra những biến động kích thích kinh tế phát triển",
+        "Quốc phòng, an ninh và kinh tế có quan hệ, tác động qua lại lẫn nhau",
+        "Quốc phòng, an ninh lệ thuộc hoàn toàn vào kinh tế"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Cơ sở lý luận của việc kết hợp phát triển kinh tế với tăng cường củng cố quốc phòng, an ninh:",
+      "options": [
+        "Kinh tế quyết định toàn bộ sức mạnh của quốc phòng, an ninh",
+        "Kinh tế quyết định việc đảm bảo chất lượng nguồn nhân lực cho quốc phòng, an ninh",
+        "Kinh tế quyết định đến nguồn gốc ra đời, sức mạnh của quốc phòng, an ninh",
+        "Kinh tế quyết định việc cung cấp kỹ thuật, công nghệ cho quốc phòng, an ninh"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Trong mối quan hệ giữa kinh tế xã hội với quốc phòng, an ninh thì:",
+      "options": [
+        "Kinh tế quyết định đến bản chất của quốc phòng, an ninh",
+        "Kinh tế quyết định đến tổ chức biên chế của lực lượng vũ trang",
+        "Kinh tế quyết định việc cung cấp vật chất, kỹ thuật, nhân lực cho hoạt động quốc phòng, an ninh",
+        "Tất cả đều đúng"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kết hợp phát triển kinh tế xã hội với tăng cường củng cố quốc phòng, an ninh được xác định là:",
+      "options": [
+        "Một quy luật khách quan",
+        "Một tất yếu khách quan",
+        "Một chiến lược trọng yếu",
+        "Một nhiệm vụ chiến lược"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kế sách \"động vi binh, tĩnh vi dân\" của ông cha ta có nghĩa là:",
+      "options": [
+        "Khi đất nước hòa bình, làm người lính sẵn sàng chiến đấu",
+        "Khi đất nước chiến tranh, làm người dân phát triển kinh tế",
+        "Khi đất nước có chiến tranh hoặc bình yên đều phải làm người dân phát triển kinh tế",
+        "Khi đất nước có chiến tranh thì làm người lính, đất nước bình yên thì làm người dân xây dựng kinh tế"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Trong cuộc kháng chiến chống thực dân Pháp xâm lược, Đảng ta đề ra chủ trương:",
+      "options": [
+        "Vừa kháng chiến, vừa xây dựng kinh tế",
+        "Vừa kháng chiến, vừa kiến quốc",
+        "Vừa kháng chiến, vừa tăng gia sản xuất",
+        "Vừa tăng gia sản xuất, vừa thực hành tiết kiệm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Một trong những nội dung cơ bản của việc kết hợp phát triển kinh tế xã hội với tăng cường củng cố quốc phòng, an ninh là:",
+      "options": [
+        "Kết hợp trong chiến lược phát triển công nghiệp hóa, hiện đại hóa",
+        "Kết hợp trong chiến lược phát triển nguồn nhân lực để hiện đại hóa đất nước",
+        "Kết hợp trong xác định chiến lược phát triển kinh tế xã hội",
+        "Kết hợp trong xác định chiến lược phát triển về khoa học công nghệ"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Một trong những nội dung cơ bản của việc kết hợp phát triển kinh tế xã hội với tăng cường củng cố quốc phòng, an ninh trong phát triển các vùng lãnh thổ:",
+      "options": [
+        "Kết hợp xây dựng cơ sở kinh tế vững mạnh với xây dựng các căn cứ chiến đấu, căn cứ hậu cần kỹ thuật và hậu phương vững chắc",
+        "Kết hợp chặt chẽ giữa phát triển kinh tế xã hội với xây dựng lực lượng vũ trang",
+        "Kết hợp chặt chẽ giữa phát triển công nghiệp quốc phòng với xây dựng các thế trận phòng thủ",
+        "Kết hợp phát triển kinh tế - xã hội với xây dựng các tổ chức chính trị, đoàn thể"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh đối với các vùng kinh tế trọng điểm:",
+      "options": [
+        "Phải kết hợp chặt chẽ trong xây dựng kết cấu hạ tầng kinh tế với hạ tầng của nền quốc phòng toàn dân",
+        "Phát triển kinh tế phải đáp ứng phục vụ nhu cầu dân sinh và nhu cầu dự trữ quốc gia",
+        "Phát triển kinh tế phải đáp ứng phục vụ yêu cầu phòng thủ ở từng tỉnh, thành phố",
+        "Phát triển kinh tế phải đáp ứng phục vụ thỏa mãn đầy đủ nhu cầu của nhân dân"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh ở vùng núi, biên giới:",
+      "options": [
+        "Phải quan tâm xây dựng các tổ chức chính trị xã hội và lực lượng dân quân tự vệ thường trực",
+        "Phải quan tâm đầu tư phát triển kinh tế, củng cố quốc phòng, an ninh ở các vùng cửa khẩu, các vùng giáp biên giới với các nước",
+        "Phải quan tâm chăm lo xây dựng các tuyến biên giới giàu về kinh tế, ổn định về an ninh",
+        "Phải kết hợp chặt chẽ giữa phát triển kinh tế xã hội với xây dựng lực lượng vũ trang"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh ở vùng biển đảo:",
+      "options": [
+        "Có cơ chế chính sách thoả đáng để động viên khí lệ dân ra đảo bám trụ làm ăn lâu dài",
+        "Có cơ chế chính sách thoả đáng để động viên ngư dân đầu tư tàu thuyền đánh bắt xa bờ",
+        "Có cơ chế chính sách thoả đáng để động viên ngư dân thành lập các tổ an ninh trên biển",
+        "Có cơ chế chính sách thoả đáng để ngư dân tham gia xây dựng các trận địa phòng thủ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong công nghiệp:",
+      "options": [
+        "Kết hợp ngay từ khâu quy hoạch, xây dựng các khu công nghiệp, khu chế xuất",
+        "Kết hợp ngay từ khâu quy hoạch, bố trí các đơn vị kinh tế của ngành công nghiệp",
+        "Kết hợp ngay chiến lược đào tạo nhân lực của ngành công nghiệp",
+        "Kết hợp ngay trọng ý đồ bố trí mạng lưới công nghiệp quốc phòng"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong nông, lâm, ngư nghiệp:",
+      "options": [
+        "Đẩy mạnh phát triển trồng rừng gắn với công tác định canh, định cư xây dựng các cơ sở chính trị vững chắc",
+        "Đẩy mạnh khai thác, trồng rừng gắn với công tác định canh định cư xây dựng các tổ chức xã hội",
+        "Đẩy mạnh khai thác lâm sản, phát triển hệ thống giao thông, xây dựng các đoàn thể",
+        "Đẩy mạnh xóa đói giảm nghèo gắn với công tác luân chuyển dân cư, xây dựng cơ sở chính trị"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong giao thông vận tải:",
+      "options": [
+        "Xây dựng kế hoạch phát triển mạng lưới giao thông cho thời bình",
+        "Xây dựng kế hoạch động viên giao thông cho thời bình và thời chiến",
+        "Xây dựng kế hoạch động viên giao thông vận tải cho thời chiến",
+        "Xây dựng kế hoạch động viên từng giai đoạn"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong xây dựng cơ bản:",
+      "options": [
+        "Công trình trọng điểm phải tính đến yếu tố tự bảo vệ và chuyển hóa phục vụ cho quốc phòng, an ninh",
+        "Công trình nào, ở đâu đều phải tính đến yếu tố tự bảo vệ và chuyển hóa phục vụ cho quốc phòng, an ninh",
+        "Các công trình ở vùng núi, biên giới phải tính đến yếu tố tự bảo vệ và phục vụ cho quốc phòng, an ninh",
+        "Công trình trọng điểm, ở vùng kinh tế trọng điểm phải tính đến yếu tố tự bảo vệ"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong khoa học, công nghệ và giáo dục là:",
+      "options": [
+        "Coi trọng giáo dục, bồi dưỡng nhân lực, đào tạo nhân tài của đất nước",
+        "Thực hiện có hiệu quả công tác giáo dục quốc phòng, an ninh cho các đối tượng",
+        "Coi trọng đầu tư phát triển khoa học công nghệ quân sự",
+        "Cả A và B"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong y tế:",
+      "options": [
+        "Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là ở miền núi, biên giới, hải đảo",
+        "Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là các vùng kinh tế trọng điểm",
+        "Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là ở các thành phố",
+        "Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là ở vùng sâu, vùng xa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh trong thực hiện nhiệm vụ chiến lược bảo vệ Tổ quốc:",
+      "options": [
+        "Tổ chức biên chế lực lượng vũ trang phải phù hợp với điều kiện kinh tế và nhu cầu phòng thủ đất nước",
+        "Tổ chức biên chế lực lượng vũ trang phải phù hợp với điều kiện kinh tế và dân cư trên từng địa bàn",
+        "Tổ chức biên chế lực lượng vũ trang phải phù hợp với khả năng kinh tế của địa phương",
+        "Tổ chức biên chế lực lượng vũ trang phải phù hợp với dân số của đất nước"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "Giáo dục Quốc phòng - An ninh (HP1) - Phần 1",
+  "questions": [
+    {
+      "question": "Đối tượng nghiên cứu môn học giáo dục quốc phòng, an ninh:",
+      "options": [
+        "Nghiên cứu về chiến lược xây dựng và bảo vệ Tổ quốc của Đảng, Nhà nước trong tình hình mới",
+        "Nghiên cứu về đường lối quân sự của Đảng, Công tác quốc phòng an ninh, Quân sự và kỹ năng quân sự cần thiết",
+        "Nghiên cứu về chiến lược kinh tế, quốc phòng của Đảng, Nhà nước trong sự nghiệp đổi mới",
+        "Nghiên cứu về chiến lược kinh tế, quốc phòng, an ninh và đối ngoại của Đảng, Nhà nước"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Quá trình nghiên cứu môn học giáo dục quốc phòng, an ninh phải nắm vững và vận dụng đúng đắn các quan điểm tiếp cận khoa học:",
+      "options": [
+        "Hệ thống, lịch sử, logic, thực tiễn",
+        "Khách quan, lịch sử, toàn diện",
+        "Hệ thống, biện chứng, lịch sử, logic",
+        "Lịch sử, cụ thể biện chứng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Các phương pháp nghiên cứu môn học giáo dục quốc phòng, an ninh:",
+      "options": [
+        "Nghiên cứu lý thuyết, nghiên cứu thực tiễn",
+        "Nghiên cứu tập trung, kết hợp với thảo luận nhóm",
+        "Kết hợp các phương pháp dạy học lý thuyết và thực hành",
+        "Cả A và C"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về chiến tranh:",
+      "options": [
+        "Là một hiện tượng chính trị xã hội có tính lịch sử",
+        "Là những cuộc xung đột tự phát ngẫu nhiên",
+        "Là một hiện tượng xã hội mang tính vĩnh viễn",
+        "Là những xung đột do những mâu thuẫn không mang tính xã hội"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về nguồn gốc của chiến tranh:",
+      "options": [
+        "Chiến tranh bắt nguồn ngay từ khi xuất hiện xã hội loài người",
+        "Chiến tranh bắt nguồn từ khi xuất hiện chế độ tư hữu, có giai cấp và nhà nước",
+        "Chiến tranh bắt nguồn từ sự phát triển tất yếu khách quan của loài người",
+        "Chiến tranh bắt nguồn từ khi xuất hiện các hình thức tôn giáo"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về bản chất của chiến tranh:",
+      "options": [
+        "Là tiếp tục mục tiêu kinh tế bằng thủ đoạn bạo lực",
+        "Là thủ đoạn để đạt được mục tiêu của một giai cấp",
+        "Là tiếp tục của chính trị bằng thủ đoạn bạo lực",
+        "Là thủ đoạn chính trị của một giai cấp"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, chính trị là sự phản ánh tập trung của:",
+      "options": [
+        "Kinh tế",
+        "Xã hội",
+        "Quốc phòng",
+        "An ninh"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về quan hệ giữa chiến tranh với chính trị:",
+      "options": [
+        "Chính trị là con đường, là phương tiện của chiến tranh",
+        "Chính trị là một thời đoạn, một bộ phận của chiến tranh",
+        "Chính trị chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh",
+        "Chính trị không thể sử dụng kết quả sau chiến tranh để đề ra nhiệm vụ, mục tiêu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Trong mối quan hệ giữa chiến tranh và chính trị, thì chiến tranh là kết quả phản ánh:",
+      "options": [
+        "Những bản chất chính trị xã hội",
+        "Sức mạnh tổng hợp của quân đội",
+        "Những cố gắng cao nhất của chính trị",
+        "Những cố gắng cao nhất về kinh tế"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hồ Chí Minh khẳng định mục đích cuộc chiến tranh của nhân dân ta chống thực dân Pháp:",
+      "options": [
+        "Bảo vệ nhân dân, bảo vệ chế độ, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+        "Bảo vệ đất nước và chống ách đô hộ của thực dân, đế quốc",
+        "Bảo vệ tính mạng, tài sản của nhân dân, của chế độ xã hội chủ nghĩa",
+        "Bảo vệ độc lập chủ quyền và thống nhất đất nước"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tư tưởng Hồ Chí Minh xác định thái độ đối với chiến tranh là:",
+      "options": [
+        "Phản đối tất cả các cuộc chiến tranh",
+        "Phản đối các cuộc chiến tranh chống áp bức, nô dịch",
+        "Phản đối các cuộc chiến tranh sắc tộc tôn giáo",
+        "Ủng hộ chiến tranh chính nghĩa, phản đối chiến tranh phi nghĩa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh nhất thiết phải sử dụng bạo lực cách mạng:",
+      "options": [
+        "Để lật đổ xã hội cũ, xây dựng xã hội mới",
+        "Để xây dựng chế độ mới",
+        "Để giành lấy chính quyền và bảo vệ chính quyền",
+        "Để lật đổ chế độ cũ"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, bạo lực cách mạng được tạo bởi:",
+      "options": [
+        "Sức mạnh của toàn dân, bằng cả lực lượng chính trị và lực lượng vũ trang",
+        "Sức mạnh của toàn dân, bằng cả tiềm lực chính trị và tiềm lực kinh tế",
+        "Kết hợp chặt chẽ giữa đấu tranh chính trị và đấu tranh ngoại giao",
+        "Tất cả đều đúng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Lời kêu gọi toàn quốc kháng chiến chống thực dân Pháp của Hồ Chí Minh:",
+      "options": [
+        "Ngày 22/12/1944",
+        "Ngày 23/11/1945",
+        "Ngày 02/09/1945",
+        "Ngày 19/12/1946"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Theo quan điểm của chủ nghĩa Mác-Lênin về bản chất giai cấp của quân đội phụ thuộc vào:",
+      "options": [
+        "Bản chất của các nhà nước đã tổ chức ra quân đội đó",
+        "Bản chất của các giai cấp và của nhà nước đã tổ chức ra quân đội đó",
+        "Bản chất của giai cấp công nông và của nhà nước đã tổ chức ra quân đội đó",
+        "Tất cả đều đúng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nguyên tắc quan trọng nhất về xây dựng quân đội kiểu mới của Lê nin là:",
+      "options": [
+        "Sự lãnh đạo của Đảng Cộng sản đối với quân đội",
+        "Giữ vững quan điểm giai cấp trong xây dựng quân đội",
+        "Tính kỷ luật cao là yếu tố quyết định sức mạnh quân đội",
+        "Quân đội chính quy, hiện đại, trung thành với giai cấp công nhân"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Lê nin khẳng định yếu tố giữ vai trò quyết định đến sức mạnh chiến đấu của quân đội là:",
+      "options": [
+        "Quân số, tổ chức, cơ cấu biên chế",
+        "Chất lượng vũ khí, trang bị kỹ thuật",
+        "Chính trị tinh thần",
+        "Trình độ huấn luyện và thể lực"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Chủ tịch Hồ Chí Minh khẳng định sự ra đời của Quân đội nhân dân Việt Nam là:",
+      "options": [
+        "Là một tất yếu có tính quy luật trong đấu tranh giai cấp, đấu tranh dân tộc ở Việt Nam",
+        "Là một hiện tượng ngẫu nhiên trong quá trình đấu tranh cách mạng của dân tộc Việt Nam",
+        "Là một sự kế thừa trong lịch sử chống giặc ngoại xâm",
+        "Là một hiện tượng tự phát do đòi hỏi của chiến tranh cách mạng"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo tư tưởng Hồ Chí Minh, quân đội nhân dân Việt Nam:",
+      "options": [
+        "Mang bản chất của giai cấp nông dân",
+        "Mang bản chất giai cấp công – nông",
+        "Mang bản chất của giai cấp công nhân",
+        "Mang bản chất nhân dân lao động Việt Nam"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Quân đội nhân dân Việt Nam mang bản chất của giai cấp công nhân, đồng thời có:",
+      "options": [
+        "Tính quần chúng, cách mạng sâu sắc",
+        "Tính phong phú và đa dạng",
+        "Tính nhân dân và tính dân tộc sâu sắc",
+        "Tính phổ biến và rộng rãi"
+      ],
+      "correct": 2
+    }
+  ]
+}
