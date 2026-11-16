@@ -8,7 +8,7 @@ $files = Get-ChildItem -LiteralPath $QuestionsDir -Filter *.json `
   | Sort-Object Name `
   | ForEach-Object { $_.Name }
 
-$json = $files | ConvertTo-Json
-Set-Content -LiteralPath $OutputFile -Value $json -Encoding UTF8
+$json = ConvertTo-Json -InputObject @($files)
+[System.IO.File]::WriteAllText((Join-Path (Get-Location) $OutputFile), $json, (New-Object System.Text.UTF8Encoding $false))
 
 Write-Host "Manifest generated at $OutputFile with $($files.Count) file(s)."
