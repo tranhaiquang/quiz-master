@@ -3,15 +3,31 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>QuizMaster</title>
+  <title>QuizMaster ✨</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧸</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style_cute.css" />
 </head>
 <body>
+  <div class="bg-stickers" aria-hidden="true">
+    <span>🌸</span>
+    <span>⭐</span>
+    <span>🍭</span>
+    <span>☁️</span>
+    <span>🍬</span>
+    <span>🌈</span>
+    <span>🫧</span>
+    <span>🎈</span>
+  </div>
+
   <div id="app">
     <header>
-      <div class="logo">QuizMaster</div>
+      <div class="header-brand">
+        <span class="mascot" aria-hidden="true">🐣</span>
+        <div class="logo">QuizMaster</div>
+      </div>
       <button class="hamburger" id="hamburger" onclick="toggleNav()" aria-label="Menu">☰</button>
       <nav id="navbar">
         <button class="nav-btn" data-view="dashboard" onclick="showView('dashboard')">Dashboard</button>
@@ -32,7 +48,7 @@
       <!-- Import -->
       <section id="view-import" class="view">
         <h1>Import Questions</h1>
-        <p class="subtitle">Paste JSON array of questions or upload a file.</p>
+        <p class="subtitle">Paste JSON array of questions or upload a file. ♡</p>
         <div class="import-layout">
           <div class="import-main">
             <textarea id="json-input" placeholder='[
@@ -51,7 +67,7 @@
             <p id="import-status" class="status-msg"></p>
           </div>
           <div class="import-sidebar">
-            <h3>Format</h3>
+            <h3>Format 📌</h3>
             <pre>{
   "question": "string",
   "options": ["A","B","C","D"],
@@ -84,7 +100,7 @@
         <div class="quiz-nav">
           <button class="btn" id="prev-btn" onclick="prevQuestion()">Previous</button>
           <button class="btn primary" id="next-btn" onclick="nextQuestion()">Next</button>
-          <button class="btn success" id="submit-btn" onclick="submitQuiz()" style="display:none">Submit</button>
+          <button class="btn success" id="submit-btn" onclick="submitQuiz()" style="display:none">Submit 🎀</button>
         </div>
       </section>
 
@@ -100,6 +116,6 @@
       </section>
     </main>
   </div>
-  <script src="app.js"></script>
+  <script src="app_cute.js"></script>
 </body>
 </html>
