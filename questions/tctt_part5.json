@@ -1,0 +1,45 @@
+{
+  "name": "TCTT - Kiểm tra cuối kỳ (Trắc nghiệm) (Phần 5)",
+  "questions": [
+    {
+      "question": "Trong một năm, lương danh nghĩa của người lao động tăng 5% nhưng mức giá chung tăng 8%. Sức mua từ tiền lương của người đó có xu hướng nào?",
+      "options": [
+        "Giảm vì giá cả tăng nhanh hơn lương.",
+        "Tăng vì lương danh nghĩa vẫn tăng.",
+        "Giữ nguyên vì cả hai chỉ tiêu cùng tăng.",
+        "Tăng đúng 13%."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nếu lượng tiền cung ứng tăng nhanh và kéo dài trong khi sản lượng hàng hóa, dịch vụ không tăng tương ứng, mức giá chung có xu hướng tăng. Cách lý giải phù hợp nhất là:",
+      "options": [
+        "Giá tăng do năng suất lao động tăng quá nhanh.",
+        "Lạm phát gắn với sự gia tăng cung tiền.",
+        "Giá tăng chỉ vì một mặt hàng khan hiếm.",
+        "Mức giá chung chắc chắn giảm."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Thuế thu nhập cá nhân, xét theo tính chất điều tiết trong bài giảng, thuộc loại thuế nào?",
+      "options": [
+        "Thuế gián thu.",
+        "Thuế tiêu dùng đánh qua giá hàng hóa.",
+        "Khoản vay ngân sách nhà nước.",
+        "Thuế trực thu."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Khoản chi ngân sách để đầu tư xây dựng mới một tuyến đường giao thông công cộng thường được xếp vào nhóm nào?",
+      "options": [
+        "Chi đầu tư phát triển.",
+        "Chi thường xuyên cho hoạt động hành chính.",
+        "Chi trả lãi tiền gửi tiết kiệm.",
+        "Thu ngân sách từ hoạt động bán tài sản."
+      ],
+      "correct": 0
+    }
+  ]
+}

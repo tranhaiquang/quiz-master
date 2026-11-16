@@ -1,0 +1,105 @@
+{
+  "name": "TCTT - Kiểm tra cuối kỳ (Trắc nghiệm) (Phần 4)",
+  "questions": [
+    {
+      "question": "Hoạt động nào sau đây là một hình thức kiểm tra tài chính được trình bày trong bài giảng?",
+      "options": [
+        "Quảng cáo sản phẩm tài chính.",
+        "Ấn định giá bán lẻ hàng hóa.",
+        "Phát hành tiền giấy.",
+        "Kiểm toán độc lập."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Một quốc gia sử dụng tỷ trọng lớn vốn vay nước ngoài để tài trợ đầu tư phát triển. Theo bài giảng, rủi ro nào sau đây cần đặc biệt lưu ý?",
+      "options": [
+        "Nguồn vốn đầu tư trong nước chắc chắn tăng lên.",
+        "Nền kinh tế hoàn toàn không chịu biến động từ bên ngoài.",
+        "Nguy cơ lệ thuộc vào nguồn vốn bên ngoài và phát sinh khủng hoảng nợ.",
+        "Không còn cần quản lý việc vay và trả nợ."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Một doanh nghiệp đã nhận hàng từ tháng trước và đến hôm nay mới chuyển tiền thanh toán khoản nợ mua hàng. Trong trường hợp này, tiền tệ thực hiện chức năng nào?",
+      "options": [
+        "Phương tiện thanh toán.",
+        "Phương tiện cất trữ.",
+        "Thước đo giá trị.",
+        "Tiền tệ thế giới."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo lý thuyết ưa thích thanh khoản của J. M. Keynes trong bài giảng, ba động cơ chủ yếu của việc nắm giữ tiền là gì?",
+      "options": [
+        "Tiêu dùng, tiết kiệm và xuất khẩu.",
+        "Đầu tư, vay nợ và đánh thuế.",
+        "Sản xuất, trao đổi và nhập khẩu.",
+        "Giao dịch, dự phòng và đầu cơ."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Giả sử các yếu tố khác không đổi, khi Ngân hàng trung ương tăng tỷ lệ dự trữ bắt buộc, khả năng mở rộng tiền gửi và tạo tiền của các ngân hàng thương mại thường thay đổi thế nào?",
+      "options": [
+        "Tăng vì ngân hàng được cho vay nhiều hơn.",
+        "Không thay đổi vì dự trữ không liên quan đến cho vay.",
+        "Giảm vì phần vốn phải giữ lại tăng lên.",
+        "Tăng đúng bằng tỷ lệ dự trữ bắt buộc mới."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Loại giấy tờ có giá thường được sử dụng để thể hiện khoản nợ phát sinh từ quan hệ mua bán chịu hàng hóa giữa các doanh nghiệp là:",
+      "options": [
+        "Thương phiếu.",
+        "Cổ phiếu phổ thông.",
+        "Chứng chỉ quỹ đầu tư.",
+        "Giấy chứng nhận quyền sử dụng đất."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Theo đặc điểm tín dụng thương mại được trình bày trong bài giảng, đối tượng tín dụng chủ yếu là gì?",
+      "options": [
+        "Tiền giấy do Ngân hàng trung ương phát hành.",
+        "Vàng dự trữ quốc gia.",
+        "Chứng khoán do Nhà nước phát hành.",
+        "Hàng hóa được bán chịu giữa các doanh nghiệp."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Công ty M giao một lô nguyên liệu cho Công ty N và cho phép N trả tiền sau 45 ngày. Trong quan hệ tín dụng thương mại này, chủ thể nào là bên cấp tín dụng?",
+      "options": [
+        "Công ty N vì đang sử dụng nguyên liệu.",
+        "Công ty M vì đã bán chịu hàng hóa.",
+        "Ngân hàng trung ương.",
+        "Người tiêu dùng cuối cùng."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Lãi suất tái chiết khấu là lãi suất được áp dụng trong quan hệ nào sau đây?",
+      "options": [
+        "Giữa hai ngân hàng thương mại khi cho vay qua đêm.",
+        "Giữa ngân hàng thương mại và người gửi tiết kiệm.",
+        "Ngân hàng trung ương chiết khấu hoặc tái chiết khấu giấy tờ có giá cho ngân hàng thương mại.",
+        "Giữa doanh nghiệp và khách hàng khi mua hàng trả tiền ngay."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo cách phân loại trong slide bài giảng, mức lạm phát 6%/năm thuộc nhóm nào?",
+      "options": [
+        "Siêu lạm phát.",
+        "Lạm phát phi mã.",
+        "Lạm phát vừa phải.",
+        "Giảm phát."
+      ],
+      "correct": 2
+    }
+  ]
+}

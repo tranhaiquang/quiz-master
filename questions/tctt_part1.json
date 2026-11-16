@@ -1,0 +1,105 @@
+{
+  "name": "TCTT - Kiểm tra cuối kỳ (Trắc nghiệm) (Phần 1)",
+  "questions": [
+    {
+      "question": "Theo quan điểm kinh tế học hiện đại, hoạt động tài chính chủ yếu gắn với quá trình nào sau đây?",
+      "options": [
+        "Chỉ thực hiện thu, chi bằng tiền mặt của Chính phủ.",
+        "Tạo lập, phân phối và sử dụng các quỹ tiền tệ của các chủ thể.",
+        "Chỉ phát hành tiền giấy và tiền kim loại.",
+        "Chỉ mua bán hàng hóa và dịch vụ trên thị trường."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Chức năng nào của tài chính gắn trực tiếp với việc xây dựng kế hoạch sử dụng nguồn lực sẵn có để đạt mục tiêu phát triển?",
+      "options": [
+        "Huy động nguồn tài chính.",
+        "Phân bổ nguồn tài chính.",
+        "Phát hành tiền.",
+        "Thanh toán quốc tế."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Doanh nghiệp A tạm thời thừa vốn, dùng tiền mua trái phiếu do doanh nghiệp B phát hành để huy động vốn đầu tư. Vai trò nổi bật của hệ thống tài chính trong giao dịch này là gì?",
+      "options": [
+        "Làm mất đi nguồn vốn tiết kiệm trong nền kinh tế.",
+        "Thay thế hoàn toàn hoạt động của ngân sách nhà nước.",
+        "Dẫn vốn từ chủ thể thừa vốn sang chủ thể cần vốn.",
+        "Làm tăng trực tiếp lượng tiền giấy đang lưu thông."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Hạn chế đặc trưng của hình thức trao đổi hàng hóa trực tiếp (hàng đổi hàng) là gì?",
+      "options": [
+        "Phải có sự trùng khớp nhu cầu giữa các bên tham gia trao đổi.",
+        "Không cần tìm kiếm người có hàng hóa phù hợp.",
+        "Có thể trao đổi thuận lợi với mọi người ở mọi thời điểm.",
+        "Luôn có chi phí giao dịch thấp hơn trao đổi bằng tiền."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một cửa hàng niêm yết giá chiếc áo là 250.000 đồng. Trong ví dụ này, tiền tệ đang thực hiện chức năng nào?",
+      "options": [
+        "Phương tiện cất trữ.",
+        "Phương tiện thanh toán.",
+        "Thước đo giá trị.",
+        "Tiền tệ thế giới."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Đặc điểm cốt lõi của quan hệ tín dụng là gì?",
+      "options": [
+        "Chuyển quyền sở hữu vốn vĩnh viễn và không hoàn trả.",
+        "Chuyển giao quyền sử dụng vốn tạm thời trên cơ sở hoàn trả.",
+        "Cho tặng tài sản mà không có nghĩa vụ hoàn trả.",
+        "Trao đổi hàng hóa lấy hàng hóa ngay tại thời điểm giao dịch."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Hình thức tín dụng sơ khai nhất trong lịch sử là:",
+      "options": [
+        "Tín dụng ngân hàng.",
+        "Tín dụng thương mại.",
+        "Tín dụng nhà nước.",
+        "Tín dụng nặng lãi."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Công ty X vay vốn trực tiếp từ một ngân hàng thương mại để mua máy móc và cam kết trả nợ theo hợp đồng tín dụng. Đây là hình thức tín dụng nào?",
+      "options": [
+        "Tín dụng ngân hàng.",
+        "Tín dụng thương mại.",
+        "Tín dụng nhà nước.",
+        "Tín dụng tiêu dùng giữa các cá nhân."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Điểm khác biệt cơ bản giữa phương pháp tính lãi kép và lãi đơn là gì?",
+      "options": [
+        "Lãi kép chỉ áp dụng cho các khoản vay dưới một năm.",
+        "Lãi kỳ trước được nhập vào gốc để tính lãi kỳ sau.",
+        "Lãi kép không phụ thuộc thời gian gửi hoặc vay.",
+        "Lãi kép luôn có lãi suất bằng 0%."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Phát biểu nào mô tả phù hợp nhất về lạm phát?",
+      "options": [
+        "Giá một mặt hàng tăng đúng một lần rồi ổn định.",
+        "Mức giá chung của hàng hóa, dịch vụ tăng liên tục trong một thời kỳ.",
+        "Giá cả chung của nền kinh tế giảm liên tục.",
+        "Số lượng hàng hóa bán ra trong nền kinh tế tăng."
+      ],
+      "correct": 1
+    }
+  ]
+}

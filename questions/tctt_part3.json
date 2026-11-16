@@ -1,0 +1,105 @@
+{
+  "name": "TCTT - Kiểm tra cuối kỳ (Trắc nghiệm) (Phần 3)",
+  "questions": [
+    {
+      "question": "Tín dụng góp phần điều chuyển nguồn vốn tạm thời nhàn rỗi tới các chủ thể đang cần vốn. Điều này thể hiện chủ yếu chức năng nào của tín dụng?",
+      "options": [
+        "Phát hành tiền pháp định.",
+        "Quy định giá bán hàng hóa.",
+        "Thay thế hoạt động sản xuất.",
+        "Tập trung và phân phối lại nguồn vốn trong nền kinh tế."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Chính phủ phát hành trái phiếu để vay vốn xây dựng hệ thống đường giao thông và cam kết hoàn trả cho người mua trái phiếu. Xét theo chủ thể quan hệ vay mượn, đây là hình thức tín dụng nào?",
+      "options": [
+        "Tín dụng thương mại.",
+        "Tín dụng nhà nước.",
+        "Tín dụng tiêu dùng giữa các cá nhân.",
+        "Tín dụng ngân hàng."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Lãi suất áp dụng đối với khoản vay giữa các ngân hàng thương mại trên thị trường liên ngân hàng được gọi là gì?",
+      "options": [
+        "Lãi suất liên ngân hàng.",
+        "Lãi suất tiền gửi tiết kiệm.",
+        "Lãi suất chiết khấu của NHTM đối với khách hàng.",
+        "Lãi suất tái chiết khấu."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một trái phiếu trả lãi coupon cố định. Nếu lãi suất thị trường tăng cao hơn lãi suất coupon, trong điều kiện các yếu tố khác không đổi, giá bán trái phiếu trên thị trường có xu hướng nào?",
+      "options": [
+        "Tăng cao hơn mệnh giá vì lãi suất thị trường tăng.",
+        "Giữ nguyên mệnh giá trong mọi trường hợp.",
+        "Giảm xuống dưới mệnh giá để hấp dẫn người mua.",
+        "Lãi coupon ghi trên trái phiếu tự tăng theo lãi suất thị trường."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Chỉ số nào dùng để phản ánh mức giá bình quân của một giỏ hàng hóa trong sản xuất (theo giá nhà sản xuất/bán buôn)?",
+      "options": [
+        "Chỉ số giá sản xuất (PPI).",
+        "Chỉ số giá tiêu dùng (CPI).",
+        "Khối tiền M1.",
+        "GDP thực tế."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Thu nhập, đầu tư và chi tiêu tăng nhanh làm tổng cầu của nền kinh tế tăng vượt khả năng cung ứng ngắn hạn, khiến mức giá chung tăng. Đây là biểu hiện điển hình của loại lạm phát nào?",
+      "options": [
+        "Lạm phát do chi phí đẩy.",
+        "Giảm phát.",
+        "Lạm phát do một doanh nghiệp tăng giá riêng lẻ.",
+        "Lạm phát do cầu kéo."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Khu vực công bao gồm những bộ phận cơ bản nào?",
+      "options": [
+        "Chỉ các cơ quan thuộc Chính phủ.",
+        "Khu vực Chính phủ và các công ty công.",
+        "Chỉ các doanh nghiệp tư nhân.",
+        "Chỉ các hộ gia đình và cá nhân."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Loại thuế thường được tính vào giá hàng hóa, dịch vụ và có thể chuyển gánh nặng thuế sang người tiêu dùng là:",
+      "options": [
+        "Thuế gián thu.",
+        "Thuế trực thu.",
+        "Khoản vay của Chính phủ.",
+        "Khoản trợ cấp ngân sách."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Khi tổng cầu tăng quá nhanh và có nguy cơ gây lạm phát, Chính phủ chủ động cắt giảm một phần chi ngân sách để hạ nhiệt nền kinh tế. Biện pháp đó thuộc định hướng nào?",
+      "options": [
+        "Chính sách tài khóa mở rộng.",
+        "Chính sách tiền tệ mở rộng.",
+        "Chính sách tài khóa thắt chặt.",
+        "Hoạt động tạo tiền của ngân hàng thương mại."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nguồn tài chính trong nước chủ yếu được hình thành từ đâu?",
+      "options": [
+        "Các khoản vay chỉ từ nước ngoài.",
+        "Nguồn tiết kiệm trong nền kinh tế.",
+        "Việc phát hành tiền không giới hạn.",
+        "Nguồn viện trợ của các tổ chức quốc tế."
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "TCTT - Kiểm tra cuối kỳ (Trắc nghiệm) (Phần 2)",
+  "questions": [
+    {
+      "question": "Giá nhiên liệu tăng mạnh làm chi phí sản xuất của nhiều doanh nghiệp tăng, trong khi tổng cầu không tăng tương ứng. Hiện tượng tăng mức giá chung chủ yếu được giải thích bởi loại lạm phát nào?",
+      "options": [
+        "Lạm phát do cầu kéo.",
+        "Giảm phát.",
+        "Lạm phát do chi phí đẩy.",
+        "Lạm phát do hàng hóa được giảm thuế."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Theo bài giảng về tài chính công, hình thức truyền thống và chủ yếu để huy động nguồn thu ngân sách nhà nước là gì?",
+      "options": [
+        "Phát hành cổ phiếu của doanh nghiệp tư nhân.",
+        "Thuế.",
+        "Các khoản tài trợ tự nguyện của cá nhân.",
+        "Lợi nhuận của tất cả doanh nghiệp tư nhân."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ngân sách nhà nước được coi là bội chi trong trường hợp nào sau đây?",
+      "options": [
+        "Tổng thu bằng tổng chi.",
+        "Tổng thu lớn hơn tổng chi.",
+        "Tổng chi lớn hơn tổng thu.",
+        "Cả thu và chi đều bằng không."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Khi nền kinh tế suy giảm và tổng cầu yếu, Chính phủ chủ động tăng chi đầu tư công để hỗ trợ hoạt động kinh tế. Biện pháp này thuộc định hướng chính sách tài khóa nào?",
+      "options": [
+        "Tài khóa mở rộng.",
+        "Tài khóa thắt chặt.",
+        "Chính sách tiền tệ thắt chặt.",
+        "Không liên quan đến chính sách tài khóa."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mục tiêu trực tiếp của hoạt động kiểm tra tài chính là gì?",
+      "options": [
+        "Chỉ xác định số lượng tiền giấy được phát hành.",
+        "Đánh giá tính đúng đắn, hiệu quả và hiệu lực của việc tạo lập, sử dụng các nguồn tài chính.",
+        "Chỉ lựa chọn mức giá bán của hàng hóa.",
+        "Thay thế tất cả các hoạt động huy động vốn."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Theo cách hiểu rộng về nguồn tài chính trong bài giảng, ngoài tiền mặt và tiền gửi còn có thể bao gồm loại tài sản nào?",
+      "options": [
+        "Chỉ các khoản tiền mặt đang lưu thông.",
+        "Chỉ các khoản tiền gửi thanh toán tại ngân hàng.",
+        "Cổ phiếu và trái phiếu có khả năng chuyển hóa thành tiền.",
+        "Chỉ hàng hóa tiêu dùng được mua để sử dụng ngay."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Doanh nghiệp X phát hành trái phiếu kỳ hạn 5 năm để huy động vốn đầu tư. Công cụ này được giao dịch chủ yếu trên phân khúc nào của thị trường tài chính?",
+      "options": [
+        "Thị trường vốn.",
+        "Thị trường tiền tệ.",
+        "Thị trường hàng hóa.",
+        "Thị trường ngoại hối."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Một cá nhân giữ lại một khoản tiền để dành sử dụng vào năm sau, chưa dùng để mua sắm hay trả nợ. Tiền tệ đang thể hiện chức năng nào?",
+      "options": [
+        "Phương tiện thanh toán.",
+        "Thước đo giá trị.",
+        "Tiền tệ thế giới.",
+        "Phương tiện cất trữ (tích lũy)."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Chủ thể nào thực hiện chức năng phát hành tiền mặt trong nền kinh tế?",
+      "options": [
+        "Các ngân hàng thương mại.",
+        "Ngân hàng trung ương.",
+        "Các công ty tài chính.",
+        "Các quỹ đầu tư."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tín dụng thương mại thường phát sinh trực tiếp từ quan hệ nào sau đây?",
+      "options": [
+        "Ngân hàng trung ương phát hành tiền giấy.",
+        "Doanh nghiệp phát hành cổ phiếu cho cổ đông.",
+        "Mua bán chịu hàng hóa giữa các doanh nghiệp sản xuất, kinh doanh.",
+        "Nhà nước thu thuế của các hộ gia đình."
+      ],
+      "correct": 2
+    }
+  ]
+}
