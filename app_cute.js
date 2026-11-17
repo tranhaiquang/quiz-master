@@ -518,6 +518,8 @@ function confettiRain(count) {
   }
 
   function applyImports(discovered) {
+    // Empty discovery = fetch/manifest failure, not "user deleted all files" — keep existing quizzes instead of purging.
+    if (discovered.length === 0) return;
     const fileIds = new Set(discovered.map(d => 'q_' + d.file.replace(/\.json$/, '')));
     state.quizzes = state.quizzes.filter(q => !q.id.startsWith('q_') || fileIds.has(q.id));
     const existing = new Set(state.quizzes.map(q => q.id));
