@@ -11,7 +11,11 @@ let state = {
 function loadState() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    state.quizzes = raw ? JSON.parse(raw) : [];
+    const parsed = raw ? JSON.parse(raw) : [];
+    // Legacy saves can contain malformed entries that crash rendering — keep only usable quizzes.
+    state.quizzes = Array.isArray(parsed)
+      ? parsed.filter(q => q && typeof q.name === 'string' && Array.isArray(q.questions))
+      : [];
   } catch { state.quizzes = []; }
 }
 
