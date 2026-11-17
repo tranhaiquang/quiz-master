@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════
-   QuizMaster — Cute Sticker Edition 🧸
+   QuizMaster — Cute Sticker Edition
    Pastel sticker-book design: die-cut white borders,
    hard pastel shadows, springy bouncy animations.
    ═══════════════════════════════════════════════════ */
@@ -34,11 +34,21 @@
   --error-bg: #FFE1E6;
   --border: #FFD3E4;
   --radius: 22px;
-  --shadow-sticker: 0 4px 0 rgba(214, 143, 178, 0.35);
-  --shadow-pop: 0 8px 0 rgba(214, 143, 178, 0.30), 0 16px 30px rgba(214, 143, 178, 0.22);
+  --shadow-rgb: 214, 143, 178;
+  --ink-rgb: 92, 71, 96;
+  --shadow-sticker: 0 4px 0 rgba(var(--shadow-rgb), 0.35);
+  --shadow-pop: 0 8px 0 rgba(var(--shadow-rgb), 0.30), 0 16px 30px rgba(var(--shadow-rgb), 0.22);
+  /* --spring (overshoot) reserved for one-shot celebrations; state changes use --ease-out */
   --spring: cubic-bezier(0.34, 1.56, 0.64, 1);
-  --transition: 0.25s var(--spring);
+  --ease-out: cubic-bezier(0.33, 1, 0.68, 1);
+  --transition: 0.25s var(--ease-out);
   --font-cute: 'Baloo 2', 'Comic Sans MS', 'Chalkboard SE', system-ui, sans-serif;
+  --note-bg: #FFF8BF;
+  --note-shadow: #EAD98E;
+  --note-paper: #FFFDF0;
+  --note-line: #E5D27E;
+  --note-ink: #7A6A2F;
+  --note-ink-soft: #8A7A3F;
 }
 
 body {
@@ -48,7 +58,7 @@ body {
   line-height: 1.5;
   -webkit-tap-highlight-color: transparent;
   touch-action: manipulation;
-  overflow-x: hidden;
+  overflow-x: clip;
   background-color: var(--bg);
   /* polka-dot wallpaper */
   background-image:
@@ -82,19 +92,26 @@ body {
 
 .bg-stickers span {
   position: absolute;
-  font-size: 2rem;
+  width: 2rem;
+  height: 2rem;
   opacity: 0.55;
   animation: floaty 8s ease-in-out infinite;
 }
 
-.bg-stickers span:nth-child(1) { top: 8%;  left: 4%;   font-size: 2.2rem; animation-duration: 7s; }
-.bg-stickers span:nth-child(2) { top: 14%; right: 6%;  font-size: 1.8rem; animation-duration: 8.4s; animation-delay: 0.5s; }
-.bg-stickers span:nth-child(3) { top: 45%; left: 2.5%; font-size: 1.6rem; animation-duration: 9s;   animation-delay: 1s; }
-.bg-stickers span:nth-child(4) { top: 55%; right: 3%;  font-size: 2.4rem; animation-duration: 7.5s; animation-delay: 0.2s; }
-.bg-stickers span:nth-child(5) { bottom: 10%; left: 6%; font-size: 2rem;  animation-duration: 8.5s; animation-delay: 1.4s; }
-.bg-stickers span:nth-child(6) { bottom: 16%; right: 5%; font-size: 1.7rem; animation-duration: 7.2s; animation-delay: 0.8s; }
-.bg-stickers span:nth-child(7) { top: 2%;  left: 48%;  font-size: 1.5rem; animation-duration: 10s;  animation-delay: 2s; }
-.bg-stickers span:nth-child(8) { bottom: 2%; left: 44%; font-size: 1.8rem; animation-duration: 9.5s; animation-delay: 1.1s; }
+.bg-stickers svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.bg-stickers span:nth-child(1) { top: 8%;  left: 4%;   width: 2.2rem; height: 2.2rem; animation-duration: 7s; }
+.bg-stickers span:nth-child(2) { top: 14%; right: 6%;  width: 1.8rem; height: 1.8rem; animation-duration: 8.4s; animation-delay: 0.5s; }
+.bg-stickers span:nth-child(3) { top: 45%; left: 2.5%; width: 1.6rem; height: 1.6rem; animation-duration: 9s;   animation-delay: 1s; }
+.bg-stickers span:nth-child(4) { top: 55%; right: 3%;  width: 2.4rem; height: 2.4rem; animation-duration: 7.5s; animation-delay: 0.2s; }
+.bg-stickers span:nth-child(5) { bottom: 10%; left: 6%; width: 2rem;  height: 2rem;  animation-duration: 8.5s; animation-delay: 1.4s; }
+.bg-stickers span:nth-child(6) { bottom: 16%; right: 5%; width: 1.7rem; height: 1.7rem; animation-duration: 7.2s; animation-delay: 0.8s; }
+.bg-stickers span:nth-child(7) { top: 2%;  left: 48%;  width: 1.5rem; height: 1.5rem; animation-duration: 10s;  animation-delay: 2s; }
+.bg-stickers span:nth-child(8) { bottom: 2%; left: 44%; width: 1.8rem; height: 1.8rem; animation-duration: 9.5s; animation-delay: 1.1s; }
 
 @media (max-width: 640px) {
   .bg-stickers span:nth-child(n+5) { display: none; }
@@ -122,27 +139,26 @@ header {
 
 .mascot {
   display: inline-block;
-  font-size: 1.8rem;
-  transform-origin: bottom center;
-  animation: mascotBounce 2.4s ease-in-out infinite;
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+.mascot svg {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 
 .logo {
   font-size: 1.3rem;
   font-weight: 800;
   letter-spacing: 0.5px;
-  background: linear-gradient(135deg, var(--primary), var(--lavender));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  cursor: default;
+  color: var(--primary);
 }
-
-.logo:hover { animation: wiggle 0.45s ease; }
 
 @media (min-width: 640px) {
   .logo { font-size: 1.5rem; }
-  .mascot { font-size: 2rem; }
+  .mascot { width: 2rem; height: 2rem; }
 }
 
 /* ── Hamburger ── */
@@ -161,8 +177,8 @@ header {
   transition: transform var(--transition), box-shadow var(--transition);
 }
 
-.hamburger:hover { transform: rotate(-8deg) scale(1.08); }
-.hamburger:active { transform: scale(0.9); box-shadow: 0 1px 0 rgba(214, 143, 178, 0.35); }
+.hamburger:hover { transform: translateY(-2px); }
+.hamburger:active { transform: scale(0.9); box-shadow: 0 1px 0 rgba(var(--shadow-rgb), 0.35); }
 
 @media (min-width: 640px) {
   .hamburger { display: none; }
@@ -188,7 +204,7 @@ nav {
 
 nav.open {
   display: flex;
-  animation: stickerPop 0.35s var(--spring);
+  animation: stickerPop 0.35s var(--ease-out);
 }
 
 @media (min-width: 640px) {
@@ -214,7 +230,7 @@ nav.open {
   font-size: 0.9rem;
   font-weight: 700;
   color: var(--text-secondary);
-  transition: all var(--transition);
+  transition: background-color var(--transition), color var(--transition), transform var(--transition);
   font-family: inherit;
   touch-action: manipulation;
 }
@@ -222,7 +238,7 @@ nav.open {
 .nav-btn:hover {
   background: var(--primary-soft);
   color: var(--primary-hover);
-  transform: translateY(-2px) rotate(-1deg);
+  transform: translateY(-2px);
 }
 
 .nav-btn.active {
@@ -242,7 +258,7 @@ nav.open {
 
 .view.active {
   display: block;
-  animation: viewPop 0.5s var(--spring);
+  animation: viewPop 0.5s var(--ease-out);
 }
 
 /* ── Buttons (squishy candy pills) ── */
@@ -261,20 +277,20 @@ nav.open {
   font-family: inherit;
   cursor: pointer;
   box-shadow: var(--shadow-sticker);
-  transition: all var(--transition);
+  transition: transform var(--transition), box-shadow var(--transition), background-color var(--transition);
   touch-action: manipulation;
   min-height: 44px;
 }
 
 .btn:hover {
   background: var(--surface-hover);
-  transform: translateY(-3px) rotate(-1deg);
-  box-shadow: 0 7px 0 rgba(214, 143, 178, 0.35);
+  transform: translateY(-3px);
+  box-shadow: 0 7px 0 rgba(var(--shadow-rgb), 0.35);
 }
 
 .btn:active {
   transform: translateY(2px) scale(0.95);
-  box-shadow: 0 1px 0 rgba(214, 143, 178, 0.35);
+  box-shadow: 0 1px 0 rgba(var(--shadow-rgb), 0.35);
 }
 
 .btn:focus-visible {
@@ -299,7 +315,7 @@ nav.open {
   color: white;
 }
 
-.btn.success:hover { background: #3DBE80; }
+.btn.success:hover { background: var(--success-shadow); }
 
 /* ── Dashboard ── */
 .dashboard-header {
@@ -313,10 +329,6 @@ nav.open {
 .dashboard-header h1 {
   font-size: 1.4rem;
   font-weight: 800;
-}
-
-.dashboard-header h1::before {
-  content: '✨ ';
 }
 
 @media (min-width: 640px) {
@@ -337,11 +349,11 @@ nav.open {
   margin-bottom: 6px;
   cursor: pointer;
   box-shadow: var(--shadow-sticker);
-  transition: all var(--transition);
+  transition: transform var(--transition), box-shadow var(--transition);
 }
 
 .resume-banner:hover {
-  transform: translateY(-3px) rotate(-0.5deg);
+  transform: translateY(-3px);
   box-shadow: var(--shadow-pop);
 }
 
@@ -359,6 +371,12 @@ nav.open {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.resume-info strong svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.12em;
 }
 
 .resume-progress {
@@ -389,7 +407,7 @@ nav.open {
   padding: 18px;
   padding-top: 20px;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: transform var(--transition), box-shadow var(--transition);
   box-shadow: var(--shadow-sticker);
 }
 
@@ -399,16 +417,22 @@ nav.open {
 
 .quiz-card:hover {
   box-shadow: var(--shadow-pop);
-  transform: translateY(-5px) rotate(-1.2deg);
+  transform: translateY(-5px);
 }
 
 .quiz-card .card-sticker {
   position: absolute;
   top: -16px;
   right: -10px;
-  font-size: 1.9rem;
-  filter: drop-shadow(0 3px 0 rgba(92, 71, 96, 0.15));
-  animation: stickerWiggle 3.5s ease-in-out infinite;
+  width: 1.9rem;
+  height: 1.9rem;
+  filter: drop-shadow(0 3px 0 rgba(var(--ink-rgb), 0.15));
+}
+
+.quiz-card .card-sticker svg {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 
 .quiz-card h3 {
@@ -452,8 +476,14 @@ nav.open {
 
 .empty-emoji {
   display: inline-block;
-  font-size: 3.2rem;
-  animation: floaty 3s ease-in-out infinite;
+  width: 3.2rem;
+  height: 3.2rem;
+}
+
+.empty-emoji svg {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 
 /* ── Import ── */
@@ -515,10 +545,10 @@ nav.open {
 
 /* Sticky-note sidebar */
 .import-sidebar {
-  background: #FFF8BF;
+  background: var(--note-bg);
   border: 3px solid #FFFFFF;
   border-radius: 18px;
-  box-shadow: 0 5px 0 #EAD98E;
+  box-shadow: 0 5px 0 var(--note-shadow);
   padding: 18px;
   transform: rotate(-1deg);
 }
@@ -527,13 +557,13 @@ nav.open {
   font-size: 0.95rem;
   font-weight: 800;
   margin-bottom: 8px;
-  color: #7A6A2F;
+  color: var(--note-ink);
 }
 
 .import-sidebar pre {
-  background: #FFFDF0;
-  border: 2px dashed #E5D27E;
-  color: #7A6A2F;
+  background: var(--note-paper);
+  border: 2px dashed var(--note-line);
+  color: var(--note-ink);
   padding: 12px;
   border-radius: 12px;
   font-size: 0.8rem;
@@ -543,7 +573,7 @@ nav.open {
 
 .import-sidebar p {
   font-size: 0.8rem;
-  color: #8A7A3F;
+  color: var(--note-ink-soft);
   margin-bottom: 8px;
 }
 
@@ -552,13 +582,13 @@ nav.open {
   font-size: 0.8rem;
   font-weight: 700;
   margin-bottom: 4px;
-  color: #7A6A2F;
+  color: var(--note-ink);
 }
 
 .import-sidebar input[type="text"] {
   width: 100%;
   padding: 10px 14px;
-  border: 2.5px solid #E5D27E;
+  border: 2.5px solid var(--note-line);
   border-radius: 999px;
   font-family: inherit;
   font-size: 0.875rem;
@@ -623,7 +653,7 @@ nav.open {
   border: 2px solid #FFFFFF;
   border-radius: 999px;
   margin: 12px 0 20px;
-  box-shadow: inset 0 2px 0 rgba(214, 143, 178, 0.15);
+  box-shadow: inset 0 2px 0 rgba(var(--shadow-rgb), 0.15);
   overflow: visible;
 }
 
@@ -631,19 +661,21 @@ nav.open {
   height: 100%;
   background: linear-gradient(90deg, var(--primary), var(--peach));
   border-radius: 999px;
-  transition: width 0.5s var(--spring);
+  transition: width 0.5s var(--ease-out);
   width: 0%;
   position: relative;
 }
 
 #progress-bar::after {
-  content: '⭐';
+  content: '';
   position: absolute;
   right: -14px;
   top: 50%;
-  font-size: 1.05rem;
-  filter: drop-shadow(0 2px 0 rgba(92, 71, 96, 0.2));
-  animation: starBounce 0.8s ease-in-out infinite;
+  width: 22px;
+  height: 22px;
+  transform: translateY(-50%);
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23FFC94D' d='M12 2l2.9 6.3 6.9.7-5.2 4.6 1.5 6.7L12 16.9 5.9 20.3l1.5-6.7L2.2 9l6.9-.7z'/%3E%3C/svg%3E") center / contain no-repeat;
+  filter: drop-shadow(0 2px 0 rgba(var(--ink-rgb), 0.2));
 }
 
 /* Question card with washi tape */
@@ -681,10 +713,6 @@ nav.open {
   line-height: 1.6;
 }
 
-#question-text::before {
-  content: '💭 ';
-}
-
 @media (min-width: 640px) {
   #question-text { font-size: 1.15rem; margin-bottom: 24px; }
 }
@@ -703,7 +731,7 @@ nav.open {
   border: 3px solid var(--border);
   border-radius: 18px;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: border-color var(--transition), background-color var(--transition), transform var(--transition);
   background: var(--surface);
   font-size: 0.9rem;
   line-height: 1.4;
@@ -721,7 +749,7 @@ nav.open {
 .option:hover:not(.disabled) {
   border-color: var(--primary);
   background: #FFF3F8;
-  transform: translateX(6px) rotate(0.4deg);
+  transform: translateX(6px);
 }
 
 .option.selected {
@@ -739,7 +767,7 @@ nav.open {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  transition: all var(--transition);
+  transition: background-color var(--transition), border-color var(--transition), color var(--transition);
   font-size: 0.75rem;
   font-weight: 800;
 }
@@ -866,7 +894,7 @@ nav.open {
   padding: 6px 20px;
   border-radius: 999px;
   border: 2.5px solid #FFFFFF;
-  box-shadow: 0 3px 0 rgba(214, 143, 178, 0.3);
+  box-shadow: 0 3px 0 rgba(var(--shadow-rgb), 0.3);
   font-size: 0.85rem;
   font-weight: 800;
   transform: rotate(-2deg);
@@ -903,7 +931,7 @@ nav.open {
   border-radius: 999px;
   display: inline-block;
   border: 2.5px solid #FFFFFF;
-  box-shadow: 0 3px 0 rgba(214, 143, 178, 0.25);
+  box-shadow: 0 3px 0 rgba(var(--shadow-rgb), 0.25);
 }
 
 .review-section-heading:first-child {
@@ -927,11 +955,11 @@ nav.open {
   padding: 16px;
   margin-bottom: 12px;
   box-shadow: var(--shadow-sticker);
-  transition: all var(--transition);
+  transition: transform var(--transition), box-shadow var(--transition);
 }
 
 .review-item:hover {
-  transform: translateY(-3px) rotate(-0.4deg);
+  transform: translateY(-3px);
   box-shadow: var(--shadow-pop);
 }
 
@@ -964,6 +992,12 @@ nav.open {
   animation: confettiPop 1s ease-out forwards;
 }
 
+.confetti svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .confetti.fall {
   animation-name: confettiFall;
   animation-timing-function: linear;
@@ -981,26 +1015,9 @@ nav.open {
   50%      { transform: translateY(-18px) rotate(5deg); }
 }
 
-@keyframes mascotBounce {
-  0%, 100% { transform: translateY(0) scale(1); }
-  30%      { transform: translateY(-6px) scale(1.06); }
-  60%      { transform: translateY(0) scale(0.95); }
-}
-
-@keyframes wiggle {
-  0%, 100% { transform: rotate(0); }
-  25%      { transform: rotate(-4deg) scale(1.05); }
-  75%      { transform: rotate(4deg) scale(1.05); }
-}
-
 @keyframes stickerPop {
   from { opacity: 0; transform: scale(0.5) rotate(-8deg); }
   to   { opacity: 1; transform: scale(1) rotate(0); }
-}
-
-@keyframes stickerWiggle {
-  0%, 100% { transform: rotate(6deg); }
-  50%      { transform: rotate(14deg); }
 }
 
 @keyframes popCorrect {
@@ -1014,11 +1031,6 @@ nav.open {
   25%      { transform: translateX(-6px); }
   50%      { transform: translateX(5px); }
   75%      { transform: translateX(-3px); }
-}
-
-@keyframes starBounce {
-  0%, 100% { transform: translateY(-50%) scale(1); }
-  50%      { transform: translateY(-75%) scale(1.18); }
 }
 
 @keyframes bump {

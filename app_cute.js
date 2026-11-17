@@ -37,15 +37,34 @@ function showView(id) {
 
 /* ── Dashboard ─────────────────────────────────── */
 
-const CARD_STICKERS = ['📚', '✏️', '🌈', '🍬', '🧠', '🎀', '🦄', '🍀', '⭐', '🍩'];
+/* Hand-drawn-style SVG stickers (one cohesive pastel set) — replaces system emoji,
+   which render differently per OS and are missing on older iOS versions. */
+const STICKERS = {
+  flower: '<svg viewBox="0 0 24 24"><g fill="#FF9DBF"><circle cx="12" cy="5.5" r="3.4"/><circle cx="18.3" cy="10" r="3.4"/><circle cx="15.9" cy="17.4" r="3.4"/><circle cx="8.1" cy="17.4" r="3.4"/><circle cx="5.7" cy="10" r="3.4"/></g><circle cx="12" cy="12" r="3" fill="#FFD466"/></svg>',
+  star: '<svg viewBox="0 0 24 24"><path fill="#FFC94D" d="M12 2l2.9 6.3 6.9.7-5.2 4.6 1.5 6.7L12 16.9 5.9 20.3l1.5-6.7L2.2 9l6.9-.7z"/></svg>',
+  heart: '<svg viewBox="0 0 24 24"><path fill="#FF7DAE" d="M12 21C6.6 17 3 13.6 3 9.9 3 7.2 5 5 7.6 5c1.8 0 3.4 1 4.4 2.6C13 6 14.6 5 16.4 5 19 5 21 7.2 21 9.9c0 3.7-3.6 7.1-9 11.1z"/></svg>',
+  candy: '<svg viewBox="0 0 24 24"><path d="M4.5 9.5 7 11.5 4.5 14.5z" fill="#FF7DAE"/><path d="M19.5 9.5 17 11.5 19.5 14.5z" fill="#FF7DAE"/><circle cx="12" cy="12" r="5.5" fill="#FF9DBF"/><path d="M9.5 7.6c1.6 2.8 1.6 6 0 8.8M14.5 7.6c-1.6 2.8-1.6 6 0 8.8" stroke="#FFF6E9" stroke-width="1.4" fill="none" stroke-linecap="round"/></svg>',
+  rainbow: '<svg viewBox="0 0 24 24"><g fill="none" stroke-linecap="round"><path d="M4 17a8 8 0 0 1 16 0" stroke="#FF9DBF" stroke-width="2.6"/><path d="M8 17a4 4 0 0 1 8 0" stroke="#FFD466" stroke-width="2.6"/><path d="M11.2 17h1.6" stroke="#7FD1AE" stroke-width="2.6"/></g></svg>',
+  bubble: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="#CDE8FB" opacity=".9"/><circle cx="9" cy="9" r="2.4" fill="#fff" opacity=".9"/></svg>',
+  book: '<svg viewBox="0 0 24 24"><path fill="#8FA6E8" d="M4 5.5C6.5 4 9.5 4 11.2 5.2v13.3C9.5 17.3 6.5 17.3 4 18.8z"/><path fill="#B8C8F2" d="M12.8 5.2C14.5 4 17.5 4 20 5.5v13.3c-2.5-1.5-5.5-1.5-7.2-.3z"/></svg>',
+  pencil: '<svg viewBox="0 0 24 24"><g transform="rotate(45 12 12)"><rect x="10" y="2" width="4" height="14" rx="1" fill="#FFD466"/><rect x="10" y="2" width="4" height="4" fill="#FF9DBF"/><path d="M10 16h4l-2 4z" fill="#B08968"/></g></svg>',
+  bulb: '<svg viewBox="0 0 24 24"><circle cx="12" cy="10" r="6.5" fill="#FFE082"/><rect x="9.5" y="16" width="5" height="3.5" rx="1.2" fill="#B08968"/></svg>',
+  bow: '<svg viewBox="0 0 24 24"><path fill="#FF9DBF" d="M11 12C7.5 8.5 4 9 4 11.5S7.5 15.5 11 12z"/><path fill="#FF9DBF" d="M13 12c3.5-3.5 7-3 7-.5S16.5 15.5 13 12z"/><circle cx="12" cy="12" r="2.2" fill="#FF7DAE"/></svg>',
+  spark: '<svg viewBox="0 0 24 24"><path fill="#C5B3FF" d="M12 3l1.8 4.2L18 9l-4.2 1.8L12 15l-1.8-4.2L6 9l4.2-1.8z"/><path fill="#FF9DBF" d="M18 15l.9 2.1L21 18l-2.1.9L18 21l-.9-2.1L15 18l2.1-.9z"/></svg>',
+  clover: '<svg viewBox="0 0 24 24"><g fill="#7FD1AE"><circle cx="9" cy="9" r="3.6"/><circle cx="15" cy="9" r="3.6"/><circle cx="9" cy="15" r="3.6"/><circle cx="15" cy="15" r="3.6"/></g><path d="M13 16c0 2 .8 3.5 2 4.5" stroke="#5FB894" stroke-width="1.4" fill="none" stroke-linecap="round"/></svg>',
+  donut: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="#FFB86B"/><circle cx="12" cy="12" r="3" fill="#FFF6E9"/><g fill="#FF7DAE"><rect x="8" y="6.5" width="3" height="1.4" rx=".7" transform="rotate(30 9.5 7.2)"/><rect x="14" y="9" width="3" height="1.4" rx=".7" transform="rotate(-20 15.5 9.7)"/><rect x="7" y="14" width="3" height="1.4" rx=".7" transform="rotate(15 8.5 14.7)"/></g></svg>',
+  pin: '<svg viewBox="0 0 24 24"><path fill="#FF7DAE" d="M12 3a5 5 0 0 1 5 5c0 3.5-3 5.5-4 8h-2c-1-2.5-4-4.5-4-8a5 5 0 0 1 5-5z"/><circle cx="12" cy="8" r="1.8" fill="#fff"/><path d="M12 16v4" stroke="#FF7DAE" stroke-width="2" stroke-linecap="round"/></svg>'
+};
+
+const CARD_STICKERS = ['book', 'pencil', 'rainbow', 'candy', 'bulb', 'bow', 'spark', 'clover', 'star', 'donut'];
 
 function renderDashboard() {
   const container = document.getElementById('quiz-list');
   if (!state.quizzes.length) {
     container.innerHTML = `
       <div class="empty-state">
-        <p class="empty-emoji">📚</p>
-        <p>No quizzes yet — let's make your first one! 🎀</p>
+        <p class="empty-emoji">${STICKERS.book}</p>
+        <p>No quizzes yet — let's make your first one!</p>
         <button class="btn primary" onclick="showView('import')">Import Questions</button>
       </div>`;
     return;
@@ -58,10 +77,10 @@ function renderDashboard() {
     resumeHtml = `
       <div class="resume-banner" onclick="resumeQuiz()">
         <div class="resume-info">
-          <strong>📌 ${escapeHtml(state.currentQuiz.name)}</strong>
+          <strong>${STICKERS.pin} ${escapeHtml(state.currentQuiz.name)}</strong>
           <span class="resume-progress">${answered}/${total} answered</span>
         </div>
-        <button class="btn primary">Continue ♡</button>
+        <button class="btn primary">Continue</button>
       </div>`;
   }
 
@@ -70,7 +89,7 @@ function renderDashboard() {
     const sticker = CARD_STICKERS[i % CARD_STICKERS.length];
     return `
     <div class="quiz-card">
-      <span class="card-sticker" aria-hidden="true">${sticker}</span>
+      <span class="card-sticker" aria-hidden="true">${STICKERS[sticker]}</span>
       <h3>${escapeHtml(q.name)}</h3>
       <div class="meta">${q.questions.length} questions</div>
       <div class="card-actions">
@@ -112,7 +131,7 @@ function importSample() {
     { question: 'What is the largest ocean?', options: ['Atlantic', 'Indian', 'Arctic', 'Pacific'], correct: 3 },
   ], null, 2);
   document.getElementById('json-input').value = sample;
-  setImportStatus('Sample loaded. Click Import to add it. ✨', 'ok');
+  setImportStatus('Sample loaded. Click Import to add it.', 'ok');
 }
 
 function parseQuestions(arr) {
@@ -142,7 +161,7 @@ function importFromText() {
   var el = document.getElementById('json-input');
   if (!el) return;
   var raw = el.value.trim();
-  if (!raw) { setImportStatus('Paste some JSON first. 🫧', 'err'); return; }
+  if (!raw) { setImportStatus('Paste some JSON first.', 'err'); return; }
   try {
     var data = JSON.parse(raw);
     var questions, name;
@@ -224,16 +243,15 @@ function renderQuestion() {
     let cls = 'option';
     if (selected === i) cls += ' selected';
 
-    let extra = '';
     if (state.reviewed || answered) {
       cls += ' disabled';
-      if (i === q.correct) { cls += ' correct'; extra = ' ✅'; }
-      if (selected === i && selected !== q.correct) { cls += ' wrong'; extra = ' ❌'; }
+      if (i === q.correct) cls += ' correct';
+      if (selected === i && selected !== q.correct) cls += ' wrong';
     }
 
     return `<div class="${cls}" data-index="${i}" onclick="selectOption(event, ${i})">
       <span class="indicator">${labels[i] || i}</span>
-      <span>${escapeHtml(opt)}${extra}</span>
+      <span>${escapeHtml(opt)}</span>
     </div>`;
   }).join('');
 
@@ -331,10 +349,10 @@ function showResults() {
   const pct = Math.round((correct / total) * 100);
 
   let badge, badgeClass;
-  if (pct === 100) { badge = 'Perfect! 🏆'; badgeClass = 'perfect'; }
-  else if (pct >= 80) { badge = 'Great! 🌟'; badgeClass = 'great'; }
-  else if (pct >= 60) { badge = 'Good 🍬'; badgeClass = 'good'; }
-  else { badge = 'Keep practicing 🌱'; badgeClass = 'poor'; }
+  if (pct === 100) { badge = 'Perfect!'; badgeClass = 'perfect'; }
+  else if (pct >= 80) { badge = 'Great!'; badgeClass = 'great'; }
+  else if (pct >= 60) { badge = 'Good'; badgeClass = 'good'; }
+  else { badge = 'Keep practicing'; badgeClass = 'poor'; }
 
   document.getElementById('results-summary').innerHTML = `
     <div class="score">${correct}/${total}</div>
@@ -374,7 +392,7 @@ function showResults() {
 
   showView('results');
 
-  // confetti rain for a job well done 🎉
+  // confetti rain for a job well done
   if (pct === 100) confettiRain(60);
   else if (pct >= 60) confettiRain(34);
 }
@@ -409,17 +427,19 @@ function escapeHtml(str) {
 
 /* ── Cute confetti ─────────────────────────────── */
 
-const CONFETTI_EMOJI = ['🌸', '⭐', '💖', '🫧', '🍬', '✨', '🌼', '🎀'];
+const CONFETTI_PIECES = ['star', 'heart', 'flower', 'bubble', 'spark'];
 
 function burstConfetti(x, y, count) {
   const n = count || 22;
   for (let i = 0; i < n; i++) {
     const s = document.createElement('span');
     s.className = 'confetti';
-    s.textContent = CONFETTI_EMOJI[Math.floor(Math.random() * CONFETTI_EMOJI.length)];
+    s.innerHTML = STICKERS[CONFETTI_PIECES[Math.floor(Math.random() * CONFETTI_PIECES.length)]];
     s.style.left = x + 'px';
     s.style.top = y + 'px';
-    s.style.fontSize = (13 + Math.random() * 16) + 'px';
+    const size = (13 + Math.random() * 16).toFixed(0) + 'px';
+    s.style.width = size;
+    s.style.height = size;
     s.style.setProperty('--dx', ((Math.random() - 0.5) * 260).toFixed(0) + 'px');
     s.style.setProperty('--dy', (-(Math.random() * 200) - 40).toFixed(0) + 'px');
     s.style.setProperty('--rot', ((Math.random() - 0.5) * 540).toFixed(0) + 'deg');
@@ -434,10 +454,12 @@ function confettiRain(count) {
   for (let i = 0; i < n; i++) {
     const s = document.createElement('span');
     s.className = 'confetti fall';
-    s.textContent = CONFETTI_EMOJI[Math.floor(Math.random() * CONFETTI_EMOJI.length)];
+    s.innerHTML = STICKERS[CONFETTI_PIECES[Math.floor(Math.random() * CONFETTI_PIECES.length)]];
     s.style.left = (Math.random() * 100).toFixed(1) + 'vw';
     s.style.top = '-40px';
-    s.style.fontSize = (14 + Math.random() * 16) + 'px';
+    const size = (14 + Math.random() * 16).toFixed(0) + 'px';
+    s.style.width = size;
+    s.style.height = size;
     s.style.setProperty('--dx', ((Math.random() - 0.5) * 120).toFixed(0) + 'px');
     s.style.setProperty('--dy', (window.innerHeight + 80).toFixed(0) + 'px');
     s.style.setProperty('--rot', ((Math.random() - 0.5) * 720).toFixed(0) + 'deg');
