@@ -35,9 +35,6 @@ function showView(id) {
   if (id === 'dashboard') renderDashboard();
 }
 
-loadState();
-renderDashboard();
-
 /* ── Dashboard ─────────────────────────────────── */
 
 const CARD_STICKERS = ['📚', '✏️', '🌈', '🍬', '🧠', '🎀', '🦄', '🍀', '⭐', '🍩'];
@@ -548,3 +545,6 @@ function confettiRain(count) {
     });
   }
 })();
+
+loadState();
+renderDashboard();
