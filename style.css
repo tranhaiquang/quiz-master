@@ -5,22 +5,23 @@
 }
 
 :root {
-  --bg: #f0f2f5;
-  --surface: #ffffff;
-  --surface-hover: #f7f8fa;
-  --text: #1a1a2e;
-  --text-secondary: #6b7280;
-  --primary: #6366f1;
-  --primary-hover: #4f46e5;
-  --success: #22c55e;
-  --success-bg: #dcfce7;
-  --error: #ef4444;
-  --error-bg: #fee2e2;
-  --border: #e5e7eb;
-  --radius: 12px;
-  --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
-  --shadow-lg: 0 10px 25px rgba(0,0,0,0.1);
-  --transition: 0.2s ease;
+  /* shortcut: no dealt direction — skill's scripts/library folder is empty, palette chosen by hand for a study app */
+  --bg: #e9e7e0;
+  --surface: #f6f5f1;
+  --surface-hover: #edeae3;
+  --text: #22211e;
+  --text-secondary: #5f5d56;
+  --primary: #1f6a43;
+  --primary-hover: #175234;
+  --success: #1f6a43;
+  --success-bg: #dfe9e0;
+  --error: #b03a2a;
+  --error-bg: #ead9d4;
+  --border: #d8d5cb;
+  --radius: 4px;
+  --shadow: none;
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.18);
+  --transition: 0.15s ease;
 }
 
 body {
@@ -49,7 +50,6 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 16px 0;
-  border-bottom: 1px solid var(--border);
   margin-bottom: 24px;
   position: relative;
 }
@@ -60,11 +60,9 @@ header {
 
 .logo {
   font-size: 1.25rem;
-  font-weight: 700;
-  background: linear-gradient(135deg, var(--primary), #a855f7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text);
 }
 
 @media (min-width: 640px) {
@@ -237,13 +235,13 @@ nav.open {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  background: linear-gradient(135deg, #eef2ff, #e0e7ff);
-  border: 2px solid var(--primary);
+  background: var(--primary);
+  border: none;
   border-radius: var(--radius);
   padding: 14px 16px;
   margin-bottom: 16px;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: opacity var(--transition);
 }
 
 .resume-banner:active {
@@ -259,6 +257,7 @@ nav.open {
 
 .resume-info strong {
   font-size: 0.95rem;
+  color: #f6f5f1;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -266,7 +265,7 @@ nav.open {
 
 .resume-progress {
   font-size: 0.8rem;
-  color: var(--text-secondary);
+  color: rgba(246,245,241,0.85);
 }
 
 .resume-banner .btn {
@@ -294,8 +293,7 @@ nav.open {
 }
 
 .quiz-card:hover {
-  box-shadow: var(--shadow-lg);
-  transform: translateY(-2px);
+  background: var(--surface-hover);
   border-color: var(--primary);
 }
 
@@ -320,6 +318,7 @@ nav.open {
   justify-content: center;
   padding: 10px 12px;
   font-size: 0.85rem;
+  white-space: nowrap;
 }
 
 @media (min-width: 640px) {
@@ -372,7 +371,7 @@ nav.open {
 .import-main textarea:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(99,102,241,0.15);
+  box-shadow: 0 0 0 3px rgba(31,106,67,0.2);
 }
 
 .import-actions {
@@ -486,7 +485,7 @@ nav.open {
 
 #progress-bar {
   height: 100%;
-  background: linear-gradient(90deg, var(--primary), #a855f7);
+  background: var(--primary);
   border-radius: 3px;
   transition: width 0.3s ease;
   width: 0%;
@@ -548,12 +547,12 @@ nav.open {
 
 .option:hover {
   border-color: var(--primary);
-  background: #f8f8ff;
+  background: var(--surface-hover);
 }
 
 .option.selected {
   border-color: var(--primary);
-  background: #eef2ff;
+  background: var(--success-bg);
 }
 
 .option .indicator {
@@ -648,10 +647,8 @@ nav.open {
 .results-summary .score {
   font-size: 2.5rem;
   font-weight: 800;
-  background: linear-gradient(135deg, var(--primary), #a855f7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  letter-spacing: -0.02em;
+  color: var(--text);
 }
 
 @media (min-width: 640px) {

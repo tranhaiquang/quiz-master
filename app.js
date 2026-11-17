@@ -41,8 +41,7 @@ function renderDashboard() {
   if (!state.quizzes.length) {
     container.innerHTML = `
       <div class="empty-state">
-        <p style="font-size:2.5rem;margin-bottom:8px">📝</p>
-        <p>No quizzes yet. Import some questions to get started!</p>
+        <p>No quizzes yet. Import some questions to get started.</p>
         <button class="btn primary" onclick="showView('import')">Import Questions</button>
       </div>`;
     return;
